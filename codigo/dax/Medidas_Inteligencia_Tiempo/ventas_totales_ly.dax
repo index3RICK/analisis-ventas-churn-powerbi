@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : ventas_totales_ly
+// Tabla  : Medidas_Inteligencia_Tiempo
+// Paneles: 2, 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Ventas del mismo periodo del año anterior (SAMEPERIODLASTYEAR). Alimenta "Referencia LY".
+// ---------------------------------------------------------------------
+
+ventas_totales_ly =
+CALCULATE(
+    [ventas_totales],
+    SAMEPERIODLASTYEAR(DIM_Calendario[Fecha])       // mismo periodo, un año antes
+)
