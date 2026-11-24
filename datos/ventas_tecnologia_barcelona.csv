@@ -1,0 +1,962 @@
+﻿Agencia,Vendedor,Cliente,Ciudad,tipocliente,DNI,Factura,Fecha,Precio,Cantidad,Descuento,Iva,Total,codigocategoria,categorianombre,marcanombre,codigoarticulo,descripcionarticulo
+Tech BCN Sur,Nuria Pascual,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000115,01-05-2018,$124.43,7,20%,21%,$843.14,KVM,KVM Switches,DYNABOOK,KVMDYNGHGK5BWI,KVM Switches DYNABOOK
+Tech BCN Sur,Nuria Pascual,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000115,01-05-2018,$141.09,7,10%,21%,$1075.53,TBL,Tablets,AMD,TBLAMDDNPX2I9T,Tablets AMD
+Tech BCN Sur,Nuria Pascual,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000115,01-05-2018,$995.54,5,0%,21%,$6023.02,TBL,Tablets,INTEL,TBLINT2MULJAVB,Tablets INTEL
+Tech BCN Sur,Nuria Pascual,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000115,01-05-2018,$916.02,4,12%,21%,$3901.51,TBL,Tablets,Hp,TBLHPXMVIFIIT2,Tablets Hp
+Tech BCN Centro,Jordi Serra,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000088,26-08-2020,$211.62,8,20%,21%,$1638.79,MIC,Micrófonos,XEROX,MICXER0MVZMUF8,Micrófonos XEROX alta fidelidad
+Tech BCN Centro,Jordi Serra,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000088,26-08-2020,$32.62,12,3%,21%,$459.43,WBC,Cámaras Web,ARGOM,WBCARGRDIHSA7H,Cámaras Web ARGOM
+Tech BCN Centro,Jordi Serra,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000088,26-08-2020,$236.35,7,2%,21%,$1961.85,MIC,Micrófonos,AMD,MICAMDAV71448N,Micrófonos AMD alta fidelidad
+Tech BCN Centro,Jordi Serra,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000088,26-08-2020,$201.07,10,10%,21%,$2189.65,AUD,Audífonos,CANON,AUDCANL90PXRLZ,Audífonos CANON alta fidelidad
+Tech BCN Centro,Jordi Serra,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000088,26-08-2020,$110.49,10,0%,21%,$1336.93,HDE,Discos Duros Externos,LOGITECH,HDELOGVGLYE088,Discos Duros Externos LOGITECH 32GB
+Tech BCN Norte,Marta Soler,Javier Serra,Barcelona,Final,DNI4193690557,FAC000072,23-06-2020,$1724.07,6,15%,21%,$10639.24,LAP,Laptops,GENIUS,LAPGENF0I9G5DZ,"Laptops GENIUS i3, 16GB RAM, SSD 256GB"
+Tech BCN Norte,Marta Soler,Javier Serra,Barcelona,Final,DNI4193690557,FAC000072,23-06-2020,$160.60,7,10%,21%,$1224.25,SSD,Unidades SSD,SAMSUNG,SSDSAMCJDAN085,Unidades SSD SAMSUNG 2TB
+Tech BCN Norte,Marta Soler,Javier Serra,Barcelona,Final,DNI4193690557,FAC000072,23-06-2020,$45.22,5,2%,21%,$268.11,PSU,Fuentes de Poder,APC,PSUAPC32U1IQ2B,Fuentes de Poder APC
+Tech BCN Norte,Marta Soler,Javier Serra,Barcelona,Final,DNI4193690557,FAC000072,23-06-2020,$481.02,1,12%,21%,$512.19,MON,Monitores,CDP,MONCDPGN0T6DVW,"Monitores CDP 34"" 75Hz"
+Tech BCN Norte,Marta Soler,Javier Serra,Barcelona,Final,DNI4193690557,FAC000072,23-06-2020,$40.97,4,2%,21%,$194.33,HUB,Hubs USB,DYNABOOK,HUBDYNFDHGZZ0J,Hubs USB DYNABOOK
+Tech BCN Sur,Marta Soler,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000116,01-03-2024,$101.71,2,15%,21%,$209.22,RED,Equipos de Red,AMD,REDAMDMPKXVHAG,Equipos de Red AMD gigabit
+Tech BCN Sur,Marta Soler,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000116,01-03-2024,$36.12,1,7%,21%,$40.65,TEC,Teclados,CANON,TECCAN2Q6JXNNN,Teclados CANON
+Tech BCN Sur,Marta Soler,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000116,01-03-2024,$348.77,10,5%,21%,$4009.11,SWI,Switches,EPSON,SWIEPSJ4UFZDY3,Switches EPSON gigabit
+Tech BCN Sur,Marta Soler,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000116,01-03-2024,$32.90,12,0%,21%,$477.71,GAM,Accesorios Gaming,AMD,GAMAMD43PT5R5R,Accesorios Gaming AMD
+Tech BCN Centro,María Vidal,Arturo Sánchez,Barcelona,Ecommerce,DNI6412639014,FAC000050,14-01-2023,$140.26,12,2%,21%,$1995.84,UPS,UPS,ASROCK,UPSASR3EP9P9W4,UPS ASROCK
+Tech BCN Centro,María Vidal,Arturo Sánchez,Barcelona,Ecommerce,DNI6412639014,FAC000050,14-01-2023,$1472.53,2,12%,21%,$3135.90,CPU,Computadoras,DELL TECHNOLOGY,CPUDELUT4S7AZV,"Computadoras DELL TECHNOLOGY i5, 8GB RAM, SSD 1TB"
+Tech DCM Barcelona,María Vidal,Mateo Ortega,Barcelona,Distribuidor,DNI9229977644,FAC000047,23-04-2024,$799.16,11,12%,21%,$9360.40,PRJ,Proyectores,INTEL,PRJINT55JXURGO,Proyectores INTEL profesional
+Tech BCN Sur,Laura Gómez,Marc López,Barcelona,Final,DNI4498251982,FAC000132,31-08-2020,$132.68,4,3%,21%,$622.91,DVR,DVR/NVR Seguridad,GENIUS,DVRGEN76A3KKRZ,DVR/NVR Seguridad GENIUS profesional
+Tech BCN Sur,Laura Gómez,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000091,08-01-2021,$97.06,2,7%,21%,$218.44,HUB,Hubs USB,LG,HUBLGXDP6ORSNC,Hubs USB LG
+Tech BCN Sur,Laura Gómez,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000091,08-01-2021,$29.26,1,10%,21%,$31.86,KIT,Kits/Combos Periféricos,Hp,KITHPXO2SUG5HC,Kits/Combos Periféricos Hp
+Tech BCN Sur,Laura Gómez,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000091,08-01-2021,$69.72,8,20%,21%,$539.91,KIT,Kits/Combos Periféricos,ASROCK,KITASRJ3SWEBNV,Kits/Combos Periféricos ASROCK
+Tech BCN Sur,Laura Gómez,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000091,08-01-2021,$579.65,4,5%,21%,$2665.23,SFT,Software,CORSAIR,SFTCORF60YKNFU,Software CORSAIR
+Tech BCN Centro,Pau Ríos,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000316,22-04-2025,$327.67,5,7%,21%,$1843.64,SCN,Escáneres,ADATA,SCNADA58YREG2I,Escáneres ADATA profesional
+Tech BCN Centro,Pau Ríos,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000316,22-04-2025,$299.84,6,20%,21%,$1741.47,RTR,Routers,DELL TECHNOLOGY,RTRDEL4QHKSWVA,Routers DELL TECHNOLOGY gigabit
+Tech BCN Centro,Pau Ríos,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000316,22-04-2025,$657.32,11,7%,21%,$8136.50,SBR,Barras de Sonido,LESMARK,SBRLESVKDC9X5J,Barras de Sonido LESMARK alta fidelidad
+Tech BCN Centro,Pau Ríos,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000316,22-04-2025,$7.16,8,7%,21%,$64.46,FME,Flash Memory,MAC,FMEMACSIC43OLF,Flash Memory MAC 128GB
+Tech BCN Sur,Sergio Martín,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000303,25-05-2018,$104.05,3,20%,21%,$302.16,KIT,Kits/Combos Periféricos,KIGNSTON,KITKIG3MZYWR7M,Kits/Combos Periféricos KIGNSTON
+Tech BCN Sur,Sergio Martín,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000303,25-05-2018,$26.97,6,5%,21%,$186.01,SUM,Suministros,CANON,SUMCANDEJ31GYM,Suministros CANON
+Tech BCN Sur,Sergio Martín,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000303,25-05-2018,$489.43,10,2%,21%,$5803.66,DVR,DVR/NVR Seguridad,CANON,DVRCANP5NVQEBW,DVR/NVR Seguridad CANON profesional
+Tech BCN Sur,Sergio Martín,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000303,25-05-2018,$561.93,10,15%,21%,$5779.45,TBL,Tablets,ASROCK,TBLASRS5NKB4EH,Tablets ASROCK
+Tech BCN Sur,Sergio Martín,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000303,25-05-2018,$78.63,3,3%,21%,$276.86,RED,Equipos de Red,CDP,REDCDP5GCL9LCQ,Equipos de Red CDP gigabit
+Tech DCM Barcelona,Jordi Serra,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000225,21-11-2024,$169.15,4,0%,21%,$818.69,NIC,Tarjetas de Red,DYNABOOK,NICDYNO8NBHNAL,Tarjetas de Red DYNABOOK gigabit
+Tech DCM Barcelona,Jordi Serra,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000225,21-11-2024,$293.63,5,7%,21%,$1652.11,KVM,KVM Switches,ADATA,KVMADAWIYMENVG,KVM Switches ADATA
+Tech DCM Barcelona,Jordi Serra,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000225,21-11-2024,$347.54,7,0%,21%,$2943.66,NAS,Almacenamiento NAS,SONY,NASSONSSPYE9R1,Almacenamiento NAS SONY
+Tech DCM Barcelona,Jordi Serra,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000225,21-11-2024,$197.78,5,20%,21%,$957.26,HDE,Discos Duros Externos,ASUS,HDEASU0E0VGNXB,Discos Duros Externos ASUS 4TB
+Tech DCM Barcelona,María Vidal,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000057,01-05-2025,$235.72,2,20%,21%,$456.35,IMP,Impresoras,SAMSUNG,IMPSAMEPEJZHYA,Impresoras SAMSUNG profesional
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000309,06-03-2019,$86.78,5,3%,21%,$509.27,SDC,Lectores de Tarjetas SD,LESMARK,SDCLESEEDHHJSH,Lectores de Tarjetas SD LESMARK 8GB
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000309,06-03-2019,$153.29,2,20%,21%,$296.77,GAM,Accesorios Gaming,GENIUS,GAMGEN6YRIADDU,Accesorios Gaming GENIUS
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000309,06-03-2019,$798.05,5,10%,21%,$4345.38,MON,Monitores,SONY,MONSON06XQ9JB3,"Monitores SONY 34"" 120Hz"
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000309,06-03-2019,$287.42,5,2%,21%,$1704.11,RTR,Routers,SONY,RTRSONE46AEXL6,Routers SONY gigabit
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000309,06-03-2019,$96.64,2,3%,21%,$226.85,CAB,Cables y Adaptadores,CDP,CABCDPGO8JN42X,Cables y Adaptadores CDP
+Tech DCM Barcelona,Jordi Serra,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000024,01-03-2019,$146.28,3,15%,21%,$451.35,PWB,Power Banks,GENIUS,PWBGEN2YGNMBY4,Power Banks GENIUS
+Tech DCM Barcelona,Jordi Serra,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000024,01-03-2019,$1335.94,4,10%,21%,$5819.35,PHN,Smartphones,APC,PHNAPC5PCXA5S0,Smartphones APC
+Tech DCM Barcelona,Jordi Serra,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000024,01-03-2019,$668.09,10,0%,21%,$8083.89,SMW,Smartwatches,Hp,SMWHPXYWP0RXXF,Smartwatches Hp
+Tech DCM Barcelona,Jordi Serra,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000024,01-03-2019,$20.30,9,5%,21%,$210.01,ACC,Accesorios,LG,ACCLGX7SQRF1LL,Accesorios LG
+Tech BCN Sur,Sergio Martín,Mateo Navarro,Barcelona,Distribuidor,DNI9989711948,FAC000025,20-08-2020,$689.03,9,20%,21%,$6002.83,NAS,Almacenamiento NAS,EPSON,NASEPS2Q4QERXD,Almacenamiento NAS EPSON
+Tech DCM Barcelona,Marta Soler,Javier López,Barcelona,Distribuidor,DNI7211755002,FAC000077,10-12-2024,$332.69,8,10%,21%,$2898.40,SCN,Escáneres,INTEL,SCNINTHY8NBIQU,Escáneres INTEL profesional
+Tech DCM Barcelona,Marta Soler,Javier López,Barcelona,Distribuidor,DNI7211755002,FAC000077,10-12-2024,$216.59,1,3%,21%,$254.21,KIT,Kits/Combos Periféricos,EPSON,KITEPSE1HM38KS,Kits/Combos Periféricos EPSON
+Tech DCM Barcelona,Marta Soler,Javier López,Barcelona,Distribuidor,DNI7211755002,FAC000077,10-12-2024,$1505.25,4,10%,21%,$6556.87,PHN,Smartphones,MAC,PHNMAC30OJHE4H,Smartphones MAC
+Tech BCN Sur,Luis Pons,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000288,06-02-2025,$70.59,10,15%,21%,$726.02,TEC,Teclados,TP-LINK,TECTPL6QVS8A0T,Teclados TP-LINK
+Tech BCN Sur,Luis Pons,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000288,06-02-2025,$281.81,7,12%,21%,$2100.50,SCN,Escáneres,TP-LINK,SCNTPL7GU0ENV5,Escáneres TP-LINK profesional
+Tech BCN Sur,Luis Pons,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000288,06-02-2025,$92.33,5,20%,21%,$446.88,HUB,Hubs USB,SAMSUNG,HUBSAM1J88QEOZ,Hubs USB SAMSUNG
+Tech BCN Sur,Luis Pons,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000288,06-02-2025,$181.94,3,20%,21%,$528.35,MIC,Micrófonos,SAMSUNG,MICSAM0THHZY7E,Micrófonos SAMSUNG alta fidelidad
+Tech BCN Sur,Luis Pons,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000288,06-02-2025,$1356.72,9,7%,21%,$13740.45,VRG,Realidad Virtual/AR,SAMSUNG,VRGSAMWZ1UU7ZY,Realidad Virtual/AR SAMSUNG
+Tech BCN Sur,Luis Pons,Lucía Ríos,Barcelona,Ecommerce,DNI3626704126,FAC000049,12-11-2023,$57.72,5,5%,21%,$331.75,MOU,Mouse,DELL TECHNOLOGY,MOUDELFYH1FKJ4,Mouse DELL TECHNOLOGY
+Tech DCM Barcelona,Laura Gómez,Raúl Vidal,Barcelona,Final,DNI3992645238,FAC000302,28-01-2023,$245.99,7,12%,21%,$1833.51,DCK,Docking Stations,LOGITECH,DCKLOG050UI22K,Docking Stations LOGITECH
+Tech BCN Norte,Carlos Díaz,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000101,09-08-2018,$495.41,12,5%,21%,$6833.69,DVR,DVR/NVR Seguridad,BENQ,DVRBENH54PIWZN,DVR/NVR Seguridad BENQ profesional
+Tech BCN Centro,Pau Ríos,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000032,13-01-2023,$111.61,6,15%,21%,$688.75,KVM,KVM Switches,AMAZON,KVMAMAGGSNPUEV,KVM Switches AMAZON
+Tech BCN Centro,Pau Ríos,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000032,13-01-2023,$174.04,2,10%,21%,$379.06,KIT,Kits/Combos Periféricos,MAC,KITMACB7V1W4K2,Kits/Combos Periféricos MAC
+Tech BCN Centro,Jordi Serra,Rubén Iglesias,Barcelona,Ecommerce,DNI3876194901,FAC000100,03-11-2023,$391.17,9,15%,21%,$3620.87,SCN,Escáneres,ARGOM,SCNARGOTDHHLMH,Escáneres ARGOM profesional
+Tech DCM Barcelona,María Vidal,Oriol Santos,Barcelona,Ecommerce,DNI2961937397,FAC000214,02-07-2025,$327.12,9,7%,21%,$3312.97,SWI,Switches,ASUS,SWIASU6WW8YL68,Switches ASUS gigabit
+Tech DCM Barcelona,María Vidal,Oriol Santos,Barcelona,Ecommerce,DNI2961937397,FAC000214,02-07-2025,$76.27,3,20%,21%,$221.49,MOU,Mouse,Hp,MOUHPX3N2QB6GS,Mouse Hp
+Tech DCM Barcelona,María Vidal,Oriol Santos,Barcelona,Ecommerce,DNI2961937397,FAC000214,02-07-2025,$1336.16,12,12%,21%,$17072.92,VRG,Realidad Virtual/AR,ADATA,VRGADAWHWHY4H3,Realidad Virtual/AR ADATA
+Tech DCM Barcelona,Jordi Serra,Bruno Sánchez,Barcelona,Ecommerce,DNI9649389366,FAC000114,08-04-2018,$146.32,7,12%,21%,$1090.61,KIT,Kits/Combos Periféricos,CDP,KITCDPBCGJC36O,Kits/Combos Periféricos CDP
+Tech DCM Barcelona,Jordi Serra,Bruno Sánchez,Barcelona,Ecommerce,DNI9649389366,FAC000114,08-04-2018,$99.06,9,2%,21%,$1057.19,MIC,Micrófonos,ADATA,MICADAOEAZC0B4,Micrófonos ADATA alta fidelidad
+Tech DCM Barcelona,Jordi Serra,Bruno Sánchez,Barcelona,Ecommerce,DNI9649389366,FAC000114,08-04-2018,$380.86,12,12%,21%,$4866.48,PRJ,Proyectores,XEROX,PRJXERYVK7N3BF,Proyectores XEROX profesional
+Tech DCM Barcelona,Jordi Serra,Bruno Sánchez,Barcelona,Ecommerce,DNI9649389366,FAC000114,08-04-2018,$897.26,9,3%,21%,$9478.03,VRG,Realidad Virtual/AR,CANON,VRGCAN8FY620N8,Realidad Virtual/AR CANON
+Tech DCM Barcelona,Luis Pons,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000164,03-06-2024,$65.63,3,5%,21%,$226.33,GAB,Gabinetes,INTEL,GABINTTDH00H64,Gabinetes INTEL
+Tech DCM Barcelona,Luis Pons,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000164,03-06-2024,$210.40,5,2%,21%,$1247.46,DCK,Docking Stations,BENQ,DCKBENGG24479Q,Docking Stations BENQ
+Tech DCM Barcelona,Luis Pons,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000164,03-06-2024,$170.94,8,15%,21%,$1406.49,MBD,Motherboards,APC,MBDAPCHU8MYIKC,Motherboards APC
+Tech DCM Barcelona,Luis Pons,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000164,03-06-2024,$277.12,12,12%,21%,$3540.93,AUD,Audífonos,LESMARK,AUDLESXYFU38GL,Audífonos LESMARK alta fidelidad
+Tech DCM Barcelona,Luis Pons,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000164,03-06-2024,$157.56,5,3%,21%,$924.64,RAM,Memoria RAM,CORSAIR,RAMCORE05QMKTG,Memoria RAM CORSAIR 2TB
+Tech BCN Norte,María Vidal,Alba Giménez,Barcelona,Ecommerce,DNI3081273872,FAC000062,05-11-2018,$267.73,3,10%,21%,$874.67,SCN,Escáneres,LG,SCNLGXBUOV6TT9,Escáneres LG profesional
+Tech BCN Centro,Marta Soler,Bruno Rovira,Barcelona,Final,DNI3071375880,FAC000005,06-04-2021,$829.51,8,3%,21%,$7788.77,NAS,Almacenamiento NAS,Hp,NASHPXSOSX43WF,Almacenamiento NAS Hp
+Tech BCN Centro,Marta Soler,Bruno Rovira,Barcelona,Final,DNI3071375880,FAC000005,06-04-2021,$21.94,6,5%,21%,$151.32,SUM,Suministros,KIGNSTON,SUMKIG8X80RMHR,Suministros KIGNSTON
+Tech BCN Centro,Carlos Díaz,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000087,19-01-2022,$744.92,10,3%,21%,$8743.13,TBL,Tablets,EPSON,TBLEPS5BXD8WJ0,Tablets EPSON
+Tech BCN Centro,Carlos Díaz,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000087,19-01-2022,$252.48,6,15%,21%,$1558.05,PSU,Fuentes de Poder,LG,PSULGXNV6CJ9IO,Fuentes de Poder LG
+Tech BCN Centro,Carlos Díaz,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000087,19-01-2022,$770.18,2,5%,21%,$1770.64,TBL,Tablets,LESMARK,TBLLESA5PISKFF,Tablets LESMARK
+Tech BCN Centro,Carlos Díaz,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000087,19-01-2022,$31.74,10,3%,21%,$372.53,COO,Refrigeración,XEROX,COOXERLEYRVXOI,Refrigeración XEROX
+Tech DCM Barcelona,Marta Soler,Marina Rey,Barcelona,Ecommerce,DNI6442497105,FAC000081,25-08-2019,$381.54,4,15%,21%,$1569.66,UPS,UPS,BENQ,UPSBEN7SO8W503,UPS BENQ
+Tech BCN Sur,Nuria Pascual,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000304,30-11-2019,$111.41,2,5%,21%,$256.13,COO,Refrigeración,LESMARK,COOLESFU1WSGY7,Refrigeración LESMARK
+Tech BCN Sur,Nuria Pascual,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000304,30-11-2019,$274.42,10,0%,21%,$3320.48,PSU,Fuentes de Poder,DELL TECHNOLOGY,PSUDELEAS6Y3VG,Fuentes de Poder DELL TECHNOLOGY
+Tech DCM Barcelona,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000203,30-05-2023,$35.24,8,12%,21%,$300.19,HUB,Hubs USB,INTEL,HUBINT361XSNBT,Hubs USB INTEL
+Tech DCM Barcelona,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000203,30-05-2023,$68.61,10,20%,21%,$664.14,SFT,Software,KIGNSTON,SFTKIG264UPJ16,Software KIGNSTON
+Tech BCN Norte,Ana Beltrán,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000235,23-01-2018,$26.56,9,12%,21%,$254.53,USB,Pendrives USB,Hp,USBHPXEAXYLNFX,Pendrives USB Hp 4TB
+Tech BCN Norte,Sergio Martín,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000247,14-04-2020,$50.04,11,2%,21%,$652.71,GAM,Accesorios Gaming,XEROX,GAMXERUGUR9U1O,Accesorios Gaming XEROX
+Tech BCN Norte,Sergio Martín,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000247,14-04-2020,$583.02,3,12%,21%,$1862.40,DVR,DVR/NVR Seguridad,ASUS,DVRASUQZFHOMTZ,DVR/NVR Seguridad ASUS profesional
+Tech BCN Norte,Sergio Martín,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000247,14-04-2020,$149.03,7,20%,21%,$1009.83,NIC,Tarjetas de Red,ADATA,NICADA23QVDJNV,Tarjetas de Red ADATA gigabit
+Tech BCN Norte,Sergio Martín,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000247,14-04-2020,$694.06,4,0%,21%,$3359.25,PRJ,Proyectores,SAMSUNG,PRJSAM8C1GRA47,Proyectores SAMSUNG profesional
+Tech BCN Centro,Marta Soler,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000029,26-11-2019,$6.77,12,2%,21%,$96.33,CAB,Cables y Adaptadores,ASUS,CABASUX9DJOYOH,Cables y Adaptadores ASUS
+Tech BCN Norte,Carlos Díaz,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000153,15-07-2024,$311.84,6,2%,21%,$2218.68,SFT,Software,BENQ,SFTBENI8QOAGSU,Software BENQ
+Tech BCN Norte,Carlos Díaz,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000153,15-07-2024,$482.95,8,15%,21%,$3973.71,SCN,Escáneres,BENQ,SCNBEN53UY8U11,Escáneres BENQ profesional
+Tech BCN Norte,Carlos Díaz,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000153,15-07-2024,$59.43,9,0%,21%,$647.19,PWB,Power Banks,ADATA,PWBADARJN2HZ2O,Power Banks ADATA
+Tech BCN Norte,Ana Beltrán,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000136,22-03-2021,$195.42,4,15%,21%,$803.96,GAB,Gabinetes,LOGITECH,GABLOG0MTGLHUG,Gabinetes LOGITECH
+Tech BCN Centro,Ana Beltrán,Leo López,Barcelona,Distribuidor,DNI0455105578,FAC000113,18-09-2020,$124.00,9,0%,21%,$1350.36,HDD,Discos Duros Internos,ASUS,HDDASUHIWFD7YX,Discos Duros Internos ASUS 1TB
+Tech BCN Centro,Ana Beltrán,Leo López,Barcelona,Distribuidor,DNI0455105578,FAC000113,18-09-2020,$50.76,10,3%,21%,$595.77,CAB,Cables y Adaptadores,LESMARK,CABLESL65UJG1S,Cables y Adaptadores LESMARK
+Tech BCN Centro,Ana Beltrán,Leo López,Barcelona,Distribuidor,DNI0455105578,FAC000113,18-09-2020,$338.35,8,10%,21%,$2947.71,IMP,Impresoras,Hp,IMPHPX2RTSOYG9,Impresoras Hp profesional
+Tech DCM Barcelona,Luis Pons,Bruno Cabrera,Barcelona,Final,DNI9345212954,FAC000061,24-07-2025,$87.82,7,5%,21%,$706.64,PSU,Fuentes de Poder,KIGNSTON,PSUKIGDN5GJJ8M,Fuentes de Poder KIGNSTON
+Tech DCM Barcelona,Luis Pons,Bruno Cabrera,Barcelona,Final,DNI9345212954,FAC000061,24-07-2025,$132.54,4,20%,21%,$513.19,COO,Refrigeración,SAMSUNG,COOSAM1NOQU9Y3,Refrigeración SAMSUNG
+Tech BCN Sur,Ana Beltrán,Marc García,Barcelona,Ecommerce,DNI6936617056,FAC000151,21-08-2019,$391.05,10,0%,21%,$4731.70,TBL,Tablets,XEROX,TBLXERAPE6WTLR,Tablets XEROX
+Tech BCN Sur,Ana Beltrán,Marc García,Barcelona,Ecommerce,DNI6936617056,FAC000151,21-08-2019,$155.48,5,10%,21%,$846.59,GAB,Gabinetes,APC,GABAPCYC3RWQMM,Gabinetes APC
+Tech BCN Sur,María Vidal,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000193,09-12-2021,$80.62,7,7%,21%,$635.05,FME,Flash Memory,KIGNSTON,FMEKIGUXG2MYR0,Flash Memory KIGNSTON 1TB
+Tech BCN Sur,María Vidal,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000193,09-12-2021,$78.57,6,10%,21%,$513.38,NIC,Tarjetas de Red,MAC,NICMAC5X7PWO6C,Tarjetas de Red MAC gigabit
+Tech BCN Sur,María Vidal,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000193,09-12-2021,$438.24,3,3%,21%,$1543.09,SBR,Barras de Sonido,CANON,SBRCANZVO5270S,Barras de Sonido CANON alta fidelidad
+Tech BCN Sur,María Vidal,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000193,09-12-2021,$71.27,9,0%,21%,$776.13,MOU,Mouse,MAC,MOUMAC0X7ZCGDC,Mouse MAC
+Tech BCN Sur,María Vidal,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000193,09-12-2021,$25.81,5,15%,21%,$132.73,MOU,Mouse,TP-LINK,MOUTPLO1CJFX5L,Mouse TP-LINK
+Tech BCN Centro,Jordi Serra,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000227,28-11-2023,$77.81,12,20%,21%,$903.84,MOU,Mouse,AMD,MOUAMDX4LR9TJQ,Mouse AMD
+Tech BCN Centro,Jordi Serra,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000227,28-11-2023,$112.54,2,15%,21%,$231.49,SUM,Suministros,KIGNSTON,SUMKIGVWWUSXLM,Suministros KIGNSTON
+Tech BCN Norte,Sergio Martín,Sofía Prieto,Barcelona,Distribuidor,DNI6366676869,FAC000144,30-11-2020,$79.40,1,12%,21%,$84.55,WBC,Cámaras Web,ADATA,WBCADAA34MQA78,Cámaras Web ADATA
+Tech BCN Norte,Sergio Martín,Sofía Prieto,Barcelona,Distribuidor,DNI6366676869,FAC000144,30-11-2020,$559.21,7,5%,21%,$4499.68,PRJ,Proyectores,LESMARK,PRJLESIANOUOF0,Proyectores LESMARK profesional
+Tech DCM Barcelona,Sergio Martín,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000310,05-01-2025,$92.03,3,7%,21%,$310.68,SMW,Smartwatches,TP-LINK,SMWTPL2WYJXTJG,Smartwatches TP-LINK
+Tech DCM Barcelona,Sergio Martín,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000310,05-01-2025,$146.13,5,7%,21%,$822.20,TEC,Teclados,LG,TECLGXQQZRLF8A,Teclados LG
+Tech BCN Sur,Luis Pons,Andrés Torres,Barcelona,Final,DNI0633873344,FAC000294,11-08-2020,$256.19,3,0%,21%,$929.97,RED,Equipos de Red,ADATA,REDADARML29Q2L,Equipos de Red ADATA gigabit
+Tech BCN Sur,María Vidal,Marina Mora,Barcelona,Final,DNI3720785684,FAC000172,03-02-2024,$56.96,1,5%,21%,$65.48,SUM,Suministros,ASROCK,SUMASR6JNA9ZN9,Suministros ASROCK
+Tech BCN Sur,María Vidal,Marina Mora,Barcelona,Final,DNI3720785684,FAC000172,03-02-2024,$178.22,9,20%,21%,$1552.65,NAS,Almacenamiento NAS,SONY,NASSON1S9RYLLW,Almacenamiento NAS SONY
+Tech BCN Sur,María Vidal,Marina Mora,Barcelona,Final,DNI3720785684,FAC000172,03-02-2024,$12.11,5,2%,21%,$71.80,TEC,Teclados,BENQ,TECBENRKMBY9IP,Teclados BENQ
+Tech BCN Sur,María Vidal,Marina Mora,Barcelona,Final,DNI3720785684,FAC000172,03-02-2024,$142.48,11,10%,21%,$1706.77,GAB,Gabinetes,XEROX,GABXERI8UYYF1I,Gabinetes XEROX
+Tech DCM Barcelona,Luis Pons,Jordi Guerrero,Barcelona,Distribuidor,DNI8744626770,FAC000273,27-12-2021,$13.68,12,12%,21%,$174.80,LIM,Kits de Limpieza,INTEL,LIMINT2EI9212P,Kits de Limpieza INTEL
+Tech DCM Barcelona,Luis Pons,Jordi Guerrero,Barcelona,Distribuidor,DNI8744626770,FAC000273,27-12-2021,$221.65,12,15%,21%,$2735.60,SFT,Software,SONY,SFTSONE6RPKZGG,Software SONY
+Tech BCN Centro,María Vidal,Laia Vega,Barcelona,Final,DNI3689405588,FAC000283,16-12-2023,$310.34,10,5%,21%,$3567.36,SWI,Switches,CANON,SWICAN3TQ1S05W,Switches CANON gigabit
+Tech BCN Centro,María Vidal,Laia Vega,Barcelona,Final,DNI3689405588,FAC000283,16-12-2023,$111.30,6,2%,21%,$791.88,MIC,Micrófonos,SONY,MICSONC83GY1FK,Micrófonos SONY alta fidelidad
+Tech DCM Barcelona,Luis Pons,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000125,16-06-2019,$26.54,4,2%,21%,$125.88,PAR,Parlantes,ASROCK,PARASRDGBXNRWV,Parlantes ASROCK alta fidelidad
+Tech DCM Barcelona,Luis Pons,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000125,16-06-2019,$50.21,12,0%,21%,$729.05,ACC,Accesorios,ASROCK,ACCASRX73QXM06,Accesorios ASROCK
+Tech BCN Norte,Carlos Díaz,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000189,16-06-2018,$99.42,3,20%,21%,$288.72,WBC,Cámaras Web,AMAZON,WBCAMA88D0TGSI,Cámaras Web AMAZON
+Tech BCN Sur,María Vidal,Arturo Ríos,Barcelona,Final,DNI8384486536,FAC000137,28-02-2025,$599.09,8,10%,21%,$5219.27,SFT,Software,LOGITECH,SFTLOGQX5GGOMF,Software LOGITECH
+Tech BCN Sur,María Vidal,Arturo Ríos,Barcelona,Final,DNI8384486536,FAC000137,28-02-2025,$65.27,9,7%,21%,$661.03,MIC,Micrófonos,INTEL,MICINT9LN1P0VU,Micrófonos INTEL alta fidelidad
+Tech BCN Sur,María Vidal,Arturo Ríos,Barcelona,Final,DNI8384486536,FAC000137,28-02-2025,$39.54,4,5%,21%,$181.80,CAB,Cables y Adaptadores,EPSON,CABEPSQO09VS9K,Cables y Adaptadores EPSON
+Tech BCN Sur,María Vidal,Arturo Ríos,Barcelona,Final,DNI8384486536,FAC000137,28-02-2025,$123.19,3,3%,21%,$433.76,MIC,Micrófonos,ADATA,MICADA1737SUUD,Micrófonos ADATA alta fidelidad
+Tech BCN Sur,María Vidal,Arturo Ríos,Barcelona,Final,DNI8384486536,FAC000137,28-02-2025,$232.61,8,3%,21%,$2184.11,MBD,Motherboards,CORSAIR,MBDCOR6IJKUUHC,Motherboards CORSAIR
+Tech DCM Barcelona,Marta Soler,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000245,15-03-2025,$43.33,4,0%,21%,$209.72,PAR,Parlantes,SONY,PARSON3N27M5P7,Parlantes SONY alta fidelidad
+Tech DCM Barcelona,Marta Soler,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000245,15-03-2025,$139.62,7,15%,21%,$1005.19,NIC,Tarjetas de Red,TP-LINK,NICTPLWBSLULZF,Tarjetas de Red TP-LINK gigabit
+Tech DCM Barcelona,Marta Soler,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000245,15-03-2025,$285.37,5,2%,21%,$1691.96,CTV,Cámaras de Seguridad,LESMARK,CTVLESUDP2FMR0,Cámaras de Seguridad LESMARK profesional
+Tech BCN Sur,Jordi Serra,Carla Vega,Barcelona,Ecommerce,DNI4634144087,FAC000197,07-07-2019,$103.79,10,2%,21%,$1230.74,GAM,Accesorios Gaming,ASROCK,GAMASRRXHW0IC1,Accesorios Gaming ASROCK
+Tech BCN Sur,Jordi Serra,Carla Vega,Barcelona,Ecommerce,DNI4634144087,FAC000197,07-07-2019,$125.02,8,3%,21%,$1173.89,TEC,Teclados,LOGITECH,TECLOGONGMX1GM,Teclados LOGITECH
+Tech BCN Sur,Jordi Serra,Carla Vega,Barcelona,Ecommerce,DNI4634144087,FAC000197,07-07-2019,$508.17,3,7%,21%,$1715.53,SWI,Switches,AMD,SWIAMD7IYF0D0I,Switches AMD gigabit
+Tech BCN Sur,Jordi Serra,Carla Vega,Barcelona,Ecommerce,DNI4634144087,FAC000197,07-07-2019,$19.23,8,3%,21%,$180.56,ACC,Accesorios,CDP,ACCCDPYEQAHTHS,Accesorios CDP
+Tech DCM Barcelona,Sergio Martín,Jordi Soler,Barcelona,Final,DNI5937477473,FAC000232,15-07-2024,$78.76,11,10%,21%,$943.47,PAR,Parlantes,BENQ,PARBENGK2WBXAN,Parlantes BENQ alta fidelidad
+Tech DCM Barcelona,Sergio Martín,Jordi Soler,Barcelona,Final,DNI5937477473,FAC000232,15-07-2024,$1633.78,2,3%,21%,$3835.14,LAP,Laptops,ADATA,LAPADAK5N9SZ6R,"Laptops ADATA i5, 32GB RAM, SSD 512GB"
+Tech DCM Barcelona,Sergio Martín,Jordi Soler,Barcelona,Final,DNI5937477473,FAC000232,15-07-2024,$191.32,4,20%,21%,$740.79,GAM,Accesorios Gaming,SAMSUNG,GAMSAMAITMOFMM,Accesorios Gaming SAMSUNG
+Tech DCM Barcelona,Sergio Martín,Jordi Soler,Barcelona,Final,DNI5937477473,FAC000232,15-07-2024,$95.32,7,3%,21%,$783.14,RAM,Memoria RAM,XEROX,RAMXERCJN9978I,Memoria RAM XEROX 16GB
+Tech DCM Barcelona,Sergio Martín,Jordi Soler,Barcelona,Final,DNI5937477473,FAC000232,15-07-2024,$75.80,8,20%,21%,$587.00,SDC,Lectores de Tarjetas SD,DELL TECHNOLOGY,SDCDELSY5YPUPL,Lectores de Tarjetas SD DELL TECHNOLOGY 32GB
+Tech BCN Centro,Marta Soler,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000118,27-01-2024,$442.39,2,20%,21%,$856.47,GPU,Tarjetas de Video,CANON,GPUCANY66P61XU,Tarjetas de Video CANON 24GB GDDR6
+Tech BCN Centro,Marta Soler,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000118,27-01-2024,$91.51,11,7%,21%,$1132.74,SDC,Lectores de Tarjetas SD,APC,SDCAPCG4FBL98K,Lectores de Tarjetas SD APC 32GB
+Tech BCN Centro,María Vidal,Paula Santos,Barcelona,Ecommerce,DNI6338186619,FAC000044,23-06-2019,$64.15,3,20%,21%,$186.29,MOU,Mouse,TP-LINK,MOUTPL9WVWVIAC,Mouse TP-LINK
+Tech BCN Centro,María Vidal,Paula Santos,Barcelona,Ecommerce,DNI6338186619,FAC000044,23-06-2019,$11.65,5,12%,21%,$62.02,HUB,Hubs USB,GENIUS,HUBGENZN4REGB1,Hubs USB GENIUS
+Tech BCN Centro,Ana Beltrán,Santiago Rey,Barcelona,Ecommerce,DNI6189025456,FAC000167,28-09-2018,$270.93,10,20%,21%,$2622.60,SWI,Switches,LESMARK,SWILESRLQIOB0N,Switches LESMARK gigabit
+Tech BCN Centro,Ana Beltrán,Santiago Rey,Barcelona,Ecommerce,DNI6189025456,FAC000167,28-09-2018,$340.66,12,0%,21%,$4946.38,SMW,Smartwatches,LG,SMWLGX52SQ3B9S,Smartwatches LG
+Tech BCN Sur,Carlos Díaz,Nora Valdevas,Barcelona,Distribuidor,DNI4877345150,FAC000158,27-01-2025,$81.81,8,15%,21%,$673.13,FME,Flash Memory,CANON,FMECANP51KFK7Y,Flash Memory CANON 16GB
+Tech DCM Barcelona,Jordi Serra,Raúl Cabrera,Barcelona,Final,DNI9255865377,FAC000112,25-07-2024,$1429.68,12,3%,21%,$20136.18,GPU,Tarjetas de Video,DELL TECHNOLOGY,GPUDELOQGVZHQJ,Tarjetas de Video DELL TECHNOLOGY 6GB GDDR6
+Tech DCM Barcelona,Jordi Serra,Raúl Cabrera,Barcelona,Final,DNI9255865377,FAC000112,25-07-2024,$1125.52,1,3%,21%,$1321.02,CPU,Computadoras,APC,CPUAPCZWDZ09WF,"Computadoras APC i7, 32GB RAM, SSD 1TB"
+Tech DCM Barcelona,Jordi Serra,Raúl Cabrera,Barcelona,Final,DNI9255865377,FAC000112,25-07-2024,$52.92,3,5%,21%,$182.49,RED,Equipos de Red,ARGOM,REDARG5GZPL1QW,Equipos de Red ARGOM gigabit
+Tech DCM Barcelona,Jordi Serra,Raúl Cabrera,Barcelona,Final,DNI9255865377,FAC000112,25-07-2024,$41.27,8,12%,21%,$351.55,ACC,Accesorios,LESMARK,ACCLES1ARR3VRH,Accesorios LESMARK
+Tech DCM Barcelona,Jordi Serra,Raúl Cabrera,Barcelona,Final,DNI9255865377,FAC000112,25-07-2024,$72.40,6,0%,21%,$525.62,SWI,Switches,AMAZON,SWIAMAVA5KW3HG,Switches AMAZON gigabit
+Tech DCM Barcelona,Marta Soler,Nerea Ramírez,Barcelona,Ecommerce,DNI5028486959,FAC000281,07-10-2024,$70.32,8,10%,21%,$612.63,AUD,Audífonos,AMAZON,AUDAMABPGYVYV2,Audífonos AMAZON alta fidelidad
+Tech DCM Barcelona,Marta Soler,Nerea Ramírez,Barcelona,Ecommerce,DNI5028486959,FAC000281,07-10-2024,$43.68,5,10%,21%,$237.84,PAR,Parlantes,AMAZON,PARAMA1L6314CQ,Parlantes AMAZON alta fidelidad
+Tech DCM Barcelona,Marta Soler,Nerea Ramírez,Barcelona,Ecommerce,DNI5028486959,FAC000281,07-10-2024,$563.38,12,7%,21%,$7607.66,SMW,Smartwatches,DYNABOOK,SMWDYNSZWD0W9R,Smartwatches DYNABOOK
+Tech BCN Norte,Pau Ríos,Claudia Giménez,Barcelona,Distribuidor,DNI7600627698,FAC000055,23-11-2023,$130.05,4,0%,21%,$629.44,DCK,Docking Stations,CORSAIR,DCKCOR7WR0R35I,Docking Stations CORSAIR
+Tech BCN Norte,Pau Ríos,Claudia Giménez,Barcelona,Distribuidor,DNI7600627698,FAC000055,23-11-2023,$122.85,4,0%,21%,$594.59,TEC,Teclados,ADATA,TECADAQ20HWOBM,Teclados ADATA
+Tech BCN Norte,Pau Ríos,Claudia Giménez,Barcelona,Distribuidor,DNI7600627698,FAC000055,23-11-2023,$88.27,10,0%,21%,$1068.07,NIC,Tarjetas de Red,ASROCK,NICASRYJCKT1EL,Tarjetas de Red ASROCK gigabit
+Tech BCN Norte,Pau Ríos,Claudia Giménez,Barcelona,Distribuidor,DNI7600627698,FAC000055,23-11-2023,$179.49,9,10%,21%,$1759.18,SUM,Suministros,ASROCK,SUMASRLMY62XRW,Suministros ASROCK
+Tech BCN Norte,Pau Ríos,Claudia Giménez,Barcelona,Distribuidor,DNI7600627698,FAC000055,23-11-2023,$916.81,6,10%,21%,$5990.44,NAS,Almacenamiento NAS,XEROX,NASXER37CSUYTA,Almacenamiento NAS XEROX
+Tech BCN Centro,Pau Ríos,Nerea Vidal,Barcelona,Distribuidor,DNI5114808806,FAC000249,08-05-2018,$224.56,5,12%,21%,$1195.56,PSU,Fuentes de Poder,LG,PSULGXTFVGE2L4,Fuentes de Poder LG
+Tech BCN Centro,Pau Ríos,Nerea Vidal,Barcelona,Distribuidor,DNI5114808806,FAC000249,08-05-2018,$603.15,2,15%,21%,$1240.68,CPU,Computadoras,GENIUS,CPUGEN5N3KSGNB,"Computadoras GENIUS Ryzen 5, 8GB RAM, SSD 512GB"
+Tech BCN Centro,Pau Ríos,Nerea Vidal,Barcelona,Distribuidor,DNI5114808806,FAC000249,08-05-2018,$472.73,11,3%,21%,$6103.28,SCN,Escáneres,MAC,SCNMACG70S1F53,Escáneres MAC profesional
+Tech DCM Barcelona,Nuria Pascual,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000154,07-05-2022,$114.38,1,7%,21%,$128.71,TEC,Teclados,ADATA,TECADALB45L6D1,Teclados ADATA
+Tech DCM Barcelona,Nuria Pascual,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000154,07-05-2022,$17.82,10,20%,21%,$172.50,NIC,Tarjetas de Red,ASROCK,NICASRLGJLPEFJ,Tarjetas de Red ASROCK gigabit
+Tech DCM Barcelona,Nuria Pascual,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000154,07-05-2022,$329.84,6,20%,21%,$1915.71,SCN,Escáneres,APC,SCNAPCHMLFZKIC,Escáneres APC profesional
+Tech DCM Barcelona,Nuria Pascual,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000154,07-05-2022,$486.42,12,15%,21%,$6003.40,SWI,Switches,AMD,SWIAMDEQYDBPGV,Switches AMD gigabit
+Tech DCM Barcelona,Nuria Pascual,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000154,07-05-2022,$80.86,12,15%,21%,$997.97,DCK,Docking Stations,CORSAIR,DCKCORL3ZYT91Q,Docking Stations CORSAIR
+Tech BCN Sur,Pau Ríos,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000074,04-09-2025,$1049.65,6,15%,21%,$6477.39,TBL,Tablets,ASUS,TBLASU8F6JNG7L,Tablets ASUS
+Tech BCN Sur,Pau Ríos,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000074,04-09-2025,$801.55,12,2%,21%,$11405.74,PHN,Smartphones,ADATA,PHNADACER4KMUS,Smartphones ADATA
+Tech BCN Sur,Pau Ríos,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000074,04-09-2025,$105.20,6,5%,21%,$725.56,MIC,Micrófonos,INTEL,MICINTX2TOOWT9,Micrófonos INTEL alta fidelidad
+Tech BCN Sur,Pau Ríos,Raúl Castro,Barcelona,Distribuidor,DNI6852906803,FAC000074,04-09-2025,$37.04,8,2%,21%,$351.38,LIM,Kits de Limpieza,KIGNSTON,LIMKIGP9UMYGY0,Kits de Limpieza KIGNSTON
+Tech BCN Sur,Laura Gómez,Nora Serra,Barcelona,Ecommerce,DNI2163989822,FAC000071,23-03-2024,$77.34,4,3%,21%,$363.10,SWI,Switches,ARGOM,SWIARGLOVYV3LX,Switches ARGOM gigabit
+Tech DCM Barcelona,Jordi Serra,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000122,30-05-2025,$737.25,7,10%,21%,$5620.06,SWI,Switches,INTEL,SWIINTKWQH5K2Y,Switches INTEL gigabit
+Tech DCM Barcelona,Jordi Serra,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000122,30-05-2025,$1355.03,6,2%,21%,$9640.77,CPU,Computadoras,KIGNSTON,CPUKIGA9OEKNTB,"Computadoras KIGNSTON Ryzen 9, 16GB RAM, SSD 256GB"
+Tech BCN Sur,Marta Soler,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000162,03-06-2022,$136.83,5,3%,21%,$802.99,KIT,Kits/Combos Periféricos,DELL TECHNOLOGY,KITDELOPHGFT4M,Kits/Combos Periféricos DELL TECHNOLOGY
+Tech BCN Sur,Marta Soler,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000162,03-06-2022,$919.33,8,12%,21%,$7831.22,GPU,Tarjetas de Video,ADATA,GPUADACAZRP9DX,Tarjetas de Video ADATA 24GB GDDR6
+Tech BCN Sur,Marta Soler,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000162,03-06-2022,$54.98,9,7%,21%,$556.82,SUM,Suministros,EPSON,SUMEPSSTQMGVU4,Suministros EPSON
+Tech BCN Norte,Luis Pons,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000016,05-06-2018,$421.77,9,2%,21%,$4501.21,TBL,Tablets,SAMSUNG,TBLSAMNU8C0S41,Tablets SAMSUNG
+Tech BCN Norte,Luis Pons,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000016,05-06-2018,$80.11,6,20%,21%,$465.28,SMW,Smartwatches,LESMARK,SMWLESDR08CW2L,Smartwatches LESMARK
+Tech BCN Norte,Luis Pons,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000016,05-06-2018,$14.95,10,7%,21%,$168.23,MNT,Montajes/Soportes,ADATA,MNTADAQSQ0P82K,Montajes/Soportes ADATA
+Tech BCN Norte,Luis Pons,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000016,05-06-2018,$40.12,2,3%,21%,$94.18,SDC,Lectores de Tarjetas SD,XEROX,SDCXERUCRGB93W,Lectores de Tarjetas SD XEROX 2TB
+Tech BCN Norte,Luis Pons,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000016,05-06-2018,$212.42,8,10%,21%,$1850.60,MON,Monitores,XEROX,MONXERKEK4AEGV,"Monitores XEROX 24"" 120Hz"
+Tech BCN Centro,Nuria Pascual,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000175,11-01-2020,$170.26,12,3%,21%,$2398.01,PAR,Parlantes,CDP,PARCDP98V341ON,Parlantes CDP alta fidelidad
+Tech BCN Centro,Nuria Pascual,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000175,11-01-2020,$143.19,9,5%,21%,$1481.37,HDD,Discos Duros Internos,KIGNSTON,HDDKIG0MX1EGOK,Discos Duros Internos KIGNSTON 512GB
+Tech BCN Centro,Nuria Pascual,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000175,11-01-2020,$199.68,1,2%,21%,$236.78,KVM,KVM Switches,SAMSUNG,KVMSAMOJTPK2NL,KVM Switches SAMSUNG
+Tech BCN Centro,Nuria Pascual,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000175,11-01-2020,$938.64,8,5%,21%,$8631.73,VRG,Realidad Virtual/AR,LG,VRGLGXM4VXJJ2J,Realidad Virtual/AR LG
+Tech BCN Centro,Nuria Pascual,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000175,11-01-2020,$9.34,2,20%,21%,$18.08,SDC,Lectores de Tarjetas SD,LOGITECH,SDCLOGVHMYGTY3,Lectores de Tarjetas SD LOGITECH 16GB
+Tech BCN Sur,Laura Gómez,Laia Soler,Barcelona,Ecommerce,DNI3246338487,FAC000194,17-06-2020,$530.16,2,3%,21%,$1244.50,MBD,Motherboards,ASROCK,MBDASRBWCV6HVE,Motherboards ASROCK
+Tech BCN Sur,Laura Gómez,Laia Soler,Barcelona,Ecommerce,DNI3246338487,FAC000194,17-06-2020,$59.69,8,7%,21%,$537.35,PSU,Fuentes de Poder,LOGITECH,PSULOG1X2GDGKX,Fuentes de Poder LOGITECH
+Tech BCN Sur,Laura Gómez,Laia Soler,Barcelona,Ecommerce,DNI3246338487,FAC000194,17-06-2020,$149.43,5,7%,21%,$840.77,MNT,Montajes/Soportes,DYNABOOK,MNTDYNYY1J2JCN,Montajes/Soportes DYNABOOK
+Tech BCN Sur,María Vidal,Jordi Valdevas,Barcelona,Ecommerce,DNI1165267167,FAC000160,08-07-2023,$72.02,2,2%,21%,$170.80,DCK,Docking Stations,DELL TECHNOLOGY,DCKDELGRF1HX6Z,Docking Stations DELL TECHNOLOGY
+Tech BCN Sur,María Vidal,Jordi Valdevas,Barcelona,Ecommerce,DNI1165267167,FAC000160,08-07-2023,$64.50,7,0%,21%,$546.31,USB,Pendrives USB,SONY,USBSONJQ6FX7XJ,Pendrives USB SONY 2TB
+Tech BCN Sur,Nuria Pascual,Mateo Cruz,Barcelona,Final,DNI8233459268,FAC000098,22-11-2022,$119.06,6,7%,21%,$803.87,SDC,Lectores de Tarjetas SD,TP-LINK,SDCTPL3CINY2ET,Lectores de Tarjetas SD TP-LINK 512GB
+Tech BCN Sur,Nuria Pascual,Mateo Cruz,Barcelona,Final,DNI8233459268,FAC000098,22-11-2022,$155.15,9,0%,21%,$1689.58,IMP,Impresoras,LG,IMPLGX9XN4M41K,Impresoras LG profesional
+Tech BCN Sur,Nuria Pascual,Mateo Cruz,Barcelona,Final,DNI8233459268,FAC000098,22-11-2022,$76.39,4,0%,21%,$369.73,PSU,Fuentes de Poder,LOGITECH,PSULOGGZ6WMDW0,Fuentes de Poder LOGITECH
+Tech BCN Sur,Nuria Pascual,Mateo Cruz,Barcelona,Final,DNI8233459268,FAC000098,22-11-2022,$9.84,6,0%,21%,$71.44,SDC,Lectores de Tarjetas SD,KIGNSTON,SDCKIGIN2XR838,Lectores de Tarjetas SD KIGNSTON 256GB
+Tech DCM Barcelona,Sergio Martín,Víctor Vidal,Barcelona,Final,DNI5372780181,FAC000022,30-04-2019,$470.67,1,15%,21%,$484.08,SBR,Barras de Sonido,LOGITECH,SBRLOGS75T0IC0,Barras de Sonido LOGITECH alta fidelidad
+Tech DCM Barcelona,Sergio Martín,Víctor Vidal,Barcelona,Final,DNI5372780181,FAC000022,30-04-2019,$298.96,2,2%,21%,$709.01,DCK,Docking Stations,AMD,DCKAMDIXAW63DW,Docking Stations AMD
+Tech BCN Sur,Marta Soler,Rubén Torres,Barcelona,Final,DNI8826320735,FAC000258,26-11-2024,$350.49,4,0%,21%,$1696.37,MON,Monitores,XEROX,MONXERHM40OEYT,"Monitores XEROX 32"" 75Hz"
+Tech BCN Sur,Marta Soler,Rubén Torres,Barcelona,Final,DNI8826320735,FAC000258,26-11-2024,$43.99,11,12%,21%,$515.25,AUD,Audífonos,AMAZON,AUDAMAEFOZTP7B,Audífonos AMAZON alta fidelidad
+Tech BCN Centro,Luis Pons,Paula Santos,Barcelona,Ecommerce,DNI6338186619,FAC000176,18-06-2023,$16.34,11,7%,21%,$202.26,ACC,Accesorios,ADATA,ACCADAGDX5O31Y,Accesorios ADATA
+Tech BCN Sur,Sergio Martín,Mateo Méndez,Barcelona,Distribuidor,DNI0374445130,FAC000295,06-09-2020,$113.05,2,20%,21%,$218.86,DCK,Docking Stations,SAMSUNG,DCKSAMBGR8W2MA,Docking Stations SAMSUNG
+Tech BCN Sur,Sergio Martín,Mateo Méndez,Barcelona,Distribuidor,DNI0374445130,FAC000295,06-09-2020,$2062.72,11,15%,21%,$23336.58,LAP,Laptops,LESMARK,LAPLESN1TH1XJG,"Laptops LESMARK i9, 8GB RAM, SSD 256GB"
+Tech DCM Barcelona,Luis Pons,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000102,26-03-2025,$974.77,8,20%,21%,$7548.62,PRJ,Proyectores,ASROCK,PRJASRPM21B07G,Proyectores ASROCK profesional
+Tech DCM Barcelona,Luis Pons,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000102,26-03-2025,$55.66,2,5%,21%,$127.96,TEC,Teclados,AMAZON,TECAMA6ZVLHYL2,Teclados AMAZON
+Tech DCM Barcelona,Luis Pons,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000102,26-03-2025,$396.69,7,10%,21%,$3023.97,DVR,DVR/NVR Seguridad,DYNABOOK,DVRDYN5NHQR6F7,DVR/NVR Seguridad DYNABOOK profesional
+Tech BCN Sur,Ana Beltrán,Marina Rey,Barcelona,Ecommerce,DNI6442497105,FAC000181,01-02-2025,$66.67,5,3%,21%,$391.25,RAM,Memoria RAM,ASROCK,RAMASRMBUKDQP1,Memoria RAM ASROCK 4TB
+Tech BCN Sur,Ana Beltrán,Marina Rey,Barcelona,Ecommerce,DNI6442497105,FAC000181,01-02-2025,$147.71,12,12%,21%,$1887.38,UPS,UPS,KIGNSTON,UPSKIG84D4R9V4,UPS KIGNSTON
+Tech BCN Sur,Ana Beltrán,Marina Rey,Barcelona,Ecommerce,DNI6442497105,FAC000181,01-02-2025,$92.73,8,20%,21%,$718.10,DVR,DVR/NVR Seguridad,ASUS,DVRASUIPI7866P,DVR/NVR Seguridad ASUS profesional
+Tech BCN Sur,Carlos Díaz,Santiago Ríos,Barcelona,Final,DNI5425961877,FAC000026,04-06-2022,$34.14,2,0%,21%,$82.62,LIM,Kits de Limpieza,APC,LIMAPCQIUA08EK,Kits de Limpieza APC
+Tech BCN Sur,Carlos Díaz,Santiago Ríos,Barcelona,Final,DNI5425961877,FAC000026,04-06-2022,$557.79,6,15%,21%,$3442.12,TBL,Tablets,LOGITECH,TBLLOGKZ40AQ15,Tablets LOGITECH
+Tech BCN Sur,Carlos Díaz,Santiago Ríos,Barcelona,Final,DNI5425961877,FAC000026,04-06-2022,$191.50,10,5%,21%,$2201.29,KIT,Kits/Combos Periféricos,LG,KITLGXAWNYTK1Z,Kits/Combos Periféricos LG
+Tech BCN Sur,Carlos Díaz,Santiago Ríos,Barcelona,Final,DNI5425961877,FAC000026,04-06-2022,$178.91,1,10%,21%,$194.83,KVM,KVM Switches,AMAZON,KVMAMAWM7S6NBN,KVM Switches AMAZON
+Tech BCN Centro,Carlos Díaz,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000104,02-10-2018,$78.74,12,5%,21%,$1086.14,KIT,Kits/Combos Periféricos,TP-LINK,KITTPLH9IER7U8,Kits/Combos Periféricos TP-LINK
+Tech BCN Centro,Carlos Díaz,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000104,02-10-2018,$125.49,9,20%,21%,$1093.27,MIC,Micrófonos,CORSAIR,MICCOR6SPBNQS3,Micrófonos CORSAIR alta fidelidad
+Tech BCN Centro,Carlos Díaz,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000104,02-10-2018,$234.18,3,7%,21%,$790.57,PRJ,Proyectores,EPSON,PRJEPSW2837C6Q,Proyectores EPSON profesional
+Tech BCN Centro,Carlos Díaz,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000104,02-10-2018,$642.75,3,15%,21%,$1983.21,MON,Monitores,APC,MONAPCFEFFH8AO,"Monitores APC 27"" 144Hz"
+Tech BCN Centro,Carlos Díaz,Claudia Serra,Barcelona,Final,DNI0800785553,FAC000104,02-10-2018,$293.95,11,10%,21%,$3521.23,SWI,Switches,SONY,SWISONXKC5I8XO,Switches SONY gigabit
+Tech BCN Sur,Nuria Pascual,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000284,30-05-2021,$1919.00,10,3%,21%,$22523.30,GPU,Tarjetas de Video,XEROX,GPUXERL2INK4FK,Tarjetas de Video XEROX 24GB GDDR6
+Tech BCN Sur,Nuria Pascual,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000284,30-05-2021,$282.80,5,10%,21%,$1539.85,PRJ,Proyectores,ARGOM,PRJARG94YXFIBL,Proyectores ARGOM profesional
+Tech BCN Sur,Nuria Pascual,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000284,30-05-2021,$184.88,7,15%,21%,$1331.04,SUM,Suministros,ASROCK,SUMASRUBLMNTFK,Suministros ASROCK
+Tech BCN Sur,Nuria Pascual,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000284,30-05-2021,$135.44,10,3%,21%,$1589.66,MNT,Montajes/Soportes,MAC,MNTMAC87F8TSXK,Montajes/Soportes MAC
+Tech BCN Sur,Nuria Pascual,Oriol Ríos,Barcelona,Ecommerce,DNI4062806274,FAC000284,30-05-2021,$39.14,4,15%,21%,$161.02,USB,Pendrives USB,SONY,USBSON6PY06FTL,Pendrives USB SONY 256GB
+Tech BCN Norte,Luis Pons,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000287,26-10-2024,$81.65,4,15%,21%,$335.91,PWB,Power Banks,Hp,PWBHPXH7KATQYD,Power Banks Hp
+Tech BCN Norte,Luis Pons,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000287,26-10-2024,$81.89,6,7%,21%,$552.90,MIC,Micrófonos,LESMARK,MICLESV76MF4NN,Micrófonos LESMARK alta fidelidad
+Tech DCM Barcelona,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000209,25-12-2022,$263.49,9,10%,21%,$2582.47,SWI,Switches,CANON,SWICANF060O4VF,Switches CANON gigabit
+Tech DCM Barcelona,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000209,25-12-2022,$200.91,3,12%,21%,$641.79,MON,Monitores,KIGNSTON,MONKIG1DO6OUZ1,"Monitores KIGNSTON 27"" 165Hz"
+Tech DCM Barcelona,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000209,25-12-2022,$624.28,11,15%,21%,$7062.79,PHN,Smartphones,AMD,PHNAMD3KVR0I2F,Smartphones AMD
+Tech DCM Barcelona,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000209,25-12-2022,$145.89,10,10%,21%,$1588.74,TEC,Teclados,LG,TECLGXXKG6XB1R,Teclados LG
+Tech BCN Sur,Marta Soler,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000130,22-11-2022,$74.14,12,3%,21%,$1044.22,NIC,Tarjetas de Red,LOGITECH,NICLOGRYESU4FC,Tarjetas de Red LOGITECH gigabit
+Tech BCN Sur,Marta Soler,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000130,22-11-2022,$132.41,11,3%,21%,$1709.51,SFT,Software,ARGOM,SFTARGBNW8BKXC,Software ARGOM
+Tech BCN Sur,Marta Soler,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000130,22-11-2022,$197.20,9,10%,21%,$1932.76,CTV,Cámaras de Seguridad,APC,CTVAPCVGLL42JZ,Cámaras de Seguridad APC profesional
+Tech BCN Centro,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000238,15-07-2019,$736.59,12,20%,21%,$8556.23,PRJ,Proyectores,CORSAIR,PRJCOR2O7FHS32,Proyectores CORSAIR profesional
+Tech BCN Centro,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000238,15-07-2019,$570.62,6,3%,21%,$4018.42,VRG,Realidad Virtual/AR,SAMSUNG,VRGSAMT1EQC37R,Realidad Virtual/AR SAMSUNG
+Tech BCN Centro,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000238,15-07-2019,$559.80,5,3%,21%,$3285.19,SWI,Switches,LESMARK,SWILESS8GK0EEY,Switches LESMARK gigabit
+Tech BCN Centro,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000238,15-07-2019,$39.75,11,20%,21%,$423.26,HDD,Discos Duros Internos,MAC,HDDMAC9P1EARPH,Discos Duros Internos MAC 4TB
+Tech BCN Centro,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000238,15-07-2019,$413.43,3,10%,21%,$1350.68,IMP,Impresoras,GENIUS,IMPGENEJCY127H,Impresoras GENIUS profesional
+Tech DCM Barcelona,Jordi Serra,Alba Navarro,Barcelona,Ecommerce,DNI3295001674,FAC000202,10-02-2021,$145.86,4,7%,21%,$656.55,SFT,Software,CORSAIR,SFTCORFS0IUDUA,Software CORSAIR
+Tech DCM Barcelona,Jordi Serra,Alba Navarro,Barcelona,Ecommerce,DNI3295001674,FAC000202,10-02-2021,$203.88,2,3%,21%,$478.59,UPS,UPS,TP-LINK,UPSTPLT9DHSZNV,UPS TP-LINK
+Tech DCM Barcelona,Jordi Serra,Alba Navarro,Barcelona,Ecommerce,DNI3295001674,FAC000202,10-02-2021,$229.53,5,20%,21%,$1110.93,SFT,Software,DELL TECHNOLOGY,SFTDELPSO1LQSR,Software DELL TECHNOLOGY
+Tech DCM Barcelona,Jordi Serra,Alba Navarro,Barcelona,Ecommerce,DNI3295001674,FAC000202,10-02-2021,$53.62,7,5%,21%,$431.45,SDC,Lectores de Tarjetas SD,AMD,SDCAMDCRNQ0Y4I,Lectores de Tarjetas SD AMD 16GB
+Tech DCM Barcelona,Jordi Serra,Alba Navarro,Barcelona,Ecommerce,DNI3295001674,FAC000202,10-02-2021,$546.40,12,2%,21%,$7775.05,TBL,Tablets,LOGITECH,TBLLOGNAYYOSYE,Tablets LOGITECH
+Tech BCN Centro,María Vidal,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000220,29-01-2022,$102.81,11,12%,21%,$1204.19,AUD,Audífonos,ASROCK,AUDASRV9E40KZU,Audífonos ASROCK alta fidelidad
+Tech BCN Centro,María Vidal,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000220,29-01-2022,$153.88,3,0%,21%,$558.58,SFT,Software,GENIUS,SFTGENY89SFQER,Software GENIUS
+Tech DCM Barcelona,María Vidal,Hugo Aguado,Barcelona,Final,DNI1475196103,FAC000263,03-08-2023,$98.54,5,15%,21%,$506.74,SUM,Suministros,DELL TECHNOLOGY,SUMDELVLKW1XSR,Suministros DELL TECHNOLOGY
+Tech BCN Norte,Carlos Díaz,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000289,08-11-2021,$194.36,9,7%,21%,$1968.42,VRG,Realidad Virtual/AR,ADATA,VRGADA8BP6NLNQ,Realidad Virtual/AR ADATA
+Tech BCN Norte,Carlos Díaz,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000289,08-11-2021,$180.22,8,20%,21%,$1395.62,KIT,Kits/Combos Periféricos,ARGOM,KITARGREZRDYXY,Kits/Combos Periféricos ARGOM
+Tech BCN Norte,Carlos Díaz,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000289,08-11-2021,$256.66,3,10%,21%,$838.51,UPS,UPS,Hp,UPSHPXCJVNY1KC,UPS Hp
+Tech BCN Norte,Carlos Díaz,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000289,08-11-2021,$403.52,4,5%,21%,$1855.38,SFT,Software,XEROX,SFTXER0A6MDMMM,Software XEROX
+Tech BCN Norte,Carlos Díaz,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000289,08-11-2021,$785.23,10,20%,21%,$7601.03,SBR,Barras de Sonido,CANON,SBRCANV6CKMALQ,Barras de Sonido CANON alta fidelidad
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000252,08-04-2023,$63.07,6,3%,21%,$444.15,MOU,Mouse,CDP,MOUCDPNOU3DYMS,Mouse CDP
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000252,08-04-2023,$54.73,10,12%,21%,$582.77,DCK,Docking Stations,CANON,DCKCANNPR424TK,Docking Stations CANON
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000252,08-04-2023,$77.75,2,7%,21%,$174.98,HDE,Discos Duros Externos,LESMARK,HDELES0D4DMC2R,Discos Duros Externos LESMARK 2TB
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000252,08-04-2023,$99.76,9,3%,21%,$1053.79,WBC,Cámaras Web,DYNABOOK,WBCDYNXLOJSYT5,Cámaras Web DYNABOOK
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000252,08-04-2023,$41.87,10,0%,21%,$506.63,USB,Pendrives USB,GENIUS,USBGENH80Q7TW1,Pendrives USB GENIUS 2TB
+Tech BCN Norte,Nuria Pascual,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000277,29-08-2019,$250.64,11,3%,21%,$3235.94,RED,Equipos de Red,SONY,REDSONYKPL3CHO,Equipos de Red SONY gigabit
+Tech BCN Norte,Nuria Pascual,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000277,29-08-2019,$284.98,11,0%,21%,$3793.08,MBD,Motherboards,LOGITECH,MBDLOGVOEGI3QU,Motherboards LOGITECH
+Tech BCN Centro,Pau Ríos,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000085,13-07-2019,$119.45,10,7%,21%,$1344.17,MBD,Motherboards,XEROX,MBDXER2XG48RA4,Motherboards XEROX
+Tech BCN Sur,Laura Gómez,Nerea Vidal,Barcelona,Distribuidor,DNI5114808806,FAC000056,14-07-2025,$147.93,8,2%,21%,$1403.32,GAB,Gabinetes,SONY,GABSON4IUSEXU1,Gabinetes SONY
+Tech DCM Barcelona,Laura Gómez,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000150,10-09-2021,$698.55,1,15%,21%,$718.46,DVR,DVR/NVR Seguridad,DELL TECHNOLOGY,DVRDEL307HDHJO,DVR/NVR Seguridad DELL TECHNOLOGY profesional
+Tech DCM Barcelona,Laura Gómez,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000150,10-09-2021,$791.55,6,7%,21%,$5344.39,VRG,Realidad Virtual/AR,CORSAIR,VRGCORZETRIJ2F,Realidad Virtual/AR CORSAIR
+Tech DCM Barcelona,Laura Gómez,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000150,10-09-2021,$47.80,5,10%,21%,$260.27,MOU,Mouse,LG,MOULGX8V4X7Y2I,Mouse LG
+Tech DCM Barcelona,Laura Gómez,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000150,10-09-2021,$329.62,4,7%,21%,$1483.69,KVM,KVM Switches,APC,KVMAPCTIPA877K,KVM Switches APC
+Tech DCM Barcelona,Laura Gómez,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000150,10-09-2021,$171.37,8,12%,21%,$1459.80,HDD,Discos Duros Internos,ARGOM,HDDARG6W51OB53,Discos Duros Internos ARGOM 256GB
+Tech BCN Sur,María Vidal,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000317,19-10-2019,$337.27,11,3%,21%,$4354.39,SCN,Escáneres,AMAZON,SCNAMAMV30QABX,Escáneres AMAZON profesional
+Tech BCN Sur,María Vidal,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000317,19-10-2019,$12.16,10,12%,21%,$129.48,ACC,Accesorios,DELL TECHNOLOGY,ACCDELHKUDIZ1X,Accesorios DELL TECHNOLOGY
+Tech BCN Sur,María Vidal,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000317,19-10-2019,$57.74,7,5%,21%,$464.60,MIC,Micrófonos,EPSON,MICEPSR0JY32HO,Micrófonos EPSON alta fidelidad
+Tech DCM Barcelona,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000076,04-04-2025,$31.48,6,3%,21%,$221.69,NIC,Tarjetas de Red,ASUS,NICASU69HZGOPJ,Tarjetas de Red ASUS gigabit
+Tech DCM Barcelona,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000076,04-04-2025,$85.41,5,7%,21%,$480.56,USB,Pendrives USB,APC,USBAPCAS173RIH,Pendrives USB APC 1TB
+Tech DCM Barcelona,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000076,04-04-2025,$47.48,5,5%,21%,$272.89,PSU,Fuentes de Poder,MAC,PSUMACPHH30GG2,Fuentes de Poder MAC
+Tech DCM Barcelona,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000076,04-04-2025,$252.92,12,12%,21%,$3231.71,DCK,Docking Stations,EPSON,DCKEPS6NYQAELY,Docking Stations EPSON
+Tech DCM Barcelona,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000076,04-04-2025,$283.01,10,0%,21%,$3424.42,KIT,Kits/Combos Periféricos,DYNABOOK,KITDYN0JDCLI69,Kits/Combos Periféricos DYNABOOK
+Tech BCN Norte,Carlos Díaz,Mateo Valdevas,Barcelona,Ecommerce,DNI1652580863,FAC000178,13-12-2024,$78.19,2,10%,21%,$170.30,WBC,Cámaras Web,DELL TECHNOLOGY,WBCDELYE6BGGRM,Cámaras Web DELL TECHNOLOGY
+Tech BCN Norte,Carlos Díaz,Mateo Valdevas,Barcelona,Ecommerce,DNI1652580863,FAC000178,13-12-2024,$140.42,5,7%,21%,$790.07,KIT,Kits/Combos Periféricos,Hp,KITHPXPJL9R9KM,Kits/Combos Periféricos Hp
+Tech BCN Norte,Carlos Díaz,Mateo Valdevas,Barcelona,Ecommerce,DNI1652580863,FAC000178,13-12-2024,$374.39,4,3%,21%,$1757.69,SMW,Smartwatches,CDP,SMWCDPPF0R8U7W,Smartwatches CDP
+Tech BCN Norte,Carlos Díaz,Mateo Valdevas,Barcelona,Ecommerce,DNI1652580863,FAC000178,13-12-2024,$445.86,9,15%,21%,$4127.10,IMP,Impresoras,ASUS,IMPASUGQFQE6RP,Impresoras ASUS profesional
+Tech BCN Sur,María Vidal,Rubén Méndez,Barcelona,Final,DNI9433302307,FAC000139,30-08-2019,$598.84,1,20%,21%,$579.68,SFT,Software,AMAZON,SFTAMAHK403UXH,Software AMAZON
+Tech BCN Centro,Sergio Martín,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000170,11-11-2018,$127.18,3,0%,21%,$461.66,MNT,Montajes/Soportes,GENIUS,MNTGENY5AYYOV8,Montajes/Soportes GENIUS
+Tech BCN Centro,Sergio Martín,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000170,11-11-2018,$1726.34,6,3%,21%,$12157.23,CPU,Computadoras,EPSON,CPUEPS3XQ8VA8X,"Computadoras EPSON i5, 8GB RAM, SSD 1TB"
+Tech BCN Norte,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000253,17-10-2018,$54.26,11,3%,21%,$700.53,HUB,Hubs USB,DELL TECHNOLOGY,HUBDELDJI1OAHN,Hubs USB DELL TECHNOLOGY
+Tech BCN Norte,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000253,17-10-2018,$81.77,8,15%,21%,$672.80,TEC,Teclados,CANON,TECCANRP3LYEX3,Teclados CANON
+Tech BCN Norte,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000253,17-10-2018,$173.47,8,5%,21%,$1595.23,PSU,Fuentes de Poder,GENIUS,PSUGENJVDPNGWD,Fuentes de Poder GENIUS
+Tech BCN Norte,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000253,17-10-2018,$312.33,3,7%,21%,$1054.39,SBR,Barras de Sonido,LOGITECH,SBRLOGZ7SXDQC2,Barras de Sonido LOGITECH alta fidelidad
+Tech BCN Norte,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000253,17-10-2018,$223.09,5,10%,21%,$1214.73,SSD,Unidades SSD,Hp,SSDHPXPUT7SSOQ,Unidades SSD Hp 128GB
+Tech DCM Barcelona,Carlos Díaz,Marc Iglesias,Barcelona,Final,DNI5319337766,FAC000065,08-03-2018,$620.44,8,7%,21%,$5585.45,DVR,DVR/NVR Seguridad,LOGITECH,DVRLOGQ24BOZL0,DVR/NVR Seguridad LOGITECH profesional
+Tech BCN Centro,Ana Beltrán,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000013,29-01-2020,$359.77,11,15%,21%,$4070.26,DVR,DVR/NVR Seguridad,LESMARK,DVRLESJYPAOAXQ,DVR/NVR Seguridad LESMARK profesional
+Tech BCN Norte,Sergio Martín,Raúl Pérez,Barcelona,Distribuidor,DNI9625670649,FAC000233,24-05-2021,$956.21,11,20%,21%,$10181.72,GPU,Tarjetas de Video,MAC,GPUMACAEA84HXX,Tarjetas de Video MAC 8GB GDDR6
+Tech BCN Norte,Nuria Pascual,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000011,30-08-2019,$102.55,7,0%,21%,$868.60,RTR,Routers,ADATA,RTRADAE60QRAQI,Routers ADATA gigabit
+Tech BCN Norte,Nuria Pascual,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000011,30-08-2019,$22.59,7,15%,21%,$162.64,AUD,Audífonos,ADATA,AUDADAD4PORU09,Audífonos ADATA alta fidelidad
+Tech BCN Norte,Nuria Pascual,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000011,30-08-2019,$303.43,5,12%,21%,$1615.46,SCN,Escáneres,KIGNSTON,SCNKIG0765ICAU,Escáneres KIGNSTON profesional
+Tech BCN Norte,Nuria Pascual,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000011,30-08-2019,$370.67,4,10%,21%,$1614.64,TBL,Tablets,APC,TBLAPCR7MZAKGM,Tablets APC
+Tech BCN Sur,Jordi Serra,Javier Serra,Barcelona,Final,DNI4193690557,FAC000166,16-04-2021,$92.09,3,5%,21%,$317.57,COO,Refrigeración,LOGITECH,COOLOGXMR8FHYD,Refrigeración LOGITECH
+Tech BCN Sur,Jordi Serra,Javier Serra,Barcelona,Final,DNI4193690557,FAC000166,16-04-2021,$141.28,11,3%,21%,$1824.02,UPS,UPS,LESMARK,UPSLESR27RIU9M,UPS LESMARK
+Tech BCN Sur,Jordi Serra,Javier Serra,Barcelona,Final,DNI4193690557,FAC000166,16-04-2021,$77.50,1,20%,21%,$75.02,SUM,Suministros,Hp,SUMHPXBCPWEIJM,Suministros Hp
+Tech BCN Sur,Jordi Serra,Javier Serra,Barcelona,Final,DNI4193690557,FAC000166,16-04-2021,$192.60,2,2%,21%,$456.77,RAM,Memoria RAM,MAC,RAMMAC45VDB828,Memoria RAM MAC 2TB
+Tech DCM Barcelona,Jordi Serra,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000191,24-01-2025,$54.98,4,15%,21%,$226.19,HDD,Discos Duros Internos,CORSAIR,HDDCORFKPS0DXM,Discos Duros Internos CORSAIR 512GB
+Tech DCM Barcelona,Ana Beltrán,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000048,25-04-2023,$976.58,3,12%,21%,$3119.59,PRJ,Proyectores,Hp,PRJHPXGJZOWI1T,Proyectores Hp profesional
+Tech DCM Barcelona,Ana Beltrán,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000048,25-04-2023,$97.95,2,2%,21%,$232.30,COO,Refrigeración,DYNABOOK,COODYN68SY7P1Z,Refrigeración DYNABOOK
+Tech DCM Barcelona,Ana Beltrán,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000048,25-04-2023,$342.43,12,20%,21%,$3977.67,AUD,Audífonos,CDP,AUDCDPO1POB7FU,Audífonos CDP alta fidelidad
+Tech BCN Sur,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000090,20-08-2025,$42.69,9,15%,21%,$395.16,WBC,Cámaras Web,SONY,WBCSON06AKT7ZQ,Cámaras Web SONY
+Tech BCN Sur,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000090,20-08-2025,$38.30,3,20%,21%,$111.22,LIM,Kits de Limpieza,CORSAIR,LIMCOR52OHKBM0,Kits de Limpieza CORSAIR
+Tech BCN Sur,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000090,20-08-2025,$499.23,5,12%,21%,$2657.90,VRG,Realidad Virtual/AR,CANON,VRGCANHSLMWA6T,Realidad Virtual/AR CANON
+Tech BCN Sur,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000090,20-08-2025,$311.87,1,15%,21%,$320.76,SCN,Escáneres,APC,SCNAPC04JSE17Q,Escáneres APC profesional
+Tech BCN Sur,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000090,20-08-2025,$106.74,12,3%,21%,$1503.37,AUD,Audífonos,ASUS,AUDASU29U6WTVM,Audífonos ASUS alta fidelidad
+Tech BCN Sur,Carlos Díaz,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000053,11-10-2020,$223.80,8,5%,21%,$2058.06,MIC,Micrófonos,Hp,MICHPXU3NDZ3CC,Micrófonos Hp alta fidelidad
+Tech DCM Barcelona,Laura Gómez,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000230,04-08-2025,$192.32,7,3%,21%,$1580.08,GAB,Gabinetes,KIGNSTON,GABKIGU25VW9Y8,Gabinetes KIGNSTON
+Tech DCM Barcelona,Laura Gómez,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000230,04-08-2025,$229.02,9,10%,21%,$2244.63,RED,Equipos de Red,Hp,REDHPXEZEZ5EHR,Equipos de Red Hp gigabit
+Tech DCM Barcelona,Laura Gómez,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000230,04-08-2025,$51.16,1,3%,21%,$60.05,TEC,Teclados,LESMARK,TECLES4DNKSEKN,Teclados LESMARK
+Tech DCM Barcelona,Laura Gómez,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000230,04-08-2025,$117.62,1,12%,21%,$125.24,RED,Equipos de Red,XEROX,REDXERVB66H3RE,Equipos de Red XEROX gigabit
+Tech DCM Barcelona,Laura Gómez,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000230,04-08-2025,$807.38,8,15%,21%,$6643.12,TBL,Tablets,KIGNSTON,TBLKIGLQMN44EE,Tablets KIGNSTON
+Tech BCN Norte,María Vidal,Víctor Santos,Barcelona,Ecommerce,DNI8849418478,FAC000140,03-01-2025,$130.23,10,7%,21%,$1465.48,COO,Refrigeración,DELL TECHNOLOGY,COODELIOT860X5,Refrigeración DELL TECHNOLOGY
+Tech BCN Norte,María Vidal,Víctor Santos,Barcelona,Ecommerce,DNI8849418478,FAC000140,03-01-2025,$147.99,1,2%,21%,$175.49,GAM,Accesorios Gaming,LG,GAMLGXEUGWUBUG,Accesorios Gaming LG
+Tech BCN Norte,María Vidal,Víctor Santos,Barcelona,Ecommerce,DNI8849418478,FAC000140,03-01-2025,$315.22,7,0%,21%,$2669.91,WAP,Access Points Wi‑Fi,INTEL,WAPINTGA2IZ5P3,Access Points Wi‑Fi INTEL gigabit
+Tech BCN Norte,María Vidal,Víctor Santos,Barcelona,Ecommerce,DNI8849418478,FAC000140,03-01-2025,$599.39,3,7%,21%,$2023.48,PHN,Smartphones,ADATA,PHNADAMGATND9T,Smartphones ADATA
+Tech BCN Norte,María Vidal,Víctor Santos,Barcelona,Ecommerce,DNI8849418478,FAC000140,03-01-2025,$23.82,3,12%,21%,$76.09,MNT,Montajes/Soportes,AMAZON,MNTAMAF8YC8GZK,Montajes/Soportes AMAZON
+Tech BCN Norte,Sergio Martín,Claudia Campos,Barcelona,Ecommerce,DNI2363646936,FAC000226,11-05-2019,$39.60,8,0%,21%,$383.33,FME,Flash Memory,ASUS,FMEASU1VR1NECQ,Flash Memory ASUS 512GB
+Tech BCN Centro,Luis Pons,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000006,07-01-2021,$119.60,3,10%,21%,$390.73,PWB,Power Banks,LOGITECH,PWBLOGD1XEUQ4S,Power Banks LOGITECH
+Tech BCN Centro,Luis Pons,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000006,07-01-2021,$540.49,3,0%,21%,$1961.98,VRG,Realidad Virtual/AR,ARGOM,VRGARG2TP6QAQ3,Realidad Virtual/AR ARGOM
+Tech BCN Centro,Luis Pons,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000006,07-01-2021,$139.72,9,2%,21%,$1491.12,IMP,Impresoras,GENIUS,IMPGENJJY94H4K,Impresoras GENIUS profesional
+Tech BCN Centro,Luis Pons,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000006,07-01-2021,$57.97,11,10%,21%,$694.42,WBC,Cámaras Web,AMAZON,WBCAMAOEFUKPV8,Cámaras Web AMAZON
+Tech BCN Centro,Luis Pons,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000006,07-01-2021,$184.09,3,0%,21%,$668.25,NIC,Tarjetas de Red,BENQ,NICBEN9ZJXLH8L,Tarjetas de Red BENQ gigabit
+Tech BCN Sur,Luis Pons,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000268,09-02-2018,$151.45,11,15%,21%,$1713.43,COO,Refrigeración,INTEL,COOINT6Z1T2XCB,Refrigeración INTEL
+Tech BCN Sur,Luis Pons,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000268,09-02-2018,$178.06,4,15%,21%,$732.54,KVM,KVM Switches,APC,KVMAPCM33MG1ZA,KVM Switches APC
+Tech BCN Centro,Luis Pons,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000241,25-02-2021,$64.84,10,5%,21%,$745.34,FME,Flash Memory,AMAZON,FMEAMA3W3H98BR,Flash Memory AMAZON 8GB
+Tech BCN Centro,Luis Pons,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000241,25-02-2021,$53.04,2,3%,21%,$124.51,FME,Flash Memory,LG,FMELGXO5URTXUY,Flash Memory LG 16GB
+Tech BCN Centro,Luis Pons,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000241,25-02-2021,$1403.81,10,7%,21%,$15797.07,GPU,Tarjetas de Video,BENQ,GPUBEN7450J4A8,Tarjetas de Video BENQ 24GB GDDR6
+Tech DCM Barcelona,Sergio Martín,Laia López,Barcelona,Ecommerce,DNI8827291492,FAC000092,10-03-2025,$26.04,7,20%,21%,$176.45,MIC,Micrófonos,DYNABOOK,MICDYN4OESRSBZ,Micrófonos DYNABOOK alta fidelidad
+Tech BCN Norte,Luis Pons,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000019,25-05-2022,$121.94,2,2%,21%,$289.19,AUD,Audífonos,AMAZON,AUDAMA539IY87H,Audífonos AMAZON alta fidelidad
+Tech BCN Norte,Luis Pons,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000019,25-05-2022,$67.94,6,20%,21%,$394.60,MOU,Mouse,GENIUS,MOUGENPA274IR8,Mouse GENIUS
+Tech BCN Centro,María Vidal,Carla Cabrera,Barcelona,Ecommerce,DNI7260113165,FAC000219,23-09-2024,$632.64,1,15%,21%,$650.67,SWI,Switches,TP-LINK,SWITPLDQE97N6Y,Switches TP-LINK gigabit
+Tech BCN Centro,María Vidal,Carla Cabrera,Barcelona,Ecommerce,DNI7260113165,FAC000219,23-09-2024,$232.11,10,0%,21%,$2808.53,IMP,Impresoras,CANON,IMPCANVPDCB4OW,Impresoras CANON profesional
+Tech BCN Centro,María Vidal,Carla Cabrera,Barcelona,Ecommerce,DNI7260113165,FAC000219,23-09-2024,$931.18,2,2%,21%,$2208.39,NAS,Almacenamiento NAS,DELL TECHNOLOGY,NASDELQPWDXYAS,Almacenamiento NAS DELL TECHNOLOGY
+Tech BCN Centro,María Vidal,Carla Cabrera,Barcelona,Ecommerce,DNI7260113165,FAC000219,23-09-2024,$39.15,3,5%,21%,$135.01,ACC,Accesorios,LESMARK,ACCLESZV46ESMR,Accesorios LESMARK
+Tech BCN Centro,María Vidal,Carla Cabrera,Barcelona,Ecommerce,DNI7260113165,FAC000219,23-09-2024,$419.41,8,7%,21%,$3775.70,GPU,Tarjetas de Video,XEROX,GPUXERBEVSXMVT,Tarjetas de Video XEROX 24GB GDDR6
+Tech BCN Norte,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000138,03-02-2018,$137.19,2,10%,21%,$298.80,PWB,Power Banks,LOGITECH,PWBLOGYCS44PHH,Power Banks LOGITECH
+Tech BCN Norte,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000138,03-02-2018,$32.93,2,15%,21%,$67.74,FME,Flash Memory,LOGITECH,FMELOGRYQY4UMK,Flash Memory LOGITECH 8GB
+Tech BCN Norte,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000138,03-02-2018,$1476.22,7,5%,21%,$11878.40,PHN,Smartphones,ASUS,PHNASU7WYQHR13,Smartphones ASUS
+Tech BCN Norte,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000138,03-02-2018,$231.23,6,0%,21%,$1678.73,GAB,Gabinetes,ARGOM,GABARG3AAMTFPW,Gabinetes ARGOM
+Tech BCN Norte,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000138,03-02-2018,$68.69,2,0%,21%,$166.23,MOU,Mouse,ASROCK,MOUASRHG5ZMTGA,Mouse ASROCK
+Tech BCN Centro,Sergio Martín,Marina Méndez,Barcelona,Distribuidor,DNI4768445880,FAC000054,06-05-2025,$308.65,2,2%,21%,$731.99,AUD,Audífonos,ASROCK,AUDASRKI3X7995,Audífonos ASROCK alta fidelidad
+Tech BCN Centro,Ana Beltrán,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000165,25-02-2020,$245.29,6,5%,21%,$1691.77,PSU,Fuentes de Poder,SAMSUNG,PSUSAMNV9IBWGT,Fuentes de Poder SAMSUNG
+Tech BCN Centro,Ana Beltrán,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000165,25-02-2020,$325.50,2,3%,21%,$764.08,IMP,Impresoras,LG,IMPLGX25485HCQ,Impresoras LG profesional
+Tech BCN Centro,Ana Beltrán,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000165,25-02-2020,$374.89,8,15%,21%,$3084.59,SCN,Escáneres,DELL TECHNOLOGY,SCNDEL1XSRQLNZ,Escáneres DELL TECHNOLOGY profesional
+Tech BCN Centro,Ana Beltrán,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000165,25-02-2020,$86.91,7,3%,21%,$714.04,RAM,Memoria RAM,KIGNSTON,RAMKIGO7VBHH5O,Memoria RAM KIGNSTON 256GB
+Tech BCN Centro,Ana Beltrán,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000165,25-02-2020,$292.04,7,12%,21%,$2176.75,MBD,Motherboards,INTEL,MBDINTD1KSIBSM,Motherboards INTEL
+Tech BCN Sur,Laura Gómez,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000212,23-01-2021,$27.90,4,2%,21%,$132.34,MOU,Mouse,ARGOM,MOUARGPJC6KSTC,Mouse ARGOM
+Tech BCN Sur,Laura Gómez,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000212,23-01-2021,$36.69,10,3%,21%,$430.63,TEC,Teclados,AMAZON,TECAMAMTMYJ014,Teclados AMAZON
+Tech BCN Sur,Laura Gómez,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000212,23-01-2021,$300.48,11,0%,21%,$3999.39,CTV,Cámaras de Seguridad,SAMSUNG,CTVSAM06AK32OO,Cámaras de Seguridad SAMSUNG profesional
+Tech BCN Sur,Laura Gómez,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000212,23-01-2021,$968.85,8,15%,21%,$7971.70,TBL,Tablets,LG,TBLLGXS1FOI0RS,Tablets LG
+Tech DCM Barcelona,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000196,09-02-2020,$79.97,11,10%,21%,$957.96,MNT,Montajes/Soportes,SAMSUNG,MNTSAMPP4BF5L0,Montajes/Soportes SAMSUNG
+Tech DCM Barcelona,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000196,09-02-2020,$323.53,3,10%,21%,$1056.97,AUD,Audífonos,ASUS,AUDASUPYO2TLA2,Audífonos ASUS alta fidelidad
+Tech DCM Barcelona,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000196,09-02-2020,$45.36,6,15%,21%,$279.92,USB,Pendrives USB,LG,USBLGX26UON8CN,Pendrives USB LG 128GB
+Tech DCM Barcelona,Laura Gómez,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000196,09-02-2020,$725.73,4,7%,21%,$3266.66,CPU,Computadoras,ARGOM,CPUARGDTBYRGC8,"Computadoras ARGOM Ryzen 7, 32GB RAM, SSD 256GB"
+Tech DCM Barcelona,Laura Gómez,Laia López,Barcelona,Ecommerce,DNI8827291492,FAC000298,25-10-2023,$352.99,3,5%,21%,$1217.29,UPS,UPS,CDP,UPSCDP4OFDTRC8,UPS CDP
+Tech BCN Sur,Nuria Pascual,Javier Martí,Barcelona,Final,DNI7031934278,FAC000040,13-10-2019,$73.64,9,10%,21%,$721.75,USB,Pendrives USB,CANON,USBCANVSYJAFCO,Pendrives USB CANON 4TB
+Tech BCN Sur,Nuria Pascual,Javier Martí,Barcelona,Final,DNI7031934278,FAC000040,13-10-2019,$777.03,3,12%,21%,$2482.14,PHN,Smartphones,EPSON,PHNEPSQBDX7M42,Smartphones EPSON
+Tech BCN Sur,Nuria Pascual,Javier Martí,Barcelona,Final,DNI7031934278,FAC000040,13-10-2019,$90.92,3,7%,21%,$306.94,SSD,Unidades SSD,ARGOM,SSDARG60Q6GUO8,Unidades SSD ARGOM 2TB
+Tech BCN Sur,Nuria Pascual,Javier Martí,Barcelona,Final,DNI7031934278,FAC000040,13-10-2019,$230.36,2,20%,21%,$445.98,PRJ,Proyectores,LOGITECH,PRJLOG6Z0HR9T9,Proyectores LOGITECH profesional
+Tech BCN Sur,Nuria Pascual,Javier Martí,Barcelona,Final,DNI7031934278,FAC000040,13-10-2019,$63.36,12,12%,21%,$809.59,MNT,Montajes/Soportes,TP-LINK,MNTTPLLQJSQCZ0,Montajes/Soportes TP-LINK
+Tech BCN Centro,Sergio Martín,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000290,04-06-2018,$285.73,8,7%,21%,$2572.26,MBD,Motherboards,APC,MBDAPCZEYQQCXZ,Motherboards APC
+Tech BCN Centro,Jordi Serra,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000141,15-03-2018,$815.85,1,20%,21%,$789.74,LAP,Laptops,ARGOM,LAPARGKTOC1YFM,"Laptops ARGOM i5, 16GB RAM, SSD 1TB"
+Tech BCN Centro,Jordi Serra,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000141,15-03-2018,$365.79,4,5%,21%,$1681.90,IMP,Impresoras,LG,IMPLGX3XZ6OLBA,Impresoras LG profesional
+Tech BCN Centro,Jordi Serra,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000141,15-03-2018,$16.11,11,3%,21%,$207.99,CAB,Cables y Adaptadores,ASUS,CABASUHABA3YC8,Cables y Adaptadores ASUS
+Tech BCN Centro,Jordi Serra,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000141,15-03-2018,$55.92,4,5%,21%,$257.12,SDC,Lectores de Tarjetas SD,ARGOM,SDCARGBS3LWW7O,Lectores de Tarjetas SD ARGOM 16GB
+Tech BCN Centro,Jordi Serra,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000141,15-03-2018,$234.01,2,5%,21%,$537.99,SFT,Software,CDP,SFTCDPGOLOQC3X,Software CDP
+Tech BCN Norte,Marta Soler,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000109,09-08-2023,$278.87,12,3%,21%,$3927.72,KIT,Kits/Combos Periféricos,INTEL,KITINT27UJDLWN,Kits/Combos Periféricos INTEL
+Tech BCN Centro,Laura Gómez,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000320,22-06-2025,$107.18,2,7%,21%,$241.22,MON,Monitores,CDP,MONCDPA6QS0SZA,"Monitores CDP 24"" 144Hz"
+Tech BCN Centro,Laura Gómez,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000320,22-06-2025,$309.09,8,10%,21%,$2692.79,CTV,Cámaras de Seguridad,ASUS,CTVASUWCNKFHB7,Cámaras de Seguridad ASUS profesional
+Tech BCN Centro,Laura Gómez,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000320,22-06-2025,$1505.82,6,5%,21%,$10385.64,GPU,Tarjetas de Video,BENQ,GPUBENL2B2O31I,Tarjetas de Video BENQ 8GB GDDR6
+Tech BCN Centro,Laura Gómez,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000320,22-06-2025,$747.19,1,2%,21%,$886.02,VRG,Realidad Virtual/AR,AMD,VRGAMD6XIYZVNL,Realidad Virtual/AR AMD
+Tech DCM Barcelona,Ana Beltrán,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000222,02-08-2018,$139.64,4,12%,21%,$594.75,HDD,Discos Duros Internos,MAC,HDDMACDV37IC0L,Discos Duros Internos MAC 32GB
+Tech DCM Barcelona,Ana Beltrán,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000222,02-08-2018,$51.55,8,15%,21%,$424.15,HUB,Hubs USB,ASUS,HUBASUKU8H5R8M,Hubs USB ASUS
+Tech BCN Sur,Jordi Serra,Raúl García,Barcelona,Ecommerce,DNI6079563937,FAC000218,29-05-2023,$170.28,5,12%,21%,$906.57,CTV,Cámaras de Seguridad,DELL TECHNOLOGY,CTVDELPC6KTTGN,Cámaras de Seguridad DELL TECHNOLOGY profesional
+Tech BCN Sur,María Vidal,Oriol Santos,Barcelona,Ecommerce,DNI2961937397,FAC000149,26-09-2021,$130.50,12,10%,21%,$1705.37,KIT,Kits/Combos Periféricos,GENIUS,KITGENH6A50NOO,Kits/Combos Periféricos GENIUS
+Tech BCN Sur,María Vidal,Oriol Santos,Barcelona,Ecommerce,DNI2961937397,FAC000149,26-09-2021,$238.37,5,10%,21%,$1297.92,PSU,Fuentes de Poder,GENIUS,PSUGENL9C59E7F,Fuentes de Poder GENIUS
+Tech BCN Sur,Laura Gómez,Nora López,Barcelona,Final,DNI7726692101,FAC000236,25-08-2018,$189.52,11,3%,21%,$2446.84,RTR,Routers,SONY,RTRSONIR7NZBXF,Routers SONY gigabit
+Tech BCN Sur,Laura Gómez,Nora López,Barcelona,Final,DNI7726692101,FAC000236,25-08-2018,$355.50,2,20%,21%,$688.25,MBD,Motherboards,ASUS,MBDASUV84A1X7O,Motherboards ASUS
+Tech BCN Sur,Laura Gómez,Nora López,Barcelona,Final,DNI7726692101,FAC000236,25-08-2018,$68.96,12,2%,21%,$981.27,FME,Flash Memory,DYNABOOK,FMEDYNFPYST5V0,Flash Memory DYNABOOK 16GB
+Tech BCN Sur,Laura Gómez,Nora López,Barcelona,Final,DNI7726692101,FAC000236,25-08-2018,$166.03,1,2%,21%,$196.88,NIC,Tarjetas de Red,KIGNSTON,NICKIG1MF07OL9,Tarjetas de Red KIGNSTON gigabit
+Tech BCN Sur,Carlos Díaz,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000060,04-09-2022,$28.79,1,3%,21%,$33.79,SDC,Lectores de Tarjetas SD,DYNABOOK,SDCDYNGNZHG8Q3,Lectores de Tarjetas SD DYNABOOK 64GB
+Tech BCN Sur,Carlos Díaz,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000060,04-09-2022,$93.94,4,15%,21%,$386.47,MBD,Motherboards,DYNABOOK,MBDDYNP6DWCDEC,Motherboards DYNABOOK
+Tech BCN Sur,Carlos Díaz,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000060,04-09-2022,$1450.20,7,20%,21%,$9826.56,PHN,Smartphones,LOGITECH,PHNLOG1AJ8X2BH,Smartphones LOGITECH
+Tech BCN Norte,Nuria Pascual,Jordi Guerrero,Barcelona,Distribuidor,DNI8744626770,FAC000300,23-04-2023,$117.28,6,2%,21%,$834.42,HUB,Hubs USB,DYNABOOK,HUBDYNMYMLINOV,Hubs USB DYNABOOK
+Tech BCN Norte,Nuria Pascual,Jordi Guerrero,Barcelona,Distribuidor,DNI8744626770,FAC000300,23-04-2023,$46.33,4,10%,21%,$201.81,ACC,Accesorios,EPSON,ACCEPS5O47AET8,Accesorios EPSON
+Tech BCN Norte,Nuria Pascual,Jordi Guerrero,Barcelona,Distribuidor,DNI8744626770,FAC000300,23-04-2023,$518.01,1,10%,21%,$564.11,SWI,Switches,LESMARK,SWILESY5SXAW7L,Switches LESMARK gigabit
+Tech BCN Sur,Ana Beltrán,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000267,21-10-2024,$192.87,5,5%,21%,$1108.52,GAB,Gabinetes,SONY,GABSONWCP77946,Gabinetes SONY
+Tech BCN Sur,Ana Beltrán,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000267,21-10-2024,$298.97,8,3%,21%,$2807.21,KIT,Kits/Combos Periféricos,MAC,KITMAC552ZBRD3,Kits/Combos Periféricos MAC
+Tech BCN Sur,Ana Beltrán,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000267,21-10-2024,$52.50,6,12%,21%,$335.41,SWI,Switches,APC,SWIAPCRTIG7ZD9,Switches APC gigabit
+Tech BCN Sur,Ana Beltrán,Elena Cabrera,Barcelona,Distribuidor,DNI0360085622,FAC000267,21-10-2024,$22.66,12,10%,21%,$296.12,MNT,Montajes/Soportes,BENQ,MNTBENHJR6EET0,Montajes/Soportes BENQ
+Tech DCM Barcelona,Laura Gómez,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000002,25-03-2022,$557.45,4,2%,21%,$2644.10,SBR,Barras de Sonido,LG,SBRLGX28PIJKEM,Barras de Sonido LG alta fidelidad
+Tech DCM Barcelona,Laura Gómez,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000002,25-03-2022,$41.01,6,3%,21%,$288.80,USB,Pendrives USB,CORSAIR,USBCORELN0LVGN,Pendrives USB CORSAIR 2TB
+Tech DCM Barcelona,Laura Gómez,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000002,25-03-2022,$349.59,3,7%,21%,$1180.18,WAP,Access Points Wi‑Fi,LESMARK,WAPLESVDA4L3KH,Access Points Wi‑Fi LESMARK gigabit
+Tech DCM Barcelona,Laura Gómez,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000002,25-03-2022,$217.83,8,5%,21%,$2003.16,RED,Equipos de Red,SONY,REDSONX2ZVL9E9,Equipos de Red SONY gigabit
+Tech BCN Norte,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000240,29-08-2018,$129.71,11,3%,21%,$1674.65,RED,Equipos de Red,SAMSUNG,REDSAMH03ZB5GR,Equipos de Red SAMSUNG gigabit
+Tech BCN Norte,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000240,29-08-2018,$74.46,12,20%,21%,$864.93,MOU,Mouse,INTEL,MOUINTOPRMOC0K,Mouse INTEL
+Tech BCN Norte,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000240,29-08-2018,$64.58,12,15%,21%,$797.05,GAB,Gabinetes,APC,GABAPCE1U24ZQF,Gabinetes APC
+Tech BCN Centro,Ana Beltrán,Sofía Torres,Barcelona,Final,DNI4246116364,FAC000272,12-06-2020,$682.83,1,2%,21%,$809.70,DVR,DVR/NVR Seguridad,LG,DVRLGXA0UY9F8P,DVR/NVR Seguridad LG profesional
+Tech BCN Centro,Ana Beltrán,Sofía Torres,Barcelona,Final,DNI4246116364,FAC000272,12-06-2020,$39.72,4,12%,21%,$169.18,SFT,Software,GENIUS,SFTGENGB9XV8WO,Software GENIUS
+Tech BCN Norte,Marta Soler,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000051,08-12-2019,$11.62,2,2%,21%,$27.56,MNT,Montajes/Soportes,SAMSUNG,MNTSAM9YDQ3NWQ,Montajes/Soportes SAMSUNG
+Tech BCN Norte,Marta Soler,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000051,08-12-2019,$93.00,7,15%,21%,$669.55,TEC,Teclados,GENIUS,TECGENX6IV9RYD,Teclados GENIUS
+Tech BCN Norte,Marta Soler,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000051,08-12-2019,$76.59,9,20%,21%,$667.25,SBR,Barras de Sonido,SAMSUNG,SBRSAMPUDC62G3,Barras de Sonido SAMSUNG alta fidelidad
+Tech BCN Norte,Marta Soler,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000051,08-12-2019,$129.17,10,3%,21%,$1516.07,SMW,Smartwatches,GENIUS,SMWGENC4T3X1HX,Smartwatches GENIUS
+Tech BCN Sur,Laura Gómez,Mateo Valdevas,Barcelona,Ecommerce,DNI1652580863,FAC000127,19-05-2019,$1157.19,7,0%,21%,$9801.40,GPU,Tarjetas de Video,KIGNSTON,GPUKIGHFU4B9SN,Tarjetas de Video KIGNSTON 8GB GDDR6
+Tech DCM Barcelona,Carlos Díaz,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000210,16-04-2021,$661.22,4,0%,21%,$3200.30,SWI,Switches,MAC,SWIMACUZS9MTHD,Switches MAC gigabit
+Tech DCM Barcelona,Carlos Díaz,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000210,16-04-2021,$11.32,5,7%,21%,$63.69,FME,Flash Memory,MAC,FMEMACK38VHMEW,Flash Memory MAC 512GB
+Tech DCM Barcelona,Carlos Díaz,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000210,16-04-2021,$896.10,12,5%,21%,$12360.80,SBR,Barras de Sonido,ARGOM,SBRARGOCJPZTC0,Barras de Sonido ARGOM alta fidelidad
+Tech DCM Barcelona,Carlos Díaz,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000210,16-04-2021,$289.92,4,2%,21%,$1375.15,KIT,Kits/Combos Periféricos,CORSAIR,KITCORUXSF3L2N,Kits/Combos Periféricos CORSAIR
+Tech DCM Barcelona,Carlos Díaz,Alba Pérez,Barcelona,Ecommerce,DNI9643981332,FAC000210,16-04-2021,$202.55,5,0%,21%,$1225.43,RAM,Memoria RAM,APC,RAMAPCTYOLD62F,Memoria RAM APC 16GB
+Tech BCN Centro,Sergio Martín,Arturo Giménez,Barcelona,Ecommerce,DNI8217330854,FAC000119,07-03-2019,$125.42,1,3%,21%,$147.21,SUM,Suministros,Hp,SUMHPX0L3RTZ5T,Suministros Hp
+Tech BCN Sur,Jordi Serra,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000231,14-11-2021,$174.59,5,0%,21%,$1056.27,GAM,Accesorios Gaming,LESMARK,GAMLES5OVJYZXF,Accesorios Gaming LESMARK
+Tech BCN Sur,Jordi Serra,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000231,14-11-2021,$64.25,5,12%,21%,$342.07,SDC,Lectores de Tarjetas SD,LG,SDCLGX9ZIVZG92,Lectores de Tarjetas SD LG 2TB
+Tech BCN Sur,Jordi Serra,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000231,14-11-2021,$284.56,3,0%,21%,$1032.95,KIT,Kits/Combos Periféricos,ASUS,KITASUK48OLDC0,Kits/Combos Periféricos ASUS
+Tech BCN Sur,Jordi Serra,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000231,14-11-2021,$1046.71,11,20%,21%,$11145.37,CPU,Computadoras,SONY,CPUSONK73A8Y7E,"Computadoras SONY Ryzen 7, 8GB RAM, SSD 512GB"
+Tech BCN Sur,Jordi Serra,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000231,14-11-2021,$55.63,9,0%,21%,$605.81,ACC,Accesorios,LESMARK,ACCLESG3APTM9X,Accesorios LESMARK
+Tech BCN Sur,Jordi Serra,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000078,25-07-2025,$204.53,4,20%,21%,$791.94,HDE,Discos Duros Externos,ARGOM,HDEARGC4S8PNNE,Discos Duros Externos ARGOM 16GB
+Tech BCN Sur,Jordi Serra,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000078,25-07-2025,$691.31,1,15%,21%,$711.01,PRJ,Proyectores,CANON,PRJCANRJAWO778,Proyectores CANON profesional
+Tech BCN Sur,Jordi Serra,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000078,25-07-2025,$42.75,7,15%,21%,$307.78,DCK,Docking Stations,GENIUS,DCKGENCAQKDM0O,Docking Stations GENIUS
+Tech BCN Sur,Jordi Serra,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000078,25-07-2025,$36.82,6,12%,21%,$235.24,FME,Flash Memory,AMAZON,FMEAMAT6O6A1JQ,Flash Memory AMAZON 32GB
+Tech BCN Sur,Jordi Serra,Laia Martí,Barcelona,Distribuidor,DNI4890871782,FAC000078,25-07-2025,$1107.45,2,5%,21%,$2546.03,VRG,Realidad Virtual/AR,XEROX,VRGXERJ9XPF0A5,Realidad Virtual/AR XEROX
+Tech DCM Barcelona,Jordi Serra,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000145,05-06-2022,$651.87,12,3%,21%,$9181.20,DVR,DVR/NVR Seguridad,CDP,DVRCDP6FHRXJPT,DVR/NVR Seguridad CDP profesional
+Tech DCM Barcelona,Jordi Serra,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000145,05-06-2022,$19.97,3,10%,21%,$65.24,MIC,Micrófonos,TP-LINK,MICTPL15S74NDD,Micrófonos TP-LINK alta fidelidad
+Tech DCM Barcelona,Jordi Serra,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000145,05-06-2022,$273.81,7,5%,21%,$2203.21,SCN,Escáneres,ADATA,SCNADA1IYM90PK,Escáneres ADATA profesional
+Tech DCM Barcelona,Jordi Serra,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000145,05-06-2022,$186.91,2,20%,21%,$361.86,DCK,Docking Stations,MAC,DCKMAC0GKEJZXP,Docking Stations MAC
+Tech BCN Centro,Ana Beltrán,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000075,18-08-2024,$113.31,5,5%,21%,$651.25,HDE,Discos Duros Externos,APC,HDEAPCEB97PWDB,Discos Duros Externos APC 64GB
+Tech BCN Centro,Ana Beltrán,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000075,18-08-2024,$118.75,1,3%,21%,$139.38,AUD,Audífonos,DYNABOOK,AUDDYNRSXKJKMP,Audífonos DYNABOOK alta fidelidad
+Tech DCM Barcelona,Luis Pons,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000052,29-05-2025,$36.98,9,3%,21%,$390.63,HDD,Discos Duros Internos,CANON,HDDCANQ6DG8NKD,Discos Duros Internos CANON 256GB
+Tech DCM Barcelona,Luis Pons,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000052,29-05-2025,$17.23,11,2%,21%,$224.74,CAB,Cables y Adaptadores,SONY,CABSON30VVIJVD,Cables y Adaptadores SONY
+Tech DCM Barcelona,Luis Pons,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000052,29-05-2025,$85.85,8,5%,21%,$789.48,PAR,Parlantes,KIGNSTON,PARKIG853GQD7W,Parlantes KIGNSTON alta fidelidad
+Tech BCN Centro,Luis Pons,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000296,08-06-2019,$29.96,7,2%,21%,$248.69,COO,Refrigeración,INTEL,COOINTZ614UMNW,Refrigeración INTEL
+Tech BCN Centro,Luis Pons,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000296,08-06-2019,$185.66,12,5%,21%,$2560.99,TBL,Tablets,DYNABOOK,TBLDYNS82GJ8K8,Tablets DYNABOOK
+Tech BCN Sur,Nuria Pascual,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000239,05-09-2025,$155.84,12,0%,21%,$2262.80,SCN,Escáneres,AMAZON,SCNAMAF1N2OJGF,Escáneres AMAZON profesional
+Tech BCN Sur,Nuria Pascual,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000239,05-09-2025,$294.77,5,0%,21%,$1783.36,SCN,Escáneres,EPSON,SCNEPSSZJ4KJEI,Escáneres EPSON profesional
+Tech BCN Sur,Nuria Pascual,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000239,05-09-2025,$36.49,11,10%,21%,$437.11,NIC,Tarjetas de Red,MAC,NICMAC7JE5B99H,Tarjetas de Red MAC gigabit
+Tech BCN Sur,Nuria Pascual,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000239,05-09-2025,$197.27,11,0%,21%,$2625.66,NIC,Tarjetas de Red,LESMARK,NICLES8L85JE6K,Tarjetas de Red LESMARK gigabit
+Tech BCN Sur,Nuria Pascual,Arturo Pérez,Barcelona,Final,DNI3099951313,FAC000239,05-09-2025,$439.11,12,12%,21%,$5610.77,SFT,Software,ASUS,SFTASU0KJAX57U,Software ASUS
+Tech BCN Norte,Marta Soler,Irene Núñez,Barcelona,Final,DNI8232971847,FAC000275,06-03-2024,$144.22,8,2%,21%,$1368.13,SWI,Switches,ASUS,SWIASULHW4OQ0P,Switches ASUS gigabit
+Tech BCN Norte,Marta Soler,Irene Núñez,Barcelona,Final,DNI8232971847,FAC000275,06-03-2024,$1607.23,7,5%,21%,$12932.58,PHN,Smartphones,ARGOM,PHNARGQ3GU7GKL,Smartphones ARGOM
+Tech BCN Centro,María Vidal,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000177,13-10-2022,$1260.66,11,0%,21%,$16779.38,NAS,Almacenamiento NAS,LG,NASLGX8DS03VNA,Almacenamiento NAS LG
+Tech BCN Centro,María Vidal,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000177,13-10-2022,$1663.77,12,2%,21%,$23674.78,GPU,Tarjetas de Video,ASUS,GPUASU1J7V2A2T,Tarjetas de Video ASUS 8GB GDDR6
+Tech BCN Sur,Marta Soler,Javier Giménez,Barcelona,Final,DNI0923810967,FAC000023,25-12-2022,$28.85,7,3%,21%,$237.03,WBC,Cámaras Web,CDP,WBCCDPRITJTABT,Cámaras Web CDP
+Tech BCN Sur,Marta Soler,Javier Giménez,Barcelona,Final,DNI0923810967,FAC000023,25-12-2022,$50.25,2,15%,21%,$103.36,ACC,Accesorios,ASUS,ACCASUAPFXI5N5,Accesorios ASUS
+Tech DCM Barcelona,Ana Beltrán,Pablo Rey,Barcelona,Ecommerce,DNI6048123438,FAC000084,21-02-2019,$367.77,11,12%,21%,$4307.62,SFT,Software,AMAZON,SFTAMAWE776VGT,Software AMAZON
+Tech DCM Barcelona,Ana Beltrán,Pablo Rey,Barcelona,Ecommerce,DNI6048123438,FAC000084,21-02-2019,$273.96,2,0%,21%,$662.98,RED,Equipos de Red,LOGITECH,REDLOGYWK5JRNJ,Equipos de Red LOGITECH gigabit
+Tech DCM Barcelona,Ana Beltrán,Pablo Rey,Barcelona,Ecommerce,DNI6048123438,FAC000084,21-02-2019,$288.68,5,3%,21%,$1694.12,RED,Equipos de Red,TP-LINK,REDTPLXLOZ2RCU,Equipos de Red TP-LINK gigabit
+Tech BCN Norte,Jordi Serra,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000250,15-01-2020,$242.25,9,15%,21%,$2242.39,SFT,Software,CDP,SFTCDPRR9VWE77,Software CDP
+Tech BCN Norte,Jordi Serra,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000250,15-01-2020,$446.10,2,5%,21%,$1025.58,VRG,Realidad Virtual/AR,INTEL,VRGINTRTIDZS13,Realidad Virtual/AR INTEL
+Tech BCN Norte,Jordi Serra,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000250,15-01-2020,$102.67,3,7%,21%,$346.60,CAB,Cables y Adaptadores,ADATA,CABADAH4NRED6M,Cables y Adaptadores ADATA
+Tech BCN Norte,Jordi Serra,Oriol Valdevas,Barcelona,Ecommerce,DNI8269111526,FAC000250,15-01-2020,$1080.18,3,12%,21%,$3450.53,NAS,Almacenamiento NAS,MAC,NASMAC4T7PHI0E,Almacenamiento NAS MAC
+Tech DCM Barcelona,Sergio Martín,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000073,03-03-2022,$30.61,7,3%,21%,$251.49,LIM,Kits de Limpieza,APC,LIMAPCXC45BNCC,Kits de Limpieza APC
+Tech BCN Centro,Nuria Pascual,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000120,28-07-2019,$32.19,3,20%,21%,$93.48,LIM,Kits de Limpieza,CANON,LIMCANQ0PXAECX,Kits de Limpieza CANON
+Tech BCN Centro,Nuria Pascual,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000120,28-07-2019,$129.56,3,7%,21%,$437.38,UPS,UPS,ADATA,UPSADAOP8QZJUL,UPS ADATA
+Tech BCN Centro,Nuria Pascual,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000120,28-07-2019,$1207.63,2,15%,21%,$2484.09,CPU,Computadoras,Hp,CPUHPXN80OCO39,"Computadoras Hp i9, 16GB RAM, SSD 1TB"
+Tech BCN Centro,Nuria Pascual,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000120,28-07-2019,$771.15,1,5%,21%,$886.44,SBR,Barras de Sonido,DELL TECHNOLOGY,SBRDEL3F2XHDCV,Barras de Sonido DELL TECHNOLOGY alta fidelidad
+Tech BCN Centro,Nuria Pascual,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000120,28-07-2019,$432.63,10,0%,21%,$5234.82,PRJ,Proyectores,ARGOM,PRJARGTCV1LTWB,Proyectores ARGOM profesional
+Tech BCN Sur,Luis Pons,Andrés Giménez,Barcelona,Ecommerce,DNI4007851819,FAC000018,16-07-2018,$1353.99,2,10%,21%,$2948.99,CPU,Computadoras,CANON,CPUCANAMKOH109,"Computadoras CANON i9, 32GB RAM, SSD 1TB"
+Tech BCN Sur,Luis Pons,Andrés Giménez,Barcelona,Ecommerce,DNI4007851819,FAC000018,16-07-2018,$1345.68,11,2%,21%,$17552.78,LAP,Laptops,Hp,LAPHPX3FVNV4KF,"Laptops Hp Ryzen 7, 8GB RAM, SSD 256GB"
+Tech BCN Sur,Luis Pons,Andrés Giménez,Barcelona,Ecommerce,DNI4007851819,FAC000018,16-07-2018,$173.19,3,10%,21%,$565.81,KVM,KVM Switches,LG,KVMLGXFZ9S9VS1,KVM Switches LG
+Tech BCN Norte,Marta Soler,Sofía Torres,Barcelona,Final,DNI4246116364,FAC000103,31-10-2022,$24.18,5,20%,21%,$117.03,KIT,Kits/Combos Periféricos,TP-LINK,KITTPLYI9V8U9D,Kits/Combos Periféricos TP-LINK
+Tech DCM Barcelona,Nuria Pascual,Hugo Rey,Barcelona,Final,DNI4459911218,FAC000184,21-01-2019,$126.22,5,15%,21%,$649.09,MIC,Micrófonos,ARGOM,MICARG7FKNDG1J,Micrófonos ARGOM alta fidelidad
+Tech DCM Barcelona,Nuria Pascual,Hugo Rey,Barcelona,Final,DNI4459911218,FAC000184,21-01-2019,$430.30,9,10%,21%,$4217.37,SBR,Barras de Sonido,MAC,SBRMAC78RNKOWY,Barras de Sonido MAC alta fidelidad
+Tech DCM Barcelona,Nuria Pascual,Hugo Rey,Barcelona,Final,DNI4459911218,FAC000184,21-01-2019,$33.15,9,0%,21%,$361.00,CAB,Cables y Adaptadores,AMAZON,CABAMAYSJ5YWX0,Cables y Adaptadores AMAZON
+Tech DCM Barcelona,Nuria Pascual,Hugo Rey,Barcelona,Final,DNI4459911218,FAC000184,21-01-2019,$199.90,8,2%,21%,$1896.33,RED,Equipos de Red,APC,REDAPCKFOCNQDQ,Equipos de Red APC gigabit
+Tech BCN Centro,María Vidal,Marc Soler,Barcelona,Final,DNI3623704990,FAC000234,14-06-2022,$18.24,8,3%,21%,$171.27,FME,Flash Memory,DELL TECHNOLOGY,FMEDELLL9RZRKB,Flash Memory DELL TECHNOLOGY 64GB
+Tech BCN Centro,María Vidal,Marc Soler,Barcelona,Final,DNI3623704990,FAC000234,14-06-2022,$218.98,11,12%,21%,$2564.87,MIC,Micrófonos,KIGNSTON,MICKIGBVN7NPRB,Micrófonos KIGNSTON alta fidelidad
+Tech BCN Centro,María Vidal,Marc Soler,Barcelona,Final,DNI3623704990,FAC000234,14-06-2022,$172.37,5,3%,21%,$1011.55,RAM,Memoria RAM,BENQ,RAMBENWDCOKZ5S,Memoria RAM BENQ 8GB
+Tech BCN Centro,María Vidal,Marc Soler,Barcelona,Final,DNI3623704990,FAC000234,14-06-2022,$1345.04,6,12%,21%,$8593.19,CPU,Computadoras,DYNABOOK,CPUDYNM1FMPRYF,"Computadoras DYNABOOK Ryzen 9, 8GB RAM, SSD 1TB"
+Tech BCN Centro,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000174,28-06-2025,$85.72,6,2%,21%,$609.88,DCK,Docking Stations,MAC,DCKMACL9700LFQ,Docking Stations MAC
+Tech BCN Centro,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000174,28-06-2025,$41.68,12,5%,21%,$574.93,KVM,KVM Switches,DYNABOOK,KVMDYNJ0974WXU,KVM Switches DYNABOOK
+Tech BCN Centro,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000174,28-06-2025,$148.34,1,7%,21%,$166.93,COO,Refrigeración,SAMSUNG,COOSAMTFNM88UA,Refrigeración SAMSUNG
+Tech BCN Centro,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000174,28-06-2025,$146.50,6,2%,21%,$1042.32,WBC,Cámaras Web,Hp,WBCHPX3ER9OM3P,Cámaras Web Hp
+Tech BCN Centro,María Vidal,Nerea Cruz,Barcelona,Distribuidor,DNI5344761637,FAC000174,28-06-2025,$63.82,10,2%,21%,$756.78,SUM,Suministros,EPSON,SUMEPSPGVTN4YP,Suministros EPSON
+Tech DCM Barcelona,María Vidal,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000179,14-04-2025,$304.03,4,5%,21%,$1397.93,DCK,Docking Stations,DYNABOOK,DCKDYND0WTWS3Y,Docking Stations DYNABOOK
+Tech BCN Sur,Carlos Díaz,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000318,10-04-2022,$84.87,4,20%,21%,$328.62,FME,Flash Memory,GENIUS,FMEGEN8M2Q6X2O,Flash Memory GENIUS 128GB
+Tech BCN Norte,Pau Ríos,Marina Mora,Barcelona,Final,DNI3720785684,FAC000129,26-08-2022,$36.47,7,5%,21%,$293.46,ACC,Accesorios,DYNABOOK,ACCDYNBA24S0LG,Accesorios DYNABOOK
+Tech BCN Norte,Pau Ríos,Marina Mora,Barcelona,Final,DNI3720785684,FAC000129,26-08-2022,$60.38,6,20%,21%,$350.69,GAM,Accesorios Gaming,DELL TECHNOLOGY,GAMDELGX32UEW9,Accesorios Gaming DELL TECHNOLOGY
+Tech BCN Sur,Ana Beltrán,Hugo Guerrero,Barcelona,Distribuidor,DNI0454249568,FAC000221,12-02-2019,$101.04,7,0%,21%,$855.81,SCN,Escáneres,APC,SCNAPCW24WJT8H,Escáneres APC profesional
+Tech BCN Sur,Ana Beltrán,Hugo Guerrero,Barcelona,Distribuidor,DNI0454249568,FAC000221,12-02-2019,$98.94,11,10%,21%,$1185.20,NIC,Tarjetas de Red,TP-LINK,NICTPLVBZ7CN0E,Tarjetas de Red TP-LINK gigabit
+Tech BCN Centro,Ana Beltrán,Javier Soler,Barcelona,Distribuidor,DNI6368750560,FAC000228,01-05-2021,$1479.48,2,2%,21%,$3508.73,VRG,Realidad Virtual/AR,ASUS,VRGASU03NJBCFA,Realidad Virtual/AR ASUS
+Tech BCN Centro,Ana Beltrán,Javier Soler,Barcelona,Distribuidor,DNI6368750560,FAC000228,01-05-2021,$258.93,1,12%,21%,$275.71,NAS,Almacenamiento NAS,LESMARK,NASLESEFJGC46H,Almacenamiento NAS LESMARK
+Tech BCN Sur,María Vidal,Leo Serra,Barcelona,Final,DNI2677641207,FAC000195,11-05-2020,$70.47,6,10%,21%,$460.45,PSU,Fuentes de Poder,CDP,PSUCDPWQFK6XW4,Fuentes de Poder CDP
+Tech BCN Sur,María Vidal,Leo Serra,Barcelona,Final,DNI2677641207,FAC000195,11-05-2020,$941.84,4,10%,21%,$4102.66,TBL,Tablets,LESMARK,TBLLESVASJEVTS,Tablets LESMARK
+Tech BCN Sur,María Vidal,Leo Serra,Barcelona,Final,DNI2677641207,FAC000195,11-05-2020,$109.13,11,7%,21%,$1350.84,TEC,Teclados,ASROCK,TECASRBEDYEJHD,Teclados ASROCK
+Tech BCN Sur,María Vidal,Leo Serra,Barcelona,Final,DNI2677641207,FAC000195,11-05-2020,$1447.38,2,7%,21%,$3257.47,NAS,Almacenamiento NAS,SONY,NASSON3P87JH4Z,Almacenamiento NAS SONY
+Tech BCN Centro,Nuria Pascual,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000208,11-11-2022,$37.99,3,0%,21%,$137.90,RTR,Routers,LESMARK,RTRLES03WVPUNW,Routers LESMARK gigabit
+Tech BCN Centro,Nuria Pascual,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000208,11-11-2022,$201.98,3,10%,21%,$659.87,SCN,Escáneres,BENQ,SCNBENVK3X8MBG,Escáneres BENQ profesional
+Tech BCN Centro,Nuria Pascual,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000208,11-11-2022,$181.05,6,5%,21%,$1248.70,SSD,Unidades SSD,AMAZON,SSDAMAHNFLAYZH,Unidades SSD AMAZON 2TB
+Tech BCN Centro,Nuria Pascual,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000208,11-11-2022,$554.90,11,12%,21%,$6499.43,MON,Monitores,DELL TECHNOLOGY,MONDELKHHUZ83Y,"Monitores DELL TECHNOLOGY 34"" 144Hz"
+Tech BCN Norte,Ana Beltrán,Hugo Prieto,Barcelona,Distribuidor,DNI8799837054,FAC000215,18-03-2020,$149.96,10,0%,21%,$1814.52,PHN,Smartphones,GENIUS,PHNGENBJEQVVIA,Smartphones GENIUS
+Tech BCN Norte,Jordi Serra,Marc Vega,Barcelona,Distribuidor,DNI1286174002,FAC000082,08-07-2022,$690.46,9,10%,21%,$6767.20,VRG,Realidad Virtual/AR,Hp,VRGHPXBXCD20J1,Realidad Virtual/AR Hp
+Tech DCM Barcelona,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000107,07-05-2021,$662.40,12,12%,21%,$8463.88,PHN,Smartphones,LG,PHNLGX8ENWBBAD,Smartphones LG
+Tech DCM Barcelona,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000107,07-05-2021,$199.00,1,2%,21%,$235.97,HDE,Discos Duros Externos,ARGOM,HDEARGD033TAYB,Discos Duros Externos ARGOM 8GB
+Tech DCM Barcelona,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000107,07-05-2021,$58.11,3,12%,21%,$185.63,WBC,Cámaras Web,AMAZON,WBCAMAJY2NZ7VE,Cámaras Web AMAZON
+Tech DCM Barcelona,Sergio Martín,Mateo Cabrera,Barcelona,Distribuidor,DNI5306364630,FAC000107,07-05-2021,$31.98,5,2%,21%,$189.61,NIC,Tarjetas de Red,EPSON,NICEPSYSIRRK1R,Tarjetas de Red EPSON gigabit
+Tech BCN Centro,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000064,16-11-2018,$983.40,6,7%,21%,$6639.72,PHN,Smartphones,AMD,PHNAMDHYQNRM31,Smartphones AMD
+Tech BCN Sur,Jordi Serra,Mateo Cruz,Barcelona,Final,DNI8233459268,FAC000083,29-08-2023,$1419.59,10,2%,21%,$16833.50,GPU,Tarjetas de Video,ASUS,GPUASU7NQWHOCP,Tarjetas de Video ASUS 8GB GDDR6
+Tech DCM Barcelona,María Vidal,Marc Vega,Barcelona,Distribuidor,DNI1286174002,FAC000305,12-09-2020,$667.76,7,20%,21%,$4524.74,NAS,Almacenamiento NAS,ARGOM,NASARGJRTMETMH,Almacenamiento NAS ARGOM
+Tech DCM Barcelona,Nuria Pascual,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000108,21-01-2021,$1282.17,11,0%,21%,$17065.68,LAP,Laptops,AMD,LAPAMDX0PKOVTR,"Laptops AMD Ryzen 7, 8GB RAM, SSD 256GB"
+Tech DCM Barcelona,Nuria Pascual,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000108,21-01-2021,$110.54,2,5%,21%,$254.13,HDE,Discos Duros Externos,APC,HDEAPCBBJCDIWZ,Discos Duros Externos APC 128GB
+Tech DCM Barcelona,Nuria Pascual,Leo Martí,Barcelona,Ecommerce,DNI3498065933,FAC000108,21-01-2021,$1165.16,12,7%,21%,$15733.85,PHN,Smartphones,ASROCK,PHNASRGHWZKAG6,Smartphones ASROCK
+Tech BCN Centro,Jordi Serra,Hugo García,Barcelona,Ecommerce,DNI5613279642,FAC000265,14-07-2021,$109.75,1,10%,21%,$119.52,UPS,UPS,ARGOM,UPSARGLQ8XPA95,UPS ARGOM
+Tech DCM Barcelona,Nuria Pascual,Eva García,Barcelona,Ecommerce,DNI5750803373,FAC000142,10-10-2020,$52.64,12,10%,21%,$687.90,TEC,Teclados,AMD,TECAMD3U94SGFD,Teclados AMD
+Tech DCM Barcelona,Nuria Pascual,Eva García,Barcelona,Ecommerce,DNI5750803373,FAC000142,10-10-2020,$716.36,11,15%,21%,$8104.54,SWI,Switches,GENIUS,SWIGEN09JRNAMZ,Switches GENIUS gigabit
+Tech DCM Barcelona,Nuria Pascual,Eva García,Barcelona,Ecommerce,DNI5750803373,FAC000142,10-10-2020,$44.21,12,12%,21%,$564.90,TEC,Teclados,BENQ,TECBENY0A94XFR,Teclados BENQ
+Tech DCM Barcelona,Nuria Pascual,Eva García,Barcelona,Ecommerce,DNI5750803373,FAC000142,10-10-2020,$56.67,9,3%,21%,$598.62,CAB,Cables y Adaptadores,ASROCK,CABASR0G8W85Y6,Cables y Adaptadores ASROCK
+Tech BCN Norte,Laura Gómez,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000010,21-05-2022,$144.70,5,2%,21%,$857.93,COO,Refrigeración,BENQ,COOBENLBSMWPQ8,Refrigeración BENQ
+Tech BCN Norte,Laura Gómez,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000010,21-05-2022,$8.55,5,0%,21%,$51.73,ACC,Accesorios,GENIUS,ACCGEN7FYSKUFR,Accesorios GENIUS
+Tech BCN Norte,Laura Gómez,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000010,21-05-2022,$310.05,5,20%,21%,$1500.64,NAS,Almacenamiento NAS,AMD,NASAMDH3ERAM4B,Almacenamiento NAS AMD
+Tech BCN Norte,Laura Gómez,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000010,21-05-2022,$45.10,6,5%,21%,$311.05,WAP,Access Points Wi‑Fi,TP-LINK,WAPTPLU8ZF0P7K,Access Points Wi‑Fi TP-LINK gigabit
+Tech BCN Norte,Laura Gómez,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000010,21-05-2022,$310.30,10,3%,21%,$3641.99,KVM,KVM Switches,LG,KVMLGXNO667VGP,KVM Switches LG
+Tech BCN Centro,Pau Ríos,Laia Castro,Barcelona,Final,DNI9099194262,FAC000046,10-07-2019,$50.20,8,10%,21%,$437.34,GAM,Accesorios Gaming,ASROCK,GAMASRKDUWTN5P,Accesorios Gaming ASROCK
+Tech BCN Centro,Pau Ríos,Laia Castro,Barcelona,Final,DNI9099194262,FAC000046,10-07-2019,$245.20,3,7%,21%,$827.77,SCN,Escáneres,LOGITECH,SCNLOGZQPPOAU8,Escáneres LOGITECH profesional
+Tech BCN Centro,Pau Ríos,Laia Castro,Barcelona,Final,DNI9099194262,FAC000046,10-07-2019,$26.64,9,15%,21%,$246.59,SSD,Unidades SSD,KIGNSTON,SSDKIGSETUK1OO,Unidades SSD KIGNSTON 8GB
+Tech BCN Centro,Pau Ríos,Laia Castro,Barcelona,Final,DNI9099194262,FAC000046,10-07-2019,$482.16,10,20%,21%,$4667.31,CPU,Computadoras,AMD,CPUAMDJ9DV3UY5,"Computadoras AMD Ryzen 7, 32GB RAM, SSD 256GB"
+Tech BCN Centro,Carlos Díaz,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000039,14-08-2019,$521.51,4,2%,21%,$2473.63,DVR,DVR/NVR Seguridad,GENIUS,DVRGENE6XFWZ73,DVR/NVR Seguridad GENIUS profesional
+Tech BCN Centro,Carlos Díaz,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000039,14-08-2019,$840.10,5,12%,21%,$4472.69,MON,Monitores,ADATA,MONADAF5SIDASO,"Monitores ADATA 29"" 75Hz"
+Tech BCN Centro,Carlos Díaz,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000039,14-08-2019,$229.76,4,3%,21%,$1078.68,SSD,Unidades SSD,INTEL,SSDINTJWPXEFAF,Unidades SSD INTEL 2TB
+Tech BCN Centro,Carlos Díaz,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000039,14-08-2019,$576.26,2,15%,21%,$1185.37,DVR,DVR/NVR Seguridad,SAMSUNG,DVRSAMTRKY8RYO,DVR/NVR Seguridad SAMSUNG profesional
+Tech BCN Centro,Carlos Díaz,Santiago Guerrero,Barcelona,Distribuidor,DNI0536664405,FAC000039,14-08-2019,$85.56,6,3%,21%,$602.53,COO,Refrigeración,DYNABOOK,COODYNFKEOUBXX,Refrigeración DYNABOOK
+Tech BCN Sur,Pau Ríos,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000099,07-02-2018,$437.14,6,15%,21%,$2697.59,SFT,Software,Hp,SFTHPX4SMZOCXM,Software Hp
+Tech BCN Sur,Pau Ríos,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000099,07-02-2018,$189.64,3,20%,21%,$550.71,KIT,Kits/Combos Periféricos,XEROX,KITXERF2X7C4R8,Kits/Combos Periféricos XEROX
+Tech BCN Norte,Jordi Serra,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000094,20-08-2021,$105.11,6,5%,21%,$724.94,PWB,Power Banks,CORSAIR,PWBCORV3CB0IXR,Power Banks CORSAIR
+Tech BCN Norte,Jordi Serra,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000094,20-08-2021,$18.67,5,2%,21%,$110.69,MNT,Montajes/Soportes,XEROX,MNTXER72D50N97,Montajes/Soportes XEROX
+Tech BCN Norte,Jordi Serra,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000094,20-08-2021,$247.38,10,20%,21%,$2394.64,PAR,Parlantes,SONY,PARSONC1V47LZN,Parlantes SONY alta fidelidad
+Tech BCN Norte,Jordi Serra,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000094,20-08-2021,$54.48,11,2%,21%,$710.63,FME,Flash Memory,ASROCK,FMEASRJPKHF33G,Flash Memory ASROCK 64GB
+Tech BCN Norte,Jordi Serra,Arturo Ortega,Barcelona,Distribuidor,DNI2908733753,FAC000094,20-08-2021,$186.15,9,15%,21%,$1723.10,PAR,Parlantes,XEROX,PARXERFA1U5MY8,Parlantes XEROX alta fidelidad
+Tech BCN Centro,Marta Soler,Javier Castro,Barcelona,Distribuidor,DNI8819687479,FAC000121,25-04-2023,$473.78,5,2%,21%,$2809.04,SFT,Software,CORSAIR,SFTCORWUECPNCC,Software CORSAIR
+Tech BCN Centro,Marta Soler,Javier Castro,Barcelona,Distribuidor,DNI8819687479,FAC000121,25-04-2023,$19.51,3,7%,21%,$65.86,TEC,Teclados,GENIUS,TECGENIVLI77JZ,Teclados GENIUS
+Tech BCN Centro,Marta Soler,Javier Castro,Barcelona,Distribuidor,DNI8819687479,FAC000121,25-04-2023,$471.49,5,0%,21%,$2852.51,MON,Monitores,INTEL,MONINTU47SOCZD,"Monitores INTEL 22"" 120Hz"
+Tech BCN Centro,Marta Soler,Javier Castro,Barcelona,Distribuidor,DNI8819687479,FAC000121,25-04-2023,$20.60,8,2%,21%,$195.42,COO,Refrigeración,BENQ,COOBENH5CH3L16,Refrigeración BENQ
+Tech BCN Centro,Marta Soler,Javier Castro,Barcelona,Distribuidor,DNI8819687479,FAC000121,25-04-2023,$51.87,3,7%,21%,$175.11,USB,Pendrives USB,LESMARK,USBLESZ1B98VWC,Pendrives USB LESMARK 8GB
+Tech DCM Barcelona,Nuria Pascual,Nora Sánchez,Barcelona,Final,DNI1387882217,FAC000187,11-09-2023,$508.72,7,0%,21%,$4308.86,SBR,Barras de Sonido,CORSAIR,SBRCORPK48AB13,Barras de Sonido CORSAIR alta fidelidad
+Tech DCM Barcelona,Nuria Pascual,Nora Sánchez,Barcelona,Final,DNI1387882217,FAC000187,11-09-2023,$294.94,6,10%,21%,$1927.14,GAM,Accesorios Gaming,GENIUS,GAMGENB1ZPPEP6,Accesorios Gaming GENIUS
+Tech BCN Norte,Sergio Martín,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000063,26-08-2018,$169.57,1,2%,21%,$201.08,HDE,Discos Duros Externos,AMAZON,HDEAMAVI052U9A,Discos Duros Externos AMAZON 8GB
+Tech BCN Norte,Sergio Martín,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000063,26-08-2018,$376.40,2,2%,21%,$892.67,GPU,Tarjetas de Video,EPSON,GPUEPSGBMXIKVR,Tarjetas de Video EPSON 12GB GDDR6
+Tech BCN Centro,Nuria Pascual,Alicia Torres,Barcelona,Final,DNI1353422023,FAC000243,02-01-2022,$110.37,6,12%,21%,$705.13,SWI,Switches,SAMSUNG,SWISAMKNT5I6LT,Switches SAMSUNG gigabit
+Tech BCN Centro,Nuria Pascual,Alicia Torres,Barcelona,Final,DNI1353422023,FAC000243,02-01-2022,$222.98,3,0%,21%,$809.42,KIT,Kits/Combos Periféricos,LESMARK,KITLESRC64SKTE,Kits/Combos Periféricos LESMARK
+Tech BCN Sur,Nuria Pascual,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000012,13-04-2019,$762.75,8,0%,21%,$7383.42,PHN,Smartphones,AMD,PHNAMDJVK8C4NA,Smartphones AMD
+Tech BCN Centro,Sergio Martín,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000001,26-01-2020,$504.42,10,5%,21%,$5798.31,VRG,Realidad Virtual/AR,AMD,VRGAMDXB1761M3,Realidad Virtual/AR AMD
+Tech BCN Centro,Sergio Martín,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000001,26-01-2020,$209.35,12,7%,21%,$2826.98,CTV,Cámaras de Seguridad,ADATA,CTVADAM3PP00CD,Cámaras de Seguridad ADATA profesional
+Tech BCN Centro,Sergio Martín,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000001,26-01-2020,$1375.41,5,7%,21%,$7738.74,VRG,Realidad Virtual/AR,EPSON,VRGEPSPZ1J8Q9I,Realidad Virtual/AR EPSON
+Tech BCN Centro,Sergio Martín,Bruno Cruz,Barcelona,Final,DNI4489366792,FAC000001,26-01-2020,$1457.35,1,2%,21%,$1728.13,CPU,Computadoras,ASUS,CPUASU1KUBJJJX,"Computadoras ASUS i7, 32GB RAM, SSD 1TB"
+Tech BCN Norte,Jordi Serra,Claudia Campos,Barcelona,Ecommerce,DNI2363646936,FAC000205,23-12-2022,$72.59,9,10%,21%,$711.45,MOU,Mouse,EPSON,MOUEPSABMWUOUC,Mouse EPSON
+Tech BCN Norte,Jordi Serra,Claudia Campos,Barcelona,Ecommerce,DNI2363646936,FAC000205,23-12-2022,$130.16,2,0%,21%,$314.99,MON,Monitores,EPSON,MONEPSG1J5EWFW,"Monitores EPSON 24"" 165Hz"
+Tech BCN Norte,Jordi Serra,Claudia Campos,Barcelona,Ecommerce,DNI2363646936,FAC000205,23-12-2022,$684.04,9,0%,21%,$7449.20,SWI,Switches,KIGNSTON,SWIKIGLTI899A4,Switches KIGNSTON gigabit
+Tech BCN Norte,Jordi Serra,Claudia Campos,Barcelona,Ecommerce,DNI2363646936,FAC000205,23-12-2022,$55.76,11,12%,21%,$653.11,HUB,Hubs USB,ASUS,HUBASUMCPSILN3,Hubs USB ASUS
+Tech BCN Centro,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000246,30-08-2021,$22.26,10,0%,21%,$269.35,CAB,Cables y Adaptadores,CDP,CABCDP96N7KBNK,Cables y Adaptadores CDP
+Tech BCN Centro,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000246,30-08-2021,$1602.78,11,3%,21%,$20693.01,LAP,Laptops,LESMARK,LAPLESHLZ02Z7N,"Laptops LESMARK i9, 32GB RAM, SSD 256GB"
+Tech BCN Centro,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000246,30-08-2021,$581.75,11,20%,21%,$6194.47,MON,Monitores,ASUS,MONASUU9W0TE52,"Monitores ASUS 32"" 144Hz"
+Tech BCN Centro,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000246,30-08-2021,$243.51,12,5%,21%,$3358.98,MIC,Micrófonos,BENQ,MICBENHU6L29IL,Micrófonos BENQ alta fidelidad
+Tech BCN Centro,Luis Pons,Santiago Mora,Barcelona,Final,DNI8833778006,FAC000246,30-08-2021,$635.45,4,3%,21%,$2983.31,SWI,Switches,SONY,SWISON8OCUCNRI,Switches SONY gigabit
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000059,24-07-2025,$444.28,4,3%,21%,$2085.81,WAP,Access Points Wi‑Fi,MAC,WAPMACV2MEOSFR,Access Points Wi‑Fi MAC gigabit
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000059,24-07-2025,$153.03,3,2%,21%,$544.39,NAS,Almacenamiento NAS,ADATA,NASADAGP1ZQD54,Almacenamiento NAS ADATA
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000059,24-07-2025,$1810.24,6,2%,21%,$12879.50,GPU,Tarjetas de Video,Hp,GPUHPX576MOUZE,Tarjetas de Video Hp 6GB GDDR6
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000059,24-07-2025,$684.09,12,20%,21%,$7946.39,MON,Monitores,SONY,MONSON786W0P1Z,"Monitores SONY 22"" 75Hz"
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000059,24-07-2025,$17.77,8,10%,21%,$154.81,ACC,Accesorios,KIGNSTON,ACCKIGVYQLG0K1,Accesorios KIGNSTON
+Tech BCN Sur,Pau Ríos,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000255,15-08-2021,$159.64,2,10%,21%,$347.70,MIC,Micrófonos,TP-LINK,MICTPLGF309HSU,Micrófonos TP-LINK alta fidelidad
+Tech BCN Sur,Pau Ríos,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000255,15-08-2021,$1120.74,11,7%,21%,$13872.86,PRJ,Proyectores,ARGOM,PRJARGEJP5K791,Proyectores ARGOM profesional
+Tech BCN Sur,Pau Ríos,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000255,15-08-2021,$21.87,1,10%,21%,$23.82,RED,Equipos de Red,APC,REDAPCH41A68T2,Equipos de Red APC gigabit
+Tech BCN Sur,Pau Ríos,Nora Ramírez,Barcelona,Final,DNI5699767363,FAC000255,15-08-2021,$157.49,8,12%,21%,$1341.56,HDD,Discos Duros Internos,CANON,HDDCAN7U0S3KDZ,Discos Duros Internos CANON 1TB
+Tech DCM Barcelona,Jordi Serra,Raúl Rovira,Barcelona,Final,DNI8925395882,FAC000186,14-02-2021,$470.69,12,10%,21%,$6150.98,SFT,Software,XEROX,SFTXERC20LSJWS,Software XEROX
+Tech BCN Sur,María Vidal,Marc López,Barcelona,Final,DNI4498251982,FAC000173,06-11-2023,$62.23,5,15%,21%,$320.02,FME,Flash Memory,INTEL,FMEINTX5BWAEN7,Flash Memory INTEL 32GB
+Tech BCN Sur,María Vidal,Marc López,Barcelona,Final,DNI4498251982,FAC000173,06-11-2023,$233.00,9,5%,21%,$2410.50,PHN,Smartphones,ARGOM,PHNARG0KH5840A,Smartphones ARGOM
+Tech BCN Sur,María Vidal,Marc López,Barcelona,Final,DNI4498251982,FAC000173,06-11-2023,$265.81,4,7%,21%,$1196.46,KIT,Kits/Combos Periféricos,ARGOM,KITARGBYWWIMT8,Kits/Combos Periféricos ARGOM
+Tech BCN Sur,Nuria Pascual,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000279,24-01-2025,$37.21,7,2%,21%,$308.87,HUB,Hubs USB,CORSAIR,HUBCORTKH861PQ,Hubs USB CORSAIR
+Tech BCN Sur,Nuria Pascual,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000279,24-01-2025,$124.20,11,5%,21%,$1570.45,SUM,Suministros,EPSON,SUMEPS8XMOE545,Suministros EPSON
+Tech BCN Sur,Nuria Pascual,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000279,24-01-2025,$66.25,7,12%,21%,$493.80,MOU,Mouse,CANON,MOUCANJH4OULYO,Mouse CANON
+Tech BCN Sur,Nuria Pascual,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000279,24-01-2025,$176.91,11,2%,21%,$2307.58,MBD,Motherboards,AMD,MBDAMDJ0M3LOUF,Motherboards AMD
+Tech BCN Norte,Jordi Serra,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000027,13-10-2024,$23.15,9,5%,21%,$239.50,MOU,Mouse,SONY,MOUSONAN2LM1CB,Mouse SONY
+Tech BCN Norte,Jordi Serra,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000027,13-10-2024,$54.77,1,20%,21%,$53.02,UPS,UPS,INTEL,UPSINTOZKFNOTI,UPS INTEL
+Tech BCN Norte,Jordi Serra,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000027,13-10-2024,$615.83,7,12%,21%,$4590.15,LAP,Laptops,Hp,LAPHPXORFKI1IJ,"Laptops Hp i5, 32GB RAM, SSD 512GB"
+Tech BCN Norte,Jordi Serra,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000027,13-10-2024,$1403.81,7,5%,21%,$11295.76,CPU,Computadoras,AMAZON,CPUAMACZ1OA3VF,"Computadoras AMAZON Ryzen 9, 32GB RAM, SSD 512GB"
+Tech BCN Norte,Jordi Serra,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000027,13-10-2024,$36.87,7,20%,21%,$249.83,MIC,Micrófonos,DYNABOOK,MICDYNSAJHJXQK,Micrófonos DYNABOOK alta fidelidad
+Tech BCN Sur,Pau Ríos,Rubén López,Barcelona,Ecommerce,DNI9018907263,FAC000066,25-12-2023,$134.27,4,15%,21%,$552.39,SSD,Unidades SSD,DELL TECHNOLOGY,SSDDELARONTDI9,Unidades SSD DELL TECHNOLOGY 256GB
+Tech BCN Sur,Pau Ríos,Rubén López,Barcelona,Ecommerce,DNI9018907263,FAC000066,25-12-2023,$760.88,2,3%,21%,$1786.09,TBL,Tablets,KIGNSTON,TBLKIGDLFWDUH7,Tablets KIGNSTON
+Tech BCN Sur,Pau Ríos,Rubén López,Barcelona,Ecommerce,DNI9018907263,FAC000066,25-12-2023,$214.38,1,10%,21%,$233.46,GAB,Gabinetes,LESMARK,GABLES4S41CRO0,Gabinetes LESMARK
+Tech BCN Sur,Pau Ríos,Rubén López,Barcelona,Ecommerce,DNI9018907263,FAC000066,25-12-2023,$15.61,8,15%,21%,$128.44,LIM,Kits de Limpieza,KIGNSTON,LIMKIGV5JHURR8,Kits de Limpieza KIGNSTON
+Tech BCN Sur,Pau Ríos,Rubén López,Barcelona,Ecommerce,DNI9018907263,FAC000066,25-12-2023,$389.19,3,5%,21%,$1342.12,SCN,Escáneres,INTEL,SCNINT49CDZN1F,Escáneres INTEL profesional
+Tech DCM Barcelona,Luis Pons,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000269,04-10-2022,$372.69,11,7%,21%,$4613.27,UPS,UPS,LG,UPSLGX2R0TOKPK,UPS LG
+Tech DCM Barcelona,Luis Pons,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000269,04-10-2022,$434.73,5,15%,21%,$2235.60,SMW,Smartwatches,CDP,SMWCDPWNXFSHWZ,Smartwatches CDP
+Tech DCM Barcelona,Luis Pons,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000269,04-10-2022,$694.50,3,15%,21%,$2142.88,NAS,Almacenamiento NAS,ASROCK,NASASR77Z4ES3A,Almacenamiento NAS ASROCK
+Tech DCM Barcelona,Luis Pons,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000269,04-10-2022,$373.87,9,5%,21%,$3867.87,MON,Monitores,ADATA,MONADALGYTLCQF,"Monitores ADATA 27"" 60Hz"
+Tech BCN Norte,Pau Ríos,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000095,12-10-2022,$32.24,3,7%,21%,$108.84,SDC,Lectores de Tarjetas SD,CANON,SDCCANN17UXHVD,Lectores de Tarjetas SD CANON 4TB
+Tech BCN Norte,Pau Ríos,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000095,12-10-2022,$2223.37,11,15%,21%,$25154.10,LAP,Laptops,MAC,LAPMAC2V1L1VJ3,"Laptops MAC i5, 8GB RAM, SSD 256GB"
+Tech BCN Norte,Pau Ríos,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000095,12-10-2022,$132.11,8,12%,21%,$1125.37,HDE,Discos Duros Externos,ASROCK,HDEASRD2FF5L6B,Discos Duros Externos ASROCK 1TB
+Tech BCN Norte,Pau Ríos,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000095,12-10-2022,$139.71,10,5%,21%,$1605.97,MIC,Micrófonos,CANON,MICCANSEUNNRLS,Micrófonos CANON alta fidelidad
+Tech BCN Norte,Pau Ríos,Leo Giménez,Barcelona,Ecommerce,DNI7485329247,FAC000095,12-10-2022,$202.39,6,3%,21%,$1425.27,UPS,UPS,LG,UPSLGX4Z4UR2YU,UPS LG
+Tech BCN Norte,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000229,07-07-2025,$57.51,9,5%,21%,$594.97,SDC,Lectores de Tarjetas SD,DYNABOOK,SDCDYNHU97NG0A,Lectores de Tarjetas SD DYNABOOK 8GB
+Tech BCN Norte,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000229,07-07-2025,$65.76,12,7%,21%,$888.00,PWB,Power Banks,CANON,PWBCANL66SAJXX,Power Banks CANON
+Tech BCN Norte,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000229,07-07-2025,$191.23,11,20%,21%,$2036.22,RAM,Memoria RAM,LG,RAMLGXCUBZQVQG,Memoria RAM LG 16GB
+Tech BCN Norte,Luis Pons,Marc López,Barcelona,Final,DNI4498251982,FAC000319,15-11-2024,$260.21,5,5%,21%,$1495.56,KIT,Kits/Combos Periféricos,SONY,KITSONG4C4EPZL,Kits/Combos Periféricos SONY
+Tech BCN Norte,Luis Pons,Marc López,Barcelona,Final,DNI4498251982,FAC000319,15-11-2024,$367.66,1,12%,21%,$391.48,SBR,Barras de Sonido,LESMARK,SBRLES0LY66G9Z,Barras de Sonido LESMARK alta fidelidad
+Tech DCM Barcelona,María Vidal,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000276,01-03-2020,$283.51,5,7%,21%,$1595.17,RED,Equipos de Red,SONY,REDSONJGBVYOW4,Equipos de Red SONY gigabit
+Tech DCM Barcelona,María Vidal,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000276,01-03-2020,$35.06,6,0%,21%,$254.54,GAM,Accesorios Gaming,CORSAIR,GAMCOREQ4D7D7G,Accesorios Gaming CORSAIR
+Tech DCM Barcelona,María Vidal,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000276,01-03-2020,$136.21,4,3%,21%,$639.48,MNT,Montajes/Soportes,ARGOM,MNTARG2HNC0I4X,Montajes/Soportes ARGOM
+Tech DCM Barcelona,María Vidal,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000276,01-03-2020,$147.20,5,15%,21%,$756.98,WBC,Cámaras Web,AMD,WBCAMDNKKUO4JH,Cámaras Web AMD
+Tech DCM Barcelona,María Vidal,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000276,01-03-2020,$472.32,7,3%,21%,$3880.53,MBD,Motherboards,AMAZON,MBDAMARUMXQW3B,Motherboards AMAZON
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000251,21-11-2021,$39.56,2,20%,21%,$76.59,HDD,Discos Duros Internos,CDP,HDDCDPZS32D1JQ,Discos Duros Internos CDP 32GB
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000251,21-11-2021,$1093.11,3,12%,21%,$3491.83,TBL,Tablets,MAC,TBLMACQLUX6LDM,Tablets MAC
+Tech BCN Centro,Sergio Martín,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000251,21-11-2021,$785.94,10,12%,21%,$8368.69,TBL,Tablets,CDP,TBLCDPM6GMFT1P,Tablets CDP
+Tech BCN Sur,Nuria Pascual,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000093,24-09-2020,$20.08,7,7%,21%,$158.17,SDC,Lectores de Tarjetas SD,CORSAIR,SDCCORVROB7I77,Lectores de Tarjetas SD CORSAIR 4TB
+Tech BCN Sur,Nuria Pascual,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000093,24-09-2020,$196.65,3,10%,21%,$642.46,GAB,Gabinetes,KIGNSTON,GABKIGBS7587H9,Gabinetes KIGNSTON
+Tech BCN Sur,Nuria Pascual,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000093,24-09-2020,$191.47,2,3%,21%,$449.46,IMP,Impresoras,AMAZON,IMPAMAL12QFAF5,Impresoras AMAZON profesional
+Tech BCN Centro,Sergio Martín,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000131,05-01-2019,$152.25,7,15%,21%,$1096.12,RED,Equipos de Red,LOGITECH,REDLOGT1AFDTOH,Equipos de Red LOGITECH gigabit
+Tech BCN Centro,Sergio Martín,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000131,05-01-2019,$224.50,7,12%,21%,$1673.33,KIT,Kits/Combos Periféricos,ASUS,KITASU1DE1E163,Kits/Combos Periféricos ASUS
+Tech DCM Barcelona,Laura Gómez,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000307,24-06-2023,$13.56,4,3%,21%,$63.66,MOU,Mouse,ASUS,MOUASU5GINSAVO,Mouse ASUS
+Tech DCM Barcelona,Laura Gómez,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000307,24-06-2023,$927.50,5,12%,21%,$4938.01,PHN,Smartphones,ASROCK,PHNASRBKDNGFLY,Smartphones ASROCK
+Tech DCM Barcelona,Laura Gómez,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000307,24-06-2023,$163.31,3,10%,21%,$533.53,SUM,Suministros,ARGOM,SUMARGOSD3M0XO,Suministros ARGOM
+Tech DCM Barcelona,Laura Gómez,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000307,24-06-2023,$1522.82,2,15%,21%,$3132.44,GPU,Tarjetas de Video,KIGNSTON,GPUKIGSYAXYPBP,Tarjetas de Video KIGNSTON 24GB GDDR6
+Tech DCM Barcelona,Laura Gómez,Javier Pérez,Barcelona,Ecommerce,DNI5519167685,FAC000307,24-06-2023,$82.59,3,0%,21%,$299.80,CAB,Cables y Adaptadores,TP-LINK,CABTPLRMTN29TN,Cables y Adaptadores TP-LINK
+Tech BCN Norte,Ana Beltrán,Andrés López,Barcelona,Final,DNI0269039728,FAC000237,11-10-2023,$55.68,11,7%,21%,$689.22,SDC,Lectores de Tarjetas SD,EPSON,SDCEPSPQB5QBVN,Lectores de Tarjetas SD EPSON 8GB
+Tech BCN Norte,Ana Beltrán,Andrés López,Barcelona,Final,DNI0269039728,FAC000237,11-10-2023,$1147.22,4,3%,21%,$5385.97,VRG,Realidad Virtual/AR,BENQ,VRGBENGMALWVMB,Realidad Virtual/AR BENQ
+Tech BCN Norte,Ana Beltrán,Andrés López,Barcelona,Final,DNI0269039728,FAC000237,11-10-2023,$1538.36,12,20%,21%,$17869.59,CPU,Computadoras,INTEL,CPUINTD0WPJ8YI,"Computadoras INTEL Ryzen 5, 16GB RAM, SSD 256GB"
+Tech BCN Norte,Ana Beltrán,Andrés López,Barcelona,Final,DNI0269039728,FAC000237,11-10-2023,$841.23,12,7%,21%,$11359.63,MON,Monitores,CDP,MONCDPNF9W5N9C,"Monitores CDP 29"" 144Hz"
+Tech BCN Norte,Ana Beltrán,Andrés López,Barcelona,Final,DNI0269039728,FAC000237,11-10-2023,$26.79,5,20%,21%,$129.66,MOU,Mouse,ARGOM,MOUARG8JX54PEG,Mouse ARGOM
+Tech BCN Centro,Luis Pons,Marina Vega,Barcelona,Ecommerce,DNI4461443183,FAC000020,13-03-2022,$852.46,5,0%,21%,$5157.38,TBL,Tablets,ASROCK,TBLASR1P02JYV6,Tablets ASROCK
+Tech BCN Centro,Luis Pons,Marina Vega,Barcelona,Ecommerce,DNI4461443183,FAC000020,13-03-2022,$13.07,6,5%,21%,$90.14,COO,Refrigeración,ASROCK,COOASRAOEJV9LH,Refrigeración ASROCK
+Tech BCN Centro,Luis Pons,Marina Vega,Barcelona,Ecommerce,DNI4461443183,FAC000020,13-03-2022,$100.18,6,10%,21%,$654.58,MON,Monitores,LESMARK,MONLESKZ3VWLO7,"Monitores LESMARK 27"" 144Hz"
+Tech BCN Centro,Luis Pons,Marina Vega,Barcelona,Ecommerce,DNI4461443183,FAC000020,13-03-2022,$42.01,8,20%,21%,$325.33,RED,Equipos de Red,EPSON,REDEPS4RTGOOXU,Equipos de Red EPSON gigabit
+Tech BCN Centro,Luis Pons,Marina Vega,Barcelona,Ecommerce,DNI4461443183,FAC000020,13-03-2022,$116.71,6,12%,21%,$745.64,SFT,Software,AMAZON,SFTAMAH9NKLYBW,Software AMAZON
+Tech DCM Barcelona,Pau Ríos,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000161,29-03-2024,$74.12,3,12%,21%,$236.77,SSD,Unidades SSD,DELL TECHNOLOGY,SSDDEL7EV4DH9U,Unidades SSD DELL TECHNOLOGY 2TB
+Tech DCM Barcelona,Pau Ríos,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000161,29-03-2024,$139.50,6,20%,21%,$810.22,COO,Refrigeración,CORSAIR,COOCOR1PVLND58,Refrigeración CORSAIR
+Tech DCM Barcelona,Pau Ríos,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000161,29-03-2024,$539.35,9,10%,21%,$5286.17,VRG,Realidad Virtual/AR,INTEL,VRGINTO4RQ3Q7G,Realidad Virtual/AR INTEL
+Tech DCM Barcelona,Pau Ríos,Santiago Pérez,Barcelona,Final,DNI4080886545,FAC000161,29-03-2024,$131.49,10,20%,21%,$1272.82,CTV,Cámaras de Seguridad,EPSON,CTVEPSXYDUPPGB,Cámaras de Seguridad EPSON profesional
+Tech BCN Sur,Luis Pons,Nerea Ríos,Barcelona,Distribuidor,DNI9550065326,FAC000148,24-08-2021,$262.45,3,15%,21%,$809.79,SSD,Unidades SSD,ARGOM,SSDARGUQDN05XT,Unidades SSD ARGOM 256GB
+Tech BCN Sur,Luis Pons,Nerea Ríos,Barcelona,Distribuidor,DNI9550065326,FAC000148,24-08-2021,$35.45,10,15%,21%,$364.60,SDC,Lectores de Tarjetas SD,ASUS,SDCASUG77LK6HQ,Lectores de Tarjetas SD ASUS 64GB
+Tech BCN Sur,Luis Pons,Nerea Ríos,Barcelona,Distribuidor,DNI9550065326,FAC000148,24-08-2021,$11.31,1,12%,21%,$12.04,SUM,Suministros,EPSON,SUMEPSSEVL7FQ8,Suministros EPSON
+Tech BCN Sur,Luis Pons,Nerea Ríos,Barcelona,Distribuidor,DNI9550065326,FAC000148,24-08-2021,$445.97,1,15%,21%,$458.68,SMW,Smartwatches,GENIUS,SMWGEN5CPJZE1X,Smartwatches GENIUS
+Tech BCN Sur,Luis Pons,Nerea Ríos,Barcelona,Distribuidor,DNI9550065326,FAC000148,24-08-2021,$595.25,2,2%,21%,$1411.69,TBL,Tablets,SONY,TBLSONC330BO7W,Tablets SONY
+Tech BCN Norte,Marta Soler,Nerea Ramírez,Barcelona,Ecommerce,DNI5028486959,FAC000183,03-04-2019,$86.54,4,7%,21%,$389.53,CAB,Cables y Adaptadores,DYNABOOK,CABDYNXFIRJLYQ,Cables y Adaptadores DYNABOOK
+Tech BCN Norte,Marta Soler,Nerea Ramírez,Barcelona,Ecommerce,DNI5028486959,FAC000183,03-04-2019,$18.82,6,10%,21%,$122.97,AUD,Audífonos,CANON,AUDCANYLQJJBFS,Audífonos CANON alta fidelidad
+Tech BCN Norte,Pau Ríos,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000297,11-10-2019,$132.80,1,5%,21%,$152.65,NIC,Tarjetas de Red,CANON,NICCANRPK0ZFKN,Tarjetas de Red CANON gigabit
+Tech BCN Norte,Pau Ríos,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000297,11-10-2019,$146.14,11,3%,21%,$1886.77,PWB,Power Banks,CANON,PWBCANFANS5SR6,Power Banks CANON
+Tech BCN Norte,Pau Ríos,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000297,11-10-2019,$11.99,2,10%,21%,$26.11,PWB,Power Banks,Hp,PWBHPXLN5RGSG6,Power Banks Hp
+Tech BCN Norte,Pau Ríos,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000297,11-10-2019,$154.95,1,20%,21%,$149.99,HDE,Discos Duros Externos,CANON,HDECANHFV0EHRU,Discos Duros Externos CANON 64GB
+Tech BCN Norte,Pau Ríos,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000297,11-10-2019,$457.92,2,0%,21%,$1108.17,DVR,DVR/NVR Seguridad,ASROCK,DVRASRNBW8SJ84,DVR/NVR Seguridad ASROCK profesional
+Tech BCN Centro,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000017,14-11-2020,$38.00,2,3%,21%,$89.20,LIM,Kits de Limpieza,LG,LIMLGX4IZG9JJ0,Kits de Limpieza LG
+Tech BCN Centro,Ana Beltrán,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000017,14-11-2020,$521.77,4,15%,21%,$2146.56,SMW,Smartwatches,CANON,SMWCANCIVUQT2L,Smartwatches CANON
+Tech BCN Sur,María Vidal,Rubén Torres,Barcelona,Final,DNI8826320735,FAC000285,04-05-2023,$1731.65,10,15%,21%,$17810.02,LAP,Laptops,INTEL,LAPINTVVKAP6ZP,"Laptops INTEL i3, 16GB RAM, SSD 512GB"
+Tech BCN Sur,María Vidal,Rubén Torres,Barcelona,Final,DNI8826320735,FAC000285,04-05-2023,$40.28,9,20%,21%,$350.92,HUB,Hubs USB,BENQ,HUBBENRGSS8K5I,Hubs USB BENQ
+Tech BCN Sur,María Vidal,Javier Martí,Barcelona,Final,DNI7031934278,FAC000070,17-01-2020,$23.83,11,20%,21%,$253.74,ACC,Accesorios,CDP,ACCCDP6SRG1YD5,Accesorios CDP
+Tech BCN Sur,María Vidal,Javier Martí,Barcelona,Final,DNI7031934278,FAC000070,17-01-2020,$125.81,10,3%,21%,$1476.63,SUM,Suministros,ASROCK,SUMASR21HSLTDK,Suministros ASROCK
+Tech BCN Sur,María Vidal,Javier Martí,Barcelona,Final,DNI7031934278,FAC000070,17-01-2020,$154.88,7,7%,21%,$1220.01,MIC,Micrófonos,ARGOM,MICARGGOGFXLSR,Micrófonos ARGOM alta fidelidad
+Tech BCN Sur,María Vidal,Javier Martí,Barcelona,Final,DNI7031934278,FAC000070,17-01-2020,$116.55,7,12%,21%,$868.72,HDE,Discos Duros Externos,BENQ,HDEBENQ4KFMM0Q,Discos Duros Externos BENQ 8GB
+Tech BCN Sur,Luis Pons,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000110,02-08-2022,$79.89,7,12%,21%,$595.47,SBR,Barras de Sonido,XEROX,SBRXERFQJ3HXJ3,Barras de Sonido XEROX alta fidelidad
+Tech BCN Sur,Luis Pons,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000110,02-08-2022,$127.73,12,15%,21%,$1576.44,MIC,Micrófonos,INTEL,MICINTUHHS4DIL,Micrófonos INTEL alta fidelidad
+Tech BCN Sur,Luis Pons,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000110,02-08-2022,$165.31,5,20%,21%,$800.10,PAR,Parlantes,TP-LINK,PARTPLXY6RKVND,Parlantes TP-LINK alta fidelidad
+Tech BCN Sur,Pau Ríos,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000207,31-03-2019,$960.78,6,20%,21%,$5580.21,GPU,Tarjetas de Video,SONY,GPUSONC9035VUU,Tarjetas de Video SONY 12GB GDDR6
+Tech BCN Sur,Pau Ríos,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000207,31-03-2019,$114.76,8,5%,21%,$1055.33,GAM,Accesorios Gaming,Hp,GAMHPX3YF15Z08,Accesorios Gaming Hp
+Tech BCN Sur,Pau Ríos,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000207,31-03-2019,$32.65,7,12%,21%,$243.36,SUM,Suministros,CDP,SUMCDPQQLYZJ0A,Suministros CDP
+Tech BCN Sur,Pau Ríos,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000207,31-03-2019,$143.41,6,20%,21%,$832.93,GAB,Gabinetes,XEROX,GABXERRBT6SAPB,Gabinetes XEROX
+Tech BCN Norte,Marta Soler,Pablo Campos,Barcelona,Final,DNI8394495870,FAC000086,29-09-2021,$511.42,4,2%,21%,$2425.77,DVR,DVR/NVR Seguridad,AMAZON,DVRAMAU92T24D7,DVR/NVR Seguridad AMAZON profesional
+Tech BCN Sur,Pau Ríos,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000286,23-03-2023,$75.90,10,7%,21%,$854.10,DVR,DVR/NVR Seguridad,MAC,DVRMACXCXMSY3P,DVR/NVR Seguridad MAC profesional
+Tech BCN Sur,Pau Ríos,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000286,23-03-2023,$30.18,11,5%,21%,$381.61,ACC,Accesorios,LESMARK,ACCLES3AIPJIYL,Accesorios LESMARK
+Tech BCN Sur,Pau Ríos,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000286,23-03-2023,$84.68,1,3%,21%,$99.39,MNT,Montajes/Soportes,KIGNSTON,MNTKIG76ZUGFLD,Montajes/Soportes KIGNSTON
+Tech BCN Sur,Pau Ríos,Bruno Soler,Barcelona,Ecommerce,DNI6165669371,FAC000286,23-03-2023,$1414.01,4,10%,21%,$6159.43,VRG,Realidad Virtual/AR,CORSAIR,VRGCOR8LLIHKPJ,Realidad Virtual/AR CORSAIR
+Tech BCN Centro,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000306,20-05-2019,$16.97,3,20%,21%,$49.28,MOU,Mouse,EPSON,MOUEPS54HBPH1V,Mouse EPSON
+Tech BCN Centro,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000306,20-05-2019,$39.45,2,20%,21%,$76.38,PWB,Power Banks,SONY,PWBSONSFH70M9O,Power Banks SONY
+Tech BCN Centro,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000306,20-05-2019,$113.76,2,12%,21%,$242.26,CAB,Cables y Adaptadores,GENIUS,CABGENJEQA2O4M,Cables y Adaptadores GENIUS
+Tech BCN Centro,Nuria Pascual,Andrés Serra,Barcelona,Ecommerce,DNI8363942252,FAC000306,20-05-2019,$813.76,1,3%,21%,$955.11,SBR,Barras de Sonido,CANON,SBRCANIZX35A80,Barras de Sonido CANON alta fidelidad
+Tech BCN Centro,Jordi Serra,Lucía Ríos,Barcelona,Ecommerce,DNI3626704126,FAC000244,01-05-2024,$917.52,3,12%,21%,$2930.93,GPU,Tarjetas de Video,Hp,GPUHPXFZ1C25XN,Tarjetas de Video Hp 8GB GDDR6
+Tech BCN Centro,Jordi Serra,Jordi Navarro,Barcelona,Final,DNI8470920900,FAC000293,04-02-2022,$361.09,1,3%,21%,$423.81,UPS,UPS,ADATA,UPSADARLW6JL2L,UPS ADATA
+Tech DCM Barcelona,Carlos Díaz,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000069,25-03-2022,$54.49,9,15%,21%,$504.39,SDC,Lectores de Tarjetas SD,Hp,SDCHPXGDMIPC8Q,Lectores de Tarjetas SD Hp 32GB
+Tech DCM Barcelona,Carlos Díaz,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000069,25-03-2022,$88.79,8,15%,21%,$730.56,HUB,Hubs USB,XEROX,HUBXERWLQ6EXNW,Hubs USB XEROX
+Tech DCM Barcelona,Carlos Díaz,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000069,25-03-2022,$716.32,2,5%,21%,$1646.82,DVR,DVR/NVR Seguridad,KIGNSTON,DVRKIGHHE7ICDO,DVR/NVR Seguridad KIGNSTON profesional
+Tech DCM Barcelona,Carlos Díaz,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000069,25-03-2022,$176.78,3,10%,21%,$577.54,HDE,Discos Duros Externos,BENQ,HDEBENGXL9YSU5,Discos Duros Externos BENQ 512GB
+Tech DCM Barcelona,Carlos Díaz,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000069,25-03-2022,$6.65,11,0%,21%,$88.51,CAB,Cables y Adaptadores,LOGITECH,CABLOGF0402W29,Cables y Adaptadores LOGITECH
+Tech BCN Centro,Jordi Serra,Rubén Aguado,Barcelona,Ecommerce,DNI6873984325,FAC000313,14-06-2022,$19.45,8,2%,21%,$184.51,ACC,Accesorios,KIGNSTON,ACCKIGR4G58O9Q,Accesorios KIGNSTON
+Tech BCN Centro,Jordi Serra,Rubén Aguado,Barcelona,Ecommerce,DNI6873984325,FAC000313,14-06-2022,$397.67,2,10%,21%,$866.13,DVR,DVR/NVR Seguridad,BENQ,DVRBENXSM9GM51,DVR/NVR Seguridad BENQ profesional
+Tech BCN Centro,Jordi Serra,Rubén Aguado,Barcelona,Ecommerce,DNI6873984325,FAC000313,14-06-2022,$82.13,12,7%,21%,$1109.05,CTV,Cámaras de Seguridad,Hp,CTVHPXJ2PATD93,Cámaras de Seguridad Hp profesional
+Tech BCN Norte,Pau Ríos,Andrés Torres,Barcelona,Final,DNI0633873344,FAC000200,28-01-2023,$235.01,4,10%,21%,$1023.70,GAM,Accesorios Gaming,AMAZON,GAMAMA88G35SFY,Accesorios Gaming AMAZON
+Tech BCN Norte,Pau Ríos,Andrés Torres,Barcelona,Final,DNI0633873344,FAC000200,28-01-2023,$166.73,3,2%,21%,$593.13,SMW,Smartwatches,LESMARK,SMWLES2UTBTTY9,Smartwatches LESMARK
+Tech BCN Norte,Pau Ríos,Andrés Torres,Barcelona,Final,DNI0633873344,FAC000200,28-01-2023,$94.70,1,12%,21%,$100.84,KVM,KVM Switches,ARGOM,KVMARGW4I7ZT8P,KVM Switches ARGOM
+Tech BCN Norte,Pau Ríos,Andrés Torres,Barcelona,Final,DNI0633873344,FAC000200,28-01-2023,$733.55,5,5%,21%,$4216.08,PRJ,Proyectores,DELL TECHNOLOGY,PRJDEL686QE7AJ,Proyectores DELL TECHNOLOGY profesional
+Tech DCM Barcelona,Luis Pons,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000192,08-08-2022,$74.14,6,2%,21%,$527.49,RED,Equipos de Red,GENIUS,REDGEN3138I2XO,Equipos de Red GENIUS gigabit
+Tech DCM Barcelona,Luis Pons,Nerea Guerrero,Barcelona,Distribuidor,DNI0176731033,FAC000192,08-08-2022,$98.94,11,2%,21%,$1290.55,HDE,Discos Duros Externos,BENQ,HDEBENFO0VYHFJ,Discos Duros Externos BENQ 2TB
+Tech DCM Barcelona,Marta Soler,Javier Martí,Barcelona,Final,DNI7031934278,FAC000033,14-04-2023,$157.89,1,12%,21%,$168.12,WAP,Access Points Wi‑Fi,EPSON,WAPEPSKE0QC96M,Access Points Wi‑Fi EPSON gigabit
+Tech DCM Barcelona,Marta Soler,Javier Martí,Barcelona,Final,DNI7031934278,FAC000033,14-04-2023,$121.63,12,10%,21%,$1589.46,MBD,Motherboards,APC,MBDAPCWPGZ5RKS,Motherboards APC
+Tech BCN Sur,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000096,24-09-2022,$196.87,2,0%,21%,$476.43,NIC,Tarjetas de Red,APC,NICAPC5K0JJSP4,Tarjetas de Red APC gigabit
+Tech BCN Sur,Ana Beltrán,Hugo Aguado,Barcelona,Final,DNI1475196103,FAC000301,27-07-2024,$196.67,11,12%,21%,$2303.56,HDE,Discos Duros Externos,KIGNSTON,HDEKIGPJ93RVUV,Discos Duros Externos KIGNSTON 8GB
+Tech BCN Sur,Ana Beltrán,Hugo Aguado,Barcelona,Final,DNI1475196103,FAC000301,27-07-2024,$109.42,7,12%,21%,$815.57,HUB,Hubs USB,APC,HUBAPCV28UE1MY,Hubs USB APC
+Tech BCN Sur,Ana Beltrán,Hugo Aguado,Barcelona,Final,DNI1475196103,FAC000301,27-07-2024,$228.43,7,0%,21%,$1934.80,KIT,Kits/Combos Periféricos,SONY,KITSONBXPQ5BO2,Kits/Combos Periféricos SONY
+Tech BCN Sur,Ana Beltrán,Hugo Aguado,Barcelona,Final,DNI1475196103,FAC000301,27-07-2024,$87.00,11,10%,21%,$1042.17,HDD,Discos Duros Internos,KIGNSTON,HDDKIGGWLKOBQ6,Discos Duros Internos KIGNSTON 256GB
+Tech BCN Norte,Nuria Pascual,Aitana Torres,Barcelona,Final,DNI3683629854,FAC000067,15-07-2018,$600.98,3,15%,21%,$1854.32,NAS,Almacenamiento NAS,SAMSUNG,NASSAM9J2H1TLO,Almacenamiento NAS SAMSUNG
+Tech BCN Norte,Nuria Pascual,Aitana Torres,Barcelona,Final,DNI3683629854,FAC000067,15-07-2018,$909.10,10,15%,21%,$9350.09,CPU,Computadoras,CDP,CPUCDPMT28LL6D,"Computadoras CDP Ryzen 7, 8GB RAM, SSD 512GB"
+Tech BCN Norte,Nuria Pascual,Aitana Torres,Barcelona,Final,DNI3683629854,FAC000067,15-07-2018,$21.13,5,20%,21%,$102.27,FME,Flash Memory,BENQ,FMEBEN4RMPNFGA,Flash Memory BENQ 2TB
+Tech BCN Centro,Sergio Martín,Alba Sánchez,Barcelona,Distribuidor,DNI4220896143,FAC000299,08-12-2024,$83.31,2,7%,21%,$187.50,FME,Flash Memory,AMAZON,FMEAMADV5OJZTO,Flash Memory AMAZON 4TB
+Tech DCM Barcelona,Laura Gómez,Marc Ramírez,Barcelona,Final,DNI9723857283,FAC000211,09-07-2020,$167.26,4,3%,21%,$785.25,PAR,Parlantes,ASUS,PARASUTYJR39II,Parlantes ASUS alta fidelidad
+Tech DCM Barcelona,Laura Gómez,Marc Ramírez,Barcelona,Final,DNI9723857283,FAC000211,09-07-2020,$51.63,10,12%,21%,$549.76,ACC,Accesorios,CANON,ACCCANIAW4OTUO,Accesorios CANON
+Tech DCM Barcelona,Laura Gómez,Marc Ramírez,Barcelona,Final,DNI9723857283,FAC000211,09-07-2020,$181.51,4,10%,21%,$790.66,NIC,Tarjetas de Red,KIGNSTON,NICKIG590Z92JN,Tarjetas de Red KIGNSTON gigabit
+Tech DCM Barcelona,Laura Gómez,Marc Ramírez,Barcelona,Final,DNI9723857283,FAC000211,09-07-2020,$1388.60,9,15%,21%,$12853.58,VRG,Realidad Virtual/AR,CORSAIR,VRGCORCYL3Z2UD,Realidad Virtual/AR CORSAIR
+Tech BCN Norte,María Vidal,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000264,10-10-2024,$63.68,7,2%,21%,$528.58,SDC,Lectores de Tarjetas SD,CORSAIR,SDCCORZXT9QUBW,Lectores de Tarjetas SD CORSAIR 32GB
+Tech BCN Norte,María Vidal,Jordi Mora,Barcelona,Distribuidor,DNI0972256085,FAC000264,10-10-2024,$27.88,5,0%,21%,$168.67,MOU,Mouse,INTEL,MOUINTQX6RZCM8,Mouse INTEL
+Tech BCN Sur,Sergio Martín,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000133,01-07-2019,$113.24,11,10%,21%,$1356.50,HDD,Discos Duros Internos,LOGITECH,HDDLOGQTYLU58F,Discos Duros Internos LOGITECH 8GB
+Tech BCN Sur,Sergio Martín,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000133,01-07-2019,$117.13,10,3%,21%,$1374.75,DCK,Docking Stations,AMD,DCKAMDZME9WT00,Docking Stations AMD
+Tech BCN Sur,Sergio Martín,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000133,01-07-2019,$87.44,12,15%,21%,$1079.18,SUM,Suministros,ADATA,SUMADAXRED8U8N,Suministros ADATA
+Tech BCN Sur,Sergio Martín,Javier Prieto,Barcelona,Distribuidor,DNI0350014475,FAC000133,01-07-2019,$799.72,11,2%,21%,$10431.39,GPU,Tarjetas de Video,CDP,GPUCDPGLGPJDJH,Tarjetas de Video CDP 12GB GDDR6
+Tech DCM Barcelona,Carlos Díaz,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000134,21-11-2020,$13.04,10,10%,21%,$142.01,HUB,Hubs USB,AMD,HUBAMD9CNG8TAN,Hubs USB AMD
+Tech DCM Barcelona,Jordi Serra,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000291,12-02-2020,$1541.23,3,20%,21%,$4475.73,PHN,Smartphones,ARGOM,PHNARGT9DYFNGP,Smartphones ARGOM
+Tech DCM Barcelona,Jordi Serra,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000291,12-02-2020,$117.74,3,20%,21%,$341.92,RED,Equipos de Red,EPSON,REDEPSBBT873LK,Equipos de Red EPSON gigabit
+Tech DCM Barcelona,Jordi Serra,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000291,12-02-2020,$206.78,2,20%,21%,$400.33,UPS,UPS,APC,UPSAPCRV9777TN,UPS APC
+Tech DCM Barcelona,Jordi Serra,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000291,12-02-2020,$479.14,11,2%,21%,$6249.81,MON,Monitores,CDP,MONCDPIF8R2BC9,"Monitores CDP 32"" 60Hz"
+Tech DCM Barcelona,Jordi Serra,Víctor López,Barcelona,Distribuidor,DNI7539312056,FAC000291,12-02-2020,$240.52,4,7%,21%,$1082.63,WAP,Access Points Wi‑Fi,LG,WAPLGXLSUTOTHL,Access Points Wi‑Fi LG gigabit
+Tech BCN Sur,Sergio Martín,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000128,18-11-2022,$1348.35,9,0%,21%,$14683.53,CPU,Computadoras,GENIUS,CPUGENADUVL911,"Computadoras GENIUS i5, 8GB RAM, SSD 512GB"
+Tech BCN Sur,Sergio Martín,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000128,18-11-2022,$144.99,1,12%,21%,$154.39,PWB,Power Banks,SONY,PWBSON6TX0TBKG,Power Banks SONY
+Tech BCN Sur,Sergio Martín,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000128,18-11-2022,$587.18,2,5%,21%,$1349.93,DVR,DVR/NVR Seguridad,Hp,DVRHPXSGNZ6D86,DVR/NVR Seguridad Hp profesional
+Tech BCN Sur,Sergio Martín,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000128,18-11-2022,$1228.12,6,3%,21%,$8648.67,PHN,Smartphones,ASROCK,PHNASRUWBN6EK6,Smartphones ASROCK
+Tech BCN Centro,Laura Gómez,Irene López,Barcelona,Final,DNI6553290297,FAC000042,05-07-2022,$283.28,11,7%,21%,$3506.52,RED,Equipos de Red,MAC,REDMACVWJ7YZ6L,Equipos de Red MAC gigabit
+Tech DCM Barcelona,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000003,22-08-2022,$67.40,11,2%,21%,$879.15,RAM,Memoria RAM,ASROCK,RAMASR3RVWOZQX,Memoria RAM ASROCK 16GB
+Tech DCM Barcelona,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000003,22-08-2022,$237.69,5,7%,21%,$1337.36,UPS,UPS,XEROX,UPSXERRGL7JY7O,UPS XEROX
+Tech DCM Barcelona,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000003,22-08-2022,$1358.26,2,2%,21%,$3221.25,LAP,Laptops,TP-LINK,LAPTPLE358TRE9,"Laptops TP-LINK i5, 8GB RAM, SSD 512GB"
+Tech DCM Barcelona,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000003,22-08-2022,$187.39,4,5%,21%,$861.62,SUM,Suministros,AMAZON,SUMAMA13IWPFVB,Suministros AMAZON
+Tech BCN Norte,Luis Pons,Raúl Campos,Barcelona,Distribuidor,DNI5904837937,FAC000180,18-05-2024,$161.57,4,3%,21%,$758.54,RED,Equipos de Red,CDP,REDCDP4JGQ6CN8,Equipos de Red CDP gigabit
+Tech BCN Centro,Laura Gómez,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000036,19-05-2025,$37.51,9,0%,21%,$408.48,MOU,Mouse,EPSON,MOUEPSCITUF8CY,Mouse EPSON
+Tech BCN Centro,Laura Gómez,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000036,19-05-2025,$292.25,10,2%,21%,$3465.50,DCK,Docking Stations,SONY,DCKSONG7NFDINU,Docking Stations SONY
+Tech BCN Centro,Laura Gómez,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000036,19-05-2025,$150.89,8,5%,21%,$1387.58,HDE,Discos Duros Externos,TP-LINK,HDETPLWUCX67XK,Discos Duros Externos TP-LINK 1TB
+Tech BCN Centro,Laura Gómez,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000036,19-05-2025,$237.50,3,12%,21%,$758.67,DCK,Docking Stations,BENQ,DCKBENM9Q7FTMF,Docking Stations BENQ
+Tech BCN Centro,Laura Gómez,Aitana Aguado,Barcelona,Final,DNI7259461962,FAC000182,27-03-2018,$69.78,7,15%,21%,$502.38,WBC,Cámaras Web,MAC,WBCMACBO549EWH,Cámaras Web MAC
+Tech BCN Centro,Laura Gómez,Aitana Aguado,Barcelona,Final,DNI7259461962,FAC000182,27-03-2018,$29.39,4,10%,21%,$128.02,SDC,Lectores de Tarjetas SD,EPSON,SDCEPSPNNLO0HH,Lectores de Tarjetas SD EPSON 1TB
+Tech BCN Centro,Laura Gómez,Aitana Aguado,Barcelona,Final,DNI7259461962,FAC000182,27-03-2018,$287.16,10,12%,21%,$3057.68,GAM,Accesorios Gaming,TP-LINK,GAMTPL2NLOQTQ6,Accesorios Gaming TP-LINK
+Tech BCN Centro,Laura Gómez,Aitana Aguado,Barcelona,Final,DNI7259461962,FAC000182,27-03-2018,$222.81,11,3%,21%,$2876.63,IMP,Impresoras,ASROCK,IMPASRHTFNSGPY,Impresoras ASROCK profesional
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000004,13-06-2024,$195.86,1,2%,21%,$232.25,RED,Equipos de Red,DYNABOOK,REDDYNLI01RV1T,Equipos de Red DYNABOOK gigabit
+Tech BCN Centro,Sergio Martín,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000004,13-06-2024,$865.94,5,2%,21%,$5134.16,MON,Monitores,AMAZON,MONAMAA75LD7M0,"Monitores AMAZON 27"" 165Hz"
+Tech BCN Sur,Nuria Pascual,Eva Cruz,Barcelona,Ecommerce,DNI9828487319,FAC000282,18-10-2021,$729.94,8,7%,21%,$6571.21,PRJ,Proyectores,CANON,PRJCANDU6FOTWF,Proyectores CANON profesional
+Tech BCN Sur,Nuria Pascual,Eva Cruz,Barcelona,Ecommerce,DNI9828487319,FAC000282,18-10-2021,$12.67,1,10%,21%,$13.80,LIM,Kits de Limpieza,ASUS,LIMASU9XFQ1ENN,Kits de Limpieza ASUS
+Tech BCN Centro,Nuria Pascual,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000278,23-03-2018,$82.16,11,5%,21%,$1038.87,WAP,Access Points Wi‑Fi,KIGNSTON,WAPKIGMMDNGWY7,Access Points Wi‑Fi KIGNSTON gigabit
+Tech BCN Centro,Nuria Pascual,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000278,23-03-2018,$198.46,6,7%,21%,$1339.96,NIC,Tarjetas de Red,CDP,NICCDPK22M9RWV,Tarjetas de Red CDP gigabit
+Tech BCN Centro,Nuria Pascual,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000278,23-03-2018,$43.16,7,10%,21%,$329.01,FME,Flash Memory,Hp,FMEHPXKS6R6BIL,Flash Memory Hp 8GB
+Tech BCN Centro,Nuria Pascual,Andrés Castro,Barcelona,Final,DNI1912755756,FAC000278,23-03-2018,$149.81,5,12%,21%,$797.59,RAM,Memoria RAM,SONY,RAMSON9XXLB57A,Memoria RAM SONY 64GB
+Tech BCN Sur,Sergio Martín,Mateo Núñez,Barcelona,Distribuidor,DNI6572035165,FAC000248,28-05-2018,$29.86,8,7%,21%,$268.81,LIM,Kits de Limpieza,DELL TECHNOLOGY,LIMDELM242OM7Z,Kits de Limpieza DELL TECHNOLOGY
+Tech BCN Sur,Sergio Martín,Mateo Núñez,Barcelona,Distribuidor,DNI6572035165,FAC000248,28-05-2018,$204.46,2,5%,21%,$470.05,RAM,Memoria RAM,AMAZON,RAMAMA67DXLSE3,Memoria RAM AMAZON 16GB
+Tech BCN Sur,Sergio Martín,Mateo Núñez,Barcelona,Distribuidor,DNI6572035165,FAC000248,28-05-2018,$182.69,2,3%,21%,$428.85,SUM,Suministros,CORSAIR,SUMCORCUIDC00M,Suministros CORSAIR
+Tech BCN Sur,Laura Gómez,Marc Iglesias,Barcelona,Final,DNI5319337766,FAC000169,16-06-2025,$252.54,4,0%,21%,$1222.29,DCK,Docking Stations,APC,DCKAPCCE77GZDP,Docking Stations APC
+Tech DCM Barcelona,Sergio Martín,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000190,05-08-2021,$42.61,9,0%,21%,$464.02,FME,Flash Memory,GENIUS,FMEGEN3ZRZQ0V4,Flash Memory GENIUS 16GB
+Tech DCM Barcelona,Sergio Martín,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000190,05-08-2021,$153.69,4,3%,21%,$721.54,SUM,Suministros,ASROCK,SUMASRJ5UGE1G4,Suministros ASROCK
+Tech DCM Barcelona,Sergio Martín,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000190,05-08-2021,$36.50,11,7%,21%,$451.81,GAB,Gabinetes,LG,GABLGX4KOXHJMI,Gabinetes LG
+Tech DCM Barcelona,Sergio Martín,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000190,05-08-2021,$1093.57,8,0%,21%,$10585.76,PRJ,Proyectores,TP-LINK,PRJTPLFCR6C1PY,Proyectores TP-LINK profesional
+Tech DCM Barcelona,Sergio Martín,Raúl Méndez,Barcelona,Ecommerce,DNI4009850939,FAC000190,05-08-2021,$681.40,8,10%,21%,$5936.36,DVR,DVR/NVR Seguridad,LOGITECH,DVRLOGDV6NYYCJ,DVR/NVR Seguridad LOGITECH profesional
+Tech BCN Sur,Laura Gómez,Aitana Sánchez,Barcelona,Distribuidor,DNI1227397464,FAC000171,09-08-2023,$463.64,7,15%,21%,$3337.98,CTV,Cámaras de Seguridad,GENIUS,CTVGENL9GVBMQQ,Cámaras de Seguridad GENIUS profesional
+Tech BCN Sur,Laura Gómez,Aitana Sánchez,Barcelona,Distribuidor,DNI1227397464,FAC000171,09-08-2023,$326.15,6,0%,21%,$2367.85,NAS,Almacenamiento NAS,EPSON,NASEPSF0N852N5,Almacenamiento NAS EPSON
+Tech BCN Sur,Laura Gómez,Aitana Sánchez,Barcelona,Distribuidor,DNI1227397464,FAC000171,09-08-2023,$75.37,8,12%,21%,$642.03,RTR,Routers,XEROX,RTRXER36F8HARJ,Routers XEROX gigabit
+Tech BCN Norte,Carlos Díaz,Hugo Guerrero,Barcelona,Distribuidor,DNI0454249568,FAC000315,11-02-2021,$86.00,12,15%,21%,$1061.41,FME,Flash Memory,GENIUS,FMEGENVRP4RXMD,Flash Memory GENIUS 4TB
+Tech BCN Norte,Carlos Díaz,Hugo Guerrero,Barcelona,Distribuidor,DNI0454249568,FAC000315,11-02-2021,$868.26,7,2%,21%,$7207.08,PRJ,Proyectores,MAC,PRJMACI72OALFW,Proyectores MAC profesional
+Tech BCN Centro,Carlos Díaz,Lucía Iglesias,Barcelona,Ecommerce,DNI2213461991,FAC000015,28-02-2021,$44.53,4,10%,21%,$193.97,SDC,Lectores de Tarjetas SD,CORSAIR,SDCCOR35N8CQPH,Lectores de Tarjetas SD CORSAIR 1TB
+Tech BCN Centro,Carlos Díaz,Lucía Iglesias,Barcelona,Ecommerce,DNI2213461991,FAC000015,28-02-2021,$181.40,10,5%,21%,$2085.19,RAM,Memoria RAM,INTEL,RAMINTM2Z682U6,Memoria RAM INTEL 64GB
+Tech BCN Centro,Carlos Díaz,Lucía Iglesias,Barcelona,Ecommerce,DNI2213461991,FAC000015,28-02-2021,$1132.37,12,7%,21%,$15291.07,PHN,Smartphones,KIGNSTON,PHNKIGQASD1WCR,Smartphones KIGNSTON
+Tech BCN Sur,Sergio Martín,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000156,02-03-2020,$239.43,6,15%,21%,$1477.52,KIT,Kits/Combos Periféricos,MAC,KITMACN1RIAMWU,Kits/Combos Periféricos MAC
+Tech BCN Sur,Sergio Martín,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000156,02-03-2020,$222.92,9,20%,21%,$1942.08,MIC,Micrófonos,LESMARK,MICLES5H3G7VKC,Micrófonos LESMARK alta fidelidad
+Tech BCN Sur,Sergio Martín,Nora Cabrera,Barcelona,Distribuidor,DNI9981424039,FAC000156,02-03-2020,$950.49,2,10%,21%,$2070.17,PRJ,Proyectores,ASUS,PRJASU2P3AJFAX,Proyectores ASUS profesional
+Tech BCN Centro,Nuria Pascual,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000157,07-01-2025,$47.28,1,2%,21%,$56.06,GAM,Accesorios Gaming,ARGOM,GAMARGV1DJJZQF,Accesorios Gaming ARGOM
+Tech BCN Centro,Nuria Pascual,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000157,07-01-2025,$200.85,1,7%,21%,$226.02,IMP,Impresoras,CDP,IMPCDPTNLZTWXO,Impresoras CDP profesional
+Tech BCN Centro,Nuria Pascual,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000157,07-01-2025,$39.03,3,5%,21%,$134.59,MIC,Micrófonos,KIGNSTON,MICKIG1BS0ZR7F,Micrófonos KIGNSTON alta fidelidad
+Tech BCN Centro,Nuria Pascual,Nora Campos,Barcelona,Ecommerce,DNI5123047419,FAC000157,07-01-2025,$1484.59,12,3%,21%,$20909.56,CPU,Computadoras,TP-LINK,CPUTPLMMCMCOCO,"Computadoras TP-LINK Ryzen 5, 8GB RAM, SSD 256GB"
+Tech BCN Centro,María Vidal,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000117,04-12-2020,$66.97,3,20%,21%,$194.48,SSD,Unidades SSD,AMD,SSDAMDXUB4IBHI,Unidades SSD AMD 256GB
+Tech BCN Centro,María Vidal,Nerea Santos,Barcelona,Ecommerce,DNI2745384839,FAC000117,04-12-2020,$24.43,10,0%,21%,$295.60,MIC,Micrófonos,DELL TECHNOLOGY,MICDEL1YA1RYZT,Micrófonos DELL TECHNOLOGY alta fidelidad
+Tech BCN Centro,Marta Soler,Elena Vidal,Barcelona,Final,DNI1571247952,FAC000259,07-07-2023,$381.22,5,20%,21%,$1845.10,SFT,Software,SAMSUNG,SFTSAMC5S3OFAW,Software SAMSUNG
+Tech BCN Sur,Jordi Serra,Alicia López,Barcelona,Final,DNI8375889866,FAC000223,05-04-2020,$441.91,4,3%,21%,$2074.68,MBD,Motherboards,CDP,MBDCDPH6OXQQ8Y,Motherboards CDP
+Tech BCN Sur,Jordi Serra,Alicia López,Barcelona,Final,DNI8375889866,FAC000223,05-04-2020,$40.01,10,7%,21%,$450.23,TEC,Teclados,AMD,TECAMDND7H10KY,Teclados AMD
+Tech BCN Sur,Jordi Serra,Alicia López,Barcelona,Final,DNI8375889866,FAC000223,05-04-2020,$25.81,6,5%,21%,$178.01,CAB,Cables y Adaptadores,EPSON,CABEPSBWU5JSLH,Cables y Adaptadores EPSON
+Tech BCN Sur,Jordi Serra,Alicia López,Barcelona,Final,DNI8375889866,FAC000223,05-04-2020,$1777.79,4,2%,21%,$8432.41,PHN,Smartphones,SONY,PHNSONNL9VFRUK,Smartphones SONY
+Tech BCN Sur,Jordi Serra,Alicia López,Barcelona,Final,DNI8375889866,FAC000223,05-04-2020,$216.11,3,2%,21%,$768.79,DCK,Docking Stations,APC,DCKAPC54W487KN,Docking Stations APC
+Tech BCN Norte,Ana Beltrán,Víctor Cruz,Barcelona,Final,DNI1235220629,FAC000045,30-03-2025,$280.44,4,2%,21%,$1330.18,RTR,Routers,SONY,RTRSON5CPA16KJ,Routers SONY gigabit
+Tech BCN Norte,Ana Beltrán,Víctor Cruz,Barcelona,Final,DNI1235220629,FAC000045,30-03-2025,$178.99,12,20%,21%,$2079.15,NIC,Tarjetas de Red,SONY,NICSON8257GE0Q,Tarjetas de Red SONY gigabit
+Tech BCN Norte,Luis Pons,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000126,25-04-2024,$100.75,1,2%,21%,$119.47,MON,Monitores,SONY,MONSONYHONBPQG,"Monitores SONY 27"" 120Hz"
+Tech BCN Norte,Luis Pons,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000126,25-04-2024,$12.94,10,12%,21%,$137.79,SDC,Lectores de Tarjetas SD,GENIUS,SDCGENHJY8GY39,Lectores de Tarjetas SD GENIUS 2TB
+Tech BCN Norte,Luis Pons,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000126,25-04-2024,$21.80,6,20%,21%,$126.61,LIM,Kits de Limpieza,GENIUS,LIMGEN2Z0KDN3T,Kits de Limpieza GENIUS
+Tech BCN Norte,Luis Pons,Marc Núñez,Barcelona,Ecommerce,DNI3989238434,FAC000126,25-04-2024,$1058.09,8,20%,21%,$8193.85,VRG,Realidad Virtual/AR,MAC,VRGMACLXOUN91F,Realidad Virtual/AR MAC
+Tech BCN Norte,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000030,21-12-2018,$484.06,11,3%,21%,$6249.55,MBD,Motherboards,MAC,MBDMACLMQ15FBS,Motherboards MAC
+Tech BCN Norte,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000030,21-12-2018,$18.99,7,2%,21%,$157.63,HUB,Hubs USB,CDP,HUBCDPT3F2F3HY,Hubs USB CDP
+Tech BCN Norte,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000030,21-12-2018,$207.36,2,10%,21%,$451.63,SCN,Escáneres,INTEL,SCNINTBDA7XFIZ,Escáneres INTEL profesional
+Tech BCN Norte,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000030,21-12-2018,$19.92,11,15%,21%,$225.36,SDC,Lectores de Tarjetas SD,XEROX,SDCXERN7S3HMO1,Lectores de Tarjetas SD XEROX 32GB
+Tech BCN Norte,Sergio Martín,Leo Vidal,Barcelona,Distribuidor,DNI6761747749,FAC000030,21-12-2018,$15.88,7,7%,21%,$125.09,LIM,Kits de Limpieza,TP-LINK,LIMTPLGA2SDFC8,Kits de Limpieza TP-LINK
+Tech BCN Centro,Carlos Díaz,Alicia Sánchez,Barcelona,Distribuidor,DNI1328316630,FAC000308,27-02-2025,$85.31,11,12%,21%,$999.22,FME,Flash Memory,ADATA,FMEADAAKH3YCQE,Flash Memory ADATA 8GB
+Tech BCN Norte,Laura Gómez,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000224,08-05-2022,$39.50,12,15%,21%,$487.51,HDD,Discos Duros Internos,CANON,HDDCANPVRWBRBL,Discos Duros Internos CANON 512GB
+Tech BCN Norte,Laura Gómez,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000224,08-05-2022,$482.31,2,15%,21%,$992.11,CTV,Cámaras de Seguridad,INTEL,CTVINT1PV58Y9N,Cámaras de Seguridad INTEL profesional
+Tech BCN Norte,Laura Gómez,Carla Serra,Barcelona,Ecommerce,DNI9958080016,FAC000224,08-05-2022,$300.56,6,7%,21%,$2029.32,MBD,Motherboards,INTEL,MBDINTDI3WDNMV,Motherboards INTEL
+Tech BCN Sur,Ana Beltrán,Aitana Valdevas,Barcelona,Distribuidor,DNI9592304864,FAC000270,18-11-2024,$1564.86,9,0%,21%,$17041.33,LAP,Laptops,ADATA,LAPADAYVYBSCGJ,"Laptops ADATA i7, 32GB RAM, SSD 256GB"
+Tech BCN Sur,Ana Beltrán,Aitana Valdevas,Barcelona,Distribuidor,DNI9592304864,FAC000270,18-11-2024,$42.68,4,15%,21%,$175.59,LIM,Kits de Limpieza,Hp,LIMHPXR6KFKLDF,Kits de Limpieza Hp
+Tech BCN Sur,Ana Beltrán,Aitana Valdevas,Barcelona,Distribuidor,DNI9592304864,FAC000270,18-11-2024,$1267.50,8,5%,21%,$11655.93,PHN,Smartphones,ASUS,PHNASUA1361BGM,Smartphones ASUS
+Tech BCN Sur,Ana Beltrán,Aitana Valdevas,Barcelona,Distribuidor,DNI9592304864,FAC000270,18-11-2024,$158.92,12,12%,21%,$2030.62,KIT,Kits/Combos Periféricos,EPSON,KITEPS38EFE9VA,Kits/Combos Periféricos EPSON
+Tech BCN Norte,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000034,12-03-2019,$1112.82,3,2%,21%,$3958.75,TBL,Tablets,AMD,TBLAMDKUPCJ8MO,Tablets AMD
+Tech BCN Norte,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000034,12-03-2019,$55.25,10,12%,21%,$588.30,MOU,Mouse,ARGOM,MOUARGDGHXTUR8,Mouse ARGOM
+Tech BCN Norte,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000034,12-03-2019,$83.44,5,20%,21%,$403.85,TEC,Teclados,INTEL,TECINTBHK0ONSA,Teclados INTEL
+Tech BCN Norte,Carlos Díaz,Rubén Ríos,Barcelona,Final,DNI9656872032,FAC000034,12-03-2019,$10.45,7,20%,21%,$70.81,ACC,Accesorios,CANON,ACCCAN5E742GRR,Accesorios CANON
+Tech DCM Barcelona,Jordi Serra,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000314,25-06-2025,$219.16,4,7%,21%,$986.48,SCN,Escáneres,MAC,SCNMAC5CS9UI14,Escáneres MAC profesional
+Tech DCM Barcelona,Jordi Serra,Laia Rey,Barcelona,Distribuidor,DNI0555135125,FAC000314,25-06-2025,$152.18,4,3%,21%,$714.45,COO,Refrigeración,AMD,COOAMD1BLOG0NQ,Refrigeración AMD
+Tech BCN Sur,Jordi Serra,Santiago Torres,Barcelona,Distribuidor,DNI7677305817,FAC000168,15-09-2020,$70.36,5,12%,21%,$374.60,SMW,Smartwatches,CANON,SMWCANRCVPUZ11,Smartwatches CANON
+Tech BCN Sur,Jordi Serra,Santiago Torres,Barcelona,Distribuidor,DNI7677305817,FAC000168,15-09-2020,$129.63,12,20%,21%,$1505.78,RAM,Memoria RAM,EPSON,RAMEPSX9M4V74Q,Memoria RAM EPSON 4TB
+Tech BCN Sur,Jordi Serra,Santiago Torres,Barcelona,Distribuidor,DNI7677305817,FAC000168,15-09-2020,$79.20,5,7%,21%,$445.62,HUB,Hubs USB,LOGITECH,HUBLOG2EMY9TWC,Hubs USB LOGITECH
+Tech BCN Sur,Jordi Serra,Santiago Torres,Barcelona,Distribuidor,DNI7677305817,FAC000168,15-09-2020,$84.37,5,7%,21%,$474.71,HUB,Hubs USB,Hp,HUBHPXI7LIG9GM,Hubs USB Hp
+Tech BCN Sur,Jordi Serra,Santiago Torres,Barcelona,Distribuidor,DNI7677305817,FAC000168,15-09-2020,$88.39,9,10%,21%,$866.31,HUB,Hubs USB,DYNABOOK,HUBDYNYGW22YGY,Hubs USB DYNABOOK
+Tech BCN Sur,Marta Soler,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000080,01-11-2023,$62.50,7,15%,21%,$449.97,TEC,Teclados,SONY,TECSON0KIVWM53,Teclados SONY
+Tech BCN Sur,Marta Soler,Raúl Soler,Barcelona,Final,DNI6353953432,FAC000080,01-11-2023,$130.06,2,5%,21%,$299.01,KIT,Kits/Combos Periféricos,BENQ,KITBEN7QMJCENT,Kits/Combos Periféricos BENQ
+Tech BCN Norte,Nuria Pascual,Paula Rey,Barcelona,Distribuidor,DNI2595774247,FAC000105,06-02-2023,$53.84,3,3%,21%,$189.58,PWB,Power Banks,BENQ,PWBBENSPJ9WRDP,Power Banks BENQ
+Tech BCN Norte,Nuria Pascual,Paula Rey,Barcelona,Distribuidor,DNI2595774247,FAC000105,06-02-2023,$114.02,7,5%,21%,$917.46,TEC,Teclados,CORSAIR,TECCOR19BCDTED,Teclados CORSAIR
+Tech BCN Norte,Nuria Pascual,Paula Rey,Barcelona,Distribuidor,DNI2595774247,FAC000105,06-02-2023,$149.10,5,20%,21%,$721.64,PAR,Parlantes,LOGITECH,PARLOGUAMWJPIW,Parlantes LOGITECH alta fidelidad
+Tech BCN Norte,Nuria Pascual,Paula Rey,Barcelona,Distribuidor,DNI2595774247,FAC000105,06-02-2023,$573.59,2,7%,21%,$1290.92,SFT,Software,ASUS,SFTASUFTLH33HW,Software ASUS
+Tech BCN Norte,Nuria Pascual,Paula Rey,Barcelona,Distribuidor,DNI2595774247,FAC000105,06-02-2023,$521.13,5,12%,21%,$2774.50,PHN,Smartphones,APC,PHNAPCD4HQFGHD,Smartphones APC
+Tech BCN Sur,Nuria Pascual,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000262,24-05-2020,$791.03,11,15%,21%,$8949.32,LAP,Laptops,AMAZON,LAPAMAOPF541A1,"Laptops AMAZON i9, 32GB RAM, SSD 512GB"
+Tech BCN Sur,Nuria Pascual,Rubén Castro,Barcelona,Final,DNI1647987012,FAC000262,24-05-2020,$103.75,7,5%,21%,$834.82,MIC,Micrófonos,ADATA,MICADARW4VNZVZ,Micrófonos ADATA alta fidelidad
+Tech BCN Norte,Laura Gómez,Bruno Ortega,Barcelona,Distribuidor,DNI8544109484,FAC000041,18-07-2022,$149.37,1,12%,21%,$159.05,SSD,Unidades SSD,SAMSUNG,SSDSAMKIVQA7IZ,Unidades SSD SAMSUNG 4TB
+Tech BCN Norte,Laura Gómez,Bruno Ortega,Barcelona,Distribuidor,DNI8544109484,FAC000041,18-07-2022,$598.32,8,3%,21%,$5617.99,SFT,Software,CORSAIR,SFTCORNR06DJIN,Software CORSAIR
+Tech BCN Norte,Laura Gómez,Bruno Ortega,Barcelona,Distribuidor,DNI8544109484,FAC000041,18-07-2022,$81.49,3,2%,21%,$289.89,UPS,UPS,ASUS,UPSASU4XV349N1,UPS ASUS
+Tech DCM Barcelona,Pau Ríos,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000159,21-11-2018,$489.75,10,0%,21%,$5925.97,MBD,Motherboards,EPSON,MBDEPSFFP5GOFC,Motherboards EPSON
+Tech DCM Barcelona,Pau Ríos,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000159,21-11-2018,$6.46,4,2%,21%,$30.64,USB,Pendrives USB,LG,USBLGX2550KQPG,Pendrives USB LG 16GB
+Tech DCM Barcelona,Pau Ríos,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000159,21-11-2018,$36.15,1,10%,21%,$39.37,MNT,Montajes/Soportes,APC,MNTAPCJ2T2TNGT,Montajes/Soportes APC
+Tech DCM Barcelona,Pau Ríos,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000159,21-11-2018,$134.67,10,10%,21%,$1466.56,UPS,UPS,TP-LINK,UPSTPLJ3S6OGQ4,UPS TP-LINK
+Tech DCM Barcelona,Pau Ríos,Andrés Vega,Barcelona,Distribuidor,DNI3767032616,FAC000159,21-11-2018,$37.08,1,7%,21%,$41.73,USB,Pendrives USB,XEROX,USBXERKIGDIX1C,Pendrives USB XEROX 1TB
+Tech BCN Sur,Sergio Martín,Hugo Pérez,Barcelona,Distribuidor,DNI1929520192,FAC000274,04-03-2024,$36.16,7,3%,21%,$297.09,SDC,Lectores de Tarjetas SD,DELL TECHNOLOGY,SDCDEL5QXS2U4O,Lectores de Tarjetas SD DELL TECHNOLOGY 2TB
+Tech BCN Sur,Sergio Martín,Hugo Pérez,Barcelona,Distribuidor,DNI1929520192,FAC000274,04-03-2024,$747.69,6,15%,21%,$4613.99,PHN,Smartphones,MAC,PHNMAC2HVNKVON,Smartphones MAC
+Tech BCN Sur,Sergio Martín,Hugo Pérez,Barcelona,Distribuidor,DNI1929520192,FAC000274,04-03-2024,$30.67,4,3%,21%,$143.99,FME,Flash Memory,TP-LINK,FMETPLAPWF520X,Flash Memory TP-LINK 8GB
+Tech BCN Sur,Sergio Martín,Hugo Pérez,Barcelona,Distribuidor,DNI1929520192,FAC000274,04-03-2024,$66.20,11,2%,21%,$863.50,HDE,Discos Duros Externos,EPSON,HDEEPSJOZNHE8I,Discos Duros Externos EPSON 128GB
+Tech BCN Sur,Sergio Martín,Hugo Pérez,Barcelona,Distribuidor,DNI1929520192,FAC000274,04-03-2024,$9.66,8,2%,21%,$91.64,CAB,Cables y Adaptadores,AMD,CABAMDM655CK3T,Cables y Adaptadores AMD
+Tech BCN Norte,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000143,25-06-2021,$191.19,10,15%,21%,$1966.39,UPS,UPS,ADATA,UPSADA9FZJAHSA,UPS ADATA
+Tech BCN Norte,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000143,25-06-2021,$406.47,9,20%,21%,$3541.17,SFT,Software,LESMARK,SFTLESLN2V51PS,Software LESMARK
+Tech BCN Norte,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000143,25-06-2021,$165.48,7,7%,21%,$1303.50,MON,Monitores,MAC,MONMAC7NXP0JF6,"Monitores MAC 29"" 75Hz"
+Tech BCN Norte,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000143,25-06-2021,$74.96,4,0%,21%,$362.81,PAR,Parlantes,AMD,PARAMDK8HUP3FT,Parlantes AMD alta fidelidad
+Tech BCN Norte,Ana Beltrán,Arturo Martí,Barcelona,Final,DNI8417483116,FAC000143,25-06-2021,$154.78,8,10%,21%,$1348.44,MON,Monitores,ARGOM,MONARG4JRCQ97R,"Monitores ARGOM 32"" 120Hz"
+Tech BCN Sur,Pau Ríos,Jordi López,Barcelona,Final,DNI6420813238,FAC000079,21-06-2024,$235.71,4,5%,21%,$1083.79,GAM,Accesorios Gaming,SONY,GAMSONLXSY4VY3,Accesorios Gaming SONY
+Tech BCN Sur,Pau Ríos,Jordi López,Barcelona,Final,DNI6420813238,FAC000079,21-06-2024,$70.15,2,3%,21%,$164.67,MOU,Mouse,DYNABOOK,MOUDYNRLSR0O8K,Mouse DYNABOOK
+Tech BCN Sur,Pau Ríos,Jordi López,Barcelona,Final,DNI6420813238,FAC000079,21-06-2024,$225.33,7,10%,21%,$1717.69,GAM,Accesorios Gaming,ASUS,GAMASU4H8QFDTN,Accesorios Gaming ASUS
+Tech BCN Sur,Pau Ríos,Jordi López,Barcelona,Final,DNI6420813238,FAC000079,21-06-2024,$73.34,7,15%,21%,$528.01,WBC,Cámaras Web,AMAZON,WBCAMAIW8X17CO,Cámaras Web AMAZON
+Tech BCN Sur,Pau Ríos,Jordi López,Barcelona,Final,DNI6420813238,FAC000079,21-06-2024,$69.16,5,5%,21%,$397.50,MOU,Mouse,CDP,MOUCDP7EI5R8VO,Mouse CDP
+Tech BCN Centro,Laura Gómez,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000043,15-10-2019,$242.96,12,3%,21%,$3421.95,MIC,Micrófonos,KIGNSTON,MICKIGNCC2ATRD,Micrófonos KIGNSTON alta fidelidad
+Tech BCN Centro,Laura Gómez,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000043,15-10-2019,$112.38,3,7%,21%,$379.38,IMP,Impresoras,ADATA,IMPADAQBK4Y7ZX,Impresoras ADATA profesional
+Tech BCN Centro,Laura Gómez,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000043,15-10-2019,$347.78,2,7%,21%,$782.71,AUD,Audífonos,APC,AUDAPCBU9W3GGO,Audífonos APC alta fidelidad
+Tech BCN Centro,Laura Gómez,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000043,15-10-2019,$107.99,2,15%,21%,$222.14,PWB,Power Banks,CANON,PWBCANWS3KCVJX,Power Banks CANON
+Tech BCN Centro,Laura Gómez,Lucía Valdevas,Barcelona,Final,DNI5192954984,FAC000043,15-10-2019,$42.30,12,12%,21%,$540.49,HUB,Hubs USB,ASUS,HUBASUYB4XZ3MS,Hubs USB ASUS
+Tech BCN Centro,Pau Ríos,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000206,21-06-2025,$139.80,5,10%,21%,$761.21,HDD,Discos Duros Internos,ASUS,HDDASUQZBC5F9E,Discos Duros Internos ASUS 256GB
+Tech BCN Centro,Pau Ríos,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000206,21-06-2025,$39.37,8,0%,21%,$381.10,PWB,Power Banks,ASUS,PWBASUZPEX7TV7,Power Banks ASUS
+Tech BCN Centro,Pau Ríos,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000206,21-06-2025,$116.15,12,10%,21%,$1517.85,CAB,Cables y Adaptadores,ARGOM,CABARGOMB42O3Q,Cables y Adaptadores ARGOM
+Tech BCN Centro,Laura Gómez,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000217,26-09-2022,$44.96,3,5%,21%,$155.04,CTV,Cámaras de Seguridad,KIGNSTON,CTVKIG5G5FJD5M,Cámaras de Seguridad KIGNSTON profesional
+Tech BCN Centro,Laura Gómez,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000217,26-09-2022,$330.55,6,0%,21%,$2399.79,SCN,Escáneres,LESMARK,SCNLESRKHGBAMM,Escáneres LESMARK profesional
+Tech BCN Centro,Laura Gómez,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000217,26-09-2022,$1189.98,9,5%,21%,$12310.94,LAP,Laptops,GENIUS,LAPGEN18HFY40J,"Laptops GENIUS i9, 32GB RAM, SSD 256GB"
+Tech BCN Norte,Carlos Díaz,Laia López,Barcelona,Ecommerce,DNI8827291492,FAC000213,13-02-2023,$750.49,6,5%,21%,$5176.13,PRJ,Proyectores,CDP,PRJCDPAV8C3PQ5,Proyectores CDP profesional
+Tech BCN Norte,Pau Ríos,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000257,24-04-2025,$117.40,2,7%,21%,$264.22,HDE,Discos Duros Externos,LOGITECH,HDELOG6JJTB8QO,Discos Duros Externos LOGITECH 2TB
+Tech BCN Sur,Luis Pons,Nerea Pérez,Barcelona,Distribuidor,DNI4384972853,FAC000147,18-08-2023,$64.46,12,10%,21%,$842.36,MNT,Montajes/Soportes,LESMARK,MNTLESXRUTT247,Montajes/Soportes LESMARK
+Tech BCN Sur,Luis Pons,Nerea Pérez,Barcelona,Distribuidor,DNI4384972853,FAC000147,18-08-2023,$148.89,3,7%,21%,$502.64,SUM,Suministros,INTEL,SUMINTXAPLIRD7,Suministros INTEL
+Tech BCN Sur,Luis Pons,Nerea Pérez,Barcelona,Distribuidor,DNI4384972853,FAC000147,18-08-2023,$287.88,2,2%,21%,$682.74,WAP,Access Points Wi‑Fi,BENQ,WAPBENO6HFD7LT,Access Points Wi‑Fi BENQ gigabit
+Tech DCM Barcelona,Luis Pons,Leo Prieto,Barcelona,Ecommerce,DNI4247238013,FAC000260,08-09-2020,$75.14,2,15%,21%,$154.56,MNT,Montajes/Soportes,TP-LINK,MNTTPL278EQE12,Montajes/Soportes TP-LINK
+Tech BCN Norte,María Vidal,Javier Iglesias,Barcelona,Final,DNI7341374837,FAC000204,30-12-2021,$595.43,3,3%,21%,$2096.57,SFT,Software,ARGOM,SFTARGNG806W81,Software ARGOM
+Tech BCN Centro,Carlos Díaz,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000031,31-12-2023,$300.92,10,15%,21%,$3094.96,TBL,Tablets,TP-LINK,TBLTPLWB42P31O,Tablets TP-LINK
+Tech BCN Centro,Carlos Díaz,Nora Vidal,Barcelona,Ecommerce,DNI2831908112,FAC000031,31-12-2023,$64.22,11,10%,21%,$769.29,MNT,Montajes/Soportes,KIGNSTON,MNTKIG0C9IX6R1,Montajes/Soportes KIGNSTON
+Tech DCM Barcelona,Luis Pons,Alba Giménez,Barcelona,Ecommerce,DNI3081273872,FAC000021,30-01-2023,$9.69,2,20%,21%,$18.76,ACC,Accesorios,KIGNSTON,ACCKIGM97XO485,Accesorios KIGNSTON
+Tech DCM Barcelona,Luis Pons,Alba Giménez,Barcelona,Ecommerce,DNI3081273872,FAC000021,30-01-2023,$252.22,6,5%,21%,$1739.56,GAM,Accesorios Gaming,TP-LINK,GAMTPLEER90MWB,Accesorios Gaming TP-LINK
+Tech BCN Sur,Pau Ríos,Javier Martí,Barcelona,Final,DNI7031934278,FAC000111,09-06-2018,$440.80,6,2%,21%,$3136.20,IMP,Impresoras,CANON,IMPCANX9Z39K49,Impresoras CANON profesional
+Tech BCN Norte,Pau Ríos,Alicia Serra,Barcelona,Final,DNI6467064571,FAC000135,25-07-2022,$27.02,6,10%,21%,$176.55,MOU,Mouse,CANON,MOUCANLZ57V4ND,Mouse CANON
+Tech BCN Centro,Marta Soler,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000008,19-05-2020,$1605.45,9,7%,21%,$16259.52,CPU,Computadoras,ASUS,CPUASUBL116CZ7,"Computadoras ASUS Ryzen 5, 32GB RAM, SSD 512GB"
+Tech BCN Centro,Marta Soler,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000008,19-05-2020,$2390.32,10,0%,21%,$28922.87,LAP,Laptops,DELL TECHNOLOGY,LAPDEL1B7PXJBC,"Laptops DELL TECHNOLOGY i3, 16GB RAM, SSD 256GB"
+Tech BCN Centro,Marta Soler,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000008,19-05-2020,$820.36,10,2%,21%,$9727.83,TBL,Tablets,XEROX,TBLXERNTJVU2CG,Tablets XEROX
+Tech BCN Centro,Marta Soler,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000008,19-05-2020,$15.98,9,7%,21%,$161.84,NIC,Tarjetas de Red,XEROX,NICXERAHZG85S9,Tarjetas de Red XEROX gigabit
+Tech BCN Centro,Marta Soler,Irene Giménez,Barcelona,Ecommerce,DNI1810458697,FAC000008,19-05-2020,$29.88,3,12%,21%,$95.45,USB,Pendrives USB,XEROX,USBXER04RIPWN3,Pendrives USB XEROX 4TB
+Tech BCN Norte,Pau Ríos,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000035,17-10-2020,$35.81,11,2%,21%,$467.10,TEC,Teclados,SAMSUNG,TECSAMPXR9OGJE,Teclados SAMSUNG
+Tech BCN Norte,Pau Ríos,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000035,17-10-2020,$480.92,10,0%,21%,$5819.13,WAP,Access Points Wi‑Fi,ASUS,WAPASUEB900YEH,Access Points Wi‑Fi ASUS gigabit
+Tech BCN Norte,Pau Ríos,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000035,17-10-2020,$789.79,6,12%,21%,$5045.81,SBR,Barras de Sonido,ASROCK,SBRASRZ3ADHF02,Barras de Sonido ASROCK alta fidelidad
+Tech BCN Norte,Pau Ríos,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000035,17-10-2020,$286.16,4,15%,21%,$1177.26,PSU,Fuentes de Poder,LOGITECH,PSULOGSJX4FOGX,Fuentes de Poder LOGITECH
+Tech BCN Norte,Pau Ríos,Alba Aguado,Barcelona,Ecommerce,DNI9393446753,FAC000035,17-10-2020,$462.45,2,7%,21%,$1040.79,PHN,Smartphones,BENQ,PHNBENPJPF240S,Smartphones BENQ
+Tech BCN Norte,Pau Ríos,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000009,27-12-2019,$127.53,7,7%,21%,$1004.57,MNT,Montajes/Soportes,ADATA,MNTADAR1CQKIH5,Montajes/Soportes ADATA
+Tech BCN Norte,Pau Ríos,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000009,27-12-2019,$376.89,2,7%,21%,$848.23,UPS,UPS,GENIUS,UPSGENH6AIRH8S,UPS GENIUS
+Tech BCN Norte,Pau Ríos,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000009,27-12-2019,$107.10,4,7%,21%,$482.08,SDC,Lectores de Tarjetas SD,CORSAIR,SDCCORSYJX20AU,Lectores de Tarjetas SD CORSAIR 128GB
+Tech BCN Norte,Pau Ríos,Rubén Navarro,Barcelona,Ecommerce,DNI5733168887,FAC000009,27-12-2019,$25.93,1,10%,21%,$28.24,SSD,Unidades SSD,TP-LINK,SSDTPL874U77W9,Unidades SSD TP-LINK 2TB
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000038,25-05-2023,$124.30,10,10%,21%,$1353.63,SUM,Suministros,APC,SUMAPC0ZPZJHO4,Suministros APC
+Tech BCN Norte,Luis Pons,Marina Campos,Barcelona,Distribuidor,DNI4863410183,FAC000038,25-05-2023,$839.29,9,0%,21%,$9139.87,LAP,Laptops,DELL TECHNOLOGY,LAPDELQHIBMQIM,"Laptops DELL TECHNOLOGY Ryzen 7, 8GB RAM, SSD 256GB"
+Tech BCN Centro,Ana Beltrán,Andrés Giménez,Barcelona,Ecommerce,DNI4007851819,FAC000242,10-08-2022,$66.68,2,0%,21%,$161.37,HDD,Discos Duros Internos,EPSON,HDDEPSO9CY9PE0,Discos Duros Internos EPSON 128GB
+Tech BCN Sur,María Vidal,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000089,22-02-2021,$215.73,8,7%,21%,$1942.09,SWI,Switches,ASROCK,SWIASRD7WDJV07,Switches ASROCK gigabit
+Tech BCN Sur,María Vidal,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000089,22-02-2021,$269.76,10,5%,21%,$3100.89,VRG,Realidad Virtual/AR,ARGOM,VRGARGXZA43HOL,Realidad Virtual/AR ARGOM
+Tech BCN Sur,María Vidal,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000089,22-02-2021,$53.59,11,7%,21%,$663.35,USB,Pendrives USB,BENQ,USBBENAZ71UF09,Pendrives USB BENQ 64GB
+Tech BCN Sur,María Vidal,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000089,22-02-2021,$127.54,1,2%,21%,$151.24,SUM,Suministros,ARGOM,SUMARGIBG3HKCQ,Suministros ARGOM
+Tech BCN Sur,María Vidal,Hugo Vidal,Barcelona,Final,DNI1333204190,FAC000089,22-02-2021,$61.06,1,3%,21%,$71.67,SDC,Lectores de Tarjetas SD,SONY,SDCSONHW5KYFC6,Lectores de Tarjetas SD SONY 256GB
+Tech BCN Centro,Sergio Martín,Santiago Ríos,Barcelona,Final,DNI5425961877,FAC000280,21-03-2019,$346.64,10,10%,21%,$3774.91,CTV,Cámaras de Seguridad,ARGOM,CTVARGHFDI3JST,Cámaras de Seguridad ARGOM profesional
+Tech BCN Centro,Marta Soler,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000188,23-12-2023,$37.90,7,7%,21%,$298.54,HDD,Discos Duros Internos,EPSON,HDDEPSPV2KJH01,Discos Duros Internos EPSON 512GB
+Tech BCN Centro,Marta Soler,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000188,23-12-2023,$130.00,9,15%,21%,$1203.35,MNT,Montajes/Soportes,INTEL,MNTINTQDU2EB0T,Montajes/Soportes INTEL
+Tech BCN Centro,Marta Soler,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000188,23-12-2023,$144.31,10,20%,21%,$1396.92,GAB,Gabinetes,LG,GABLGXU0ESTIE6,Gabinetes LG
+Tech BCN Centro,Marta Soler,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000188,23-12-2023,$487.31,4,3%,21%,$2287.82,MON,Monitores,ASUS,MONASUTDSDJT3B,"Monitores ASUS 24"" 60Hz"
+Tech BCN Centro,Marta Soler,Rubén Santos,Barcelona,Final,DNI7541168043,FAC000188,23-12-2023,$683.89,1,0%,21%,$827.51,SMW,Smartwatches,MAC,SMWMACWCZT0LFJ,Smartwatches MAC
+Tech DCM Barcelona,Luis Pons,Alba Ríos,Barcelona,Ecommerce,DNI5965738560,FAC000216,16-06-2025,$57.17,9,10%,21%,$560.32,SDC,Lectores de Tarjetas SD,ADATA,SDCADADF0WCYR2,Lectores de Tarjetas SD ADATA 8GB
+Tech DCM Barcelona,Jordi Serra,Víctor Vidal,Barcelona,Final,DNI5372780181,FAC000292,18-12-2021,$189.86,8,7%,21%,$1709.20,PSU,Fuentes de Poder,LOGITECH,PSULOGE6X1JD3V,Fuentes de Poder LOGITECH
+Tech DCM Barcelona,Jordi Serra,Víctor Vidal,Barcelona,Final,DNI5372780181,FAC000292,18-12-2021,$972.00,8,0%,21%,$9408.96,PHN,Smartphones,Hp,PHNHPX6CG1S2LQ,Smartphones Hp
+Tech DCM Barcelona,Jordi Serra,Víctor Vidal,Barcelona,Final,DNI5372780181,FAC000292,18-12-2021,$50.24,7,2%,21%,$417.02,PAR,Parlantes,LESMARK,PARLESBX5NWD0J,Parlantes LESMARK alta fidelidad
+Tech BCN Sur,Jordi Serra,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000199,08-01-2021,$124.56,7,5%,21%,$1002.27,HDE,Discos Duros Externos,CDP,HDECDPNBLGU0TB,Discos Duros Externos CDP 64GB
+Tech BCN Sur,Jordi Serra,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000199,08-01-2021,$167.19,3,3%,21%,$588.69,COO,Refrigeración,LESMARK,COOLES4UW2AWW7,Refrigeración LESMARK
+Tech BCN Sur,Jordi Serra,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000199,08-01-2021,$94.03,11,7%,21%,$1163.93,MON,Monitores,AMD,MONAMDJBEO4EUT,"Monitores AMD 34"" 75Hz"
+Tech BCN Sur,Jordi Serra,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000199,08-01-2021,$54.91,2,3%,21%,$128.90,GAM,Accesorios Gaming,GENIUS,GAMGENR7SN1TCJ,Accesorios Gaming GENIUS
+Tech BCN Sur,Jordi Serra,Jordi Sánchez,Barcelona,Distribuidor,DNI0758944342,FAC000199,08-01-2021,$15.92,7,3%,21%,$130.80,LIM,Kits de Limpieza,DELL TECHNOLOGY,LIMDELWKGUY0OF,Kits de Limpieza DELL TECHNOLOGY
+Tech BCN Sur,Ana Beltrán,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000068,03-03-2019,$116.07,1,3%,21%,$136.23,MNT,Montajes/Soportes,BENQ,MNTBENC53K9OM1,Montajes/Soportes BENQ
+Tech BCN Sur,Ana Beltrán,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000068,03-03-2019,$53.19,7,7%,21%,$418.98,GAB,Gabinetes,XEROX,GABXERIYMYK86A,Gabinetes XEROX
+Tech BCN Sur,Ana Beltrán,Paula Navarro,Barcelona,Final,DNI8949023151,FAC000068,03-03-2019,$72.62,9,20%,21%,$632.67,COO,Refrigeración,XEROX,COOXERKKU3S710,Refrigeración XEROX
+Tech BCN Centro,Pau Ríos,Raúl Aguado,Barcelona,Distribuidor,DNI7512170538,FAC000163,20-09-2021,$1384.75,4,10%,21%,$6031.97,NAS,Almacenamiento NAS,LESMARK,NASLES3CYBYC4I,Almacenamiento NAS LESMARK
+Tech BCN Centro,Pau Ríos,Raúl Aguado,Barcelona,Distribuidor,DNI7512170538,FAC000163,20-09-2021,$55.99,9,15%,21%,$518.27,FME,Flash Memory,Hp,FMEHPXJLZOHFDD,Flash Memory Hp 16GB
+Tech DCM Barcelona,Marta Soler,Alicia Torres,Barcelona,Final,DNI1353422023,FAC000185,24-03-2020,$111.27,2,20%,21%,$215.42,PWB,Power Banks,AMAZON,PWBAMAWHHOLI54,Power Banks AMAZON
+Tech DCM Barcelona,Marta Soler,Alicia Torres,Barcelona,Final,DNI1353422023,FAC000185,24-03-2020,$134.08,3,5%,21%,$462.37,PHN,Smartphones,TP-LINK,PHNTPL89D842ZS,Smartphones TP-LINK
+Tech DCM Barcelona,Luis Pons,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000007,28-07-2024,$179.10,12,7%,21%,$2418.49,AUD,Audífonos,TP-LINK,AUDTPLOT4SAYMW,Audífonos TP-LINK alta fidelidad
+Tech DCM Barcelona,Sergio Martín,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000271,13-01-2018,$234.57,10,7%,21%,$2639.62,KVM,KVM Switches,ASROCK,KVMASROVM5CV35,KVM Switches ASROCK
+Tech DCM Barcelona,Sergio Martín,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000271,13-01-2018,$2102.13,3,5%,21%,$7249.20,LAP,Laptops,INTEL,LAPINTKITMAF9H,"Laptops INTEL Ryzen 5, 32GB RAM, SSD 1TB"
+Tech DCM Barcelona,Sergio Martín,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000271,13-01-2018,$56.41,9,12%,21%,$540.59,RED,Equipos de Red,AMAZON,REDAMAIJMCJB00,Equipos de Red AMAZON gigabit
+Tech DCM Barcelona,Sergio Martín,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000271,13-01-2018,$94.31,12,2%,21%,$1341.99,DVR,DVR/NVR Seguridad,AMD,DVRAMD3W2MROP2,DVR/NVR Seguridad AMD profesional
+Tech DCM Barcelona,Sergio Martín,Sofía Pérez,Barcelona,Ecommerce,DNI2896097998,FAC000271,13-01-2018,$64.68,10,2%,21%,$766.98,TEC,Teclados,SONY,TECSONE2ABG9SH,Teclados SONY
+Tech DCM Barcelona,Sergio Martín,Raúl Giménez,Barcelona,Ecommerce,DNI4678855519,FAC000037,23-09-2019,$535.74,7,2%,21%,$4446.96,MON,Monitores,CDP,MONCDP7H81JMBP,"Monitores CDP 29"" 144Hz"
+Tech DCM Barcelona,Sergio Martín,Raúl Giménez,Barcelona,Ecommerce,DNI4678855519,FAC000037,23-09-2019,$105.12,9,0%,21%,$1144.76,RTR,Routers,TP-LINK,RTRTPLU6W93K8E,Routers TP-LINK gigabit
+Tech DCM Barcelona,Sergio Martín,Raúl Giménez,Barcelona,Ecommerce,DNI4678855519,FAC000037,23-09-2019,$201.09,11,10%,21%,$2408.86,SMW,Smartwatches,EPSON,SMWEPS2MI560TO,Smartwatches EPSON
+Tech DCM Barcelona,Sergio Martín,Raúl Giménez,Barcelona,Ecommerce,DNI4678855519,FAC000037,23-09-2019,$220.06,2,7%,21%,$495.27,DCK,Docking Stations,SONY,DCKSONEDNYA3S9,Docking Stations SONY
+Tech BCN Centro,Luis Pons,Laia Pérez,Barcelona,Distribuidor,DNI7406846907,FAC000256,30-01-2023,$119.27,5,20%,21%,$577.27,PWB,Power Banks,XEROX,PWBXERF1ZWW1UN,Power Banks XEROX
+Tech BCN Centro,Luis Pons,Laia Pérez,Barcelona,Distribuidor,DNI7406846907,FAC000256,30-01-2023,$718.17,10,12%,21%,$7647.07,SBR,Barras de Sonido,LESMARK,SBRLES10Y14DSF,Barras de Sonido LESMARK alta fidelidad
+Tech BCN Centro,Luis Pons,Laia Pérez,Barcelona,Distribuidor,DNI7406846907,FAC000256,30-01-2023,$50.97,3,5%,21%,$175.77,NIC,Tarjetas de Red,KIGNSTON,NICKIGILDASLW9,Tarjetas de Red KIGNSTON gigabit
+Tech BCN Centro,Ana Beltrán,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000124,20-04-2021,$26.48,7,0%,21%,$224.29,MNT,Montajes/Soportes,DYNABOOK,MNTDYNOU7OZ9RO,Montajes/Soportes DYNABOOK
+Tech BCN Centro,Ana Beltrán,Víctor Mora,Barcelona,Final,DNI9792171419,FAC000124,20-04-2021,$822.60,11,5%,21%,$10401.37,SBR,Barras de Sonido,EPSON,SBREPSGHU9IVLX,Barras de Sonido EPSON alta fidelidad
+Tech BCN Centro,Carlos Díaz,Mateo Méndez,Barcelona,Distribuidor,DNI0374445130,FAC000058,13-03-2018,$51.69,3,12%,21%,$165.12,ACC,Accesorios,CORSAIR,ACCCOR85EFZVMT,Accesorios CORSAIR
+Tech BCN Centro,Carlos Díaz,Mateo Méndez,Barcelona,Distribuidor,DNI0374445130,FAC000058,13-03-2018,$20.19,4,0%,21%,$97.72,PWB,Power Banks,TP-LINK,PWBTPLMYPJ2NNO,Power Banks TP-LINK
+Tech BCN Centro,Carlos Díaz,Mateo Méndez,Barcelona,Distribuidor,DNI0374445130,FAC000058,13-03-2018,$277.91,2,7%,21%,$625.46,GAM,Accesorios Gaming,GENIUS,GAMGEN3D3513LM,Accesorios Gaming GENIUS
+Tech BCN Centro,Pau Ríos,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000198,21-06-2022,$230.65,1,0%,21%,$279.09,RED,Equipos de Red,ASUS,REDASUV14J643F,Equipos de Red ASUS gigabit
+Tech BCN Centro,Pau Ríos,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000198,21-06-2022,$65.28,11,5%,21%,$825.43,WAP,Access Points Wi‑Fi,Hp,WAPHPXPO5CB41S,Access Points Wi‑Fi Hp gigabit
+Tech BCN Centro,Pau Ríos,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000198,21-06-2022,$235.26,2,10%,21%,$512.40,DCK,Docking Stations,CDP,DCKCDP33A8NCXC,Docking Stations CDP
+Tech BCN Centro,Pau Ríos,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000198,21-06-2022,$350.09,4,7%,21%,$1575.83,IMP,Impresoras,EPSON,IMPEPSOGWHUPOF,Impresoras EPSON profesional
+Tech BCN Centro,Pau Ríos,Irene Vidal,Barcelona,Ecommerce,DNI9838803066,FAC000198,21-06-2022,$194.30,7,3%,21%,$1596.35,RAM,Memoria RAM,ADATA,RAMADA6PVOC750,Memoria RAM ADATA 4TB
+Tech BCN Norte,Luis Pons,Javier Giménez,Barcelona,Final,DNI0923810967,FAC000254,25-03-2024,$635.53,1,12%,21%,$676.71,DVR,DVR/NVR Seguridad,GENIUS,DVRGEN03779U7C,DVR/NVR Seguridad GENIUS profesional
+Tech BCN Norte,María Vidal,Rubén Iglesias,Barcelona,Ecommerce,DNI3876194901,FAC000123,10-03-2020,$14.24,9,2%,21%,$151.97,FME,Flash Memory,EPSON,FMEEPSI78LZGM8,Flash Memory EPSON 1TB
+Tech BCN Norte,María Vidal,Rubén Iglesias,Barcelona,Ecommerce,DNI3876194901,FAC000123,10-03-2020,$18.09,9,10%,21%,$177.30,ACC,Accesorios,ASROCK,ACCASR46FDVAE1,Accesorios ASROCK
+Tech BCN Sur,Nuria Pascual,Sofía Núñez,Barcelona,Distribuidor,DNI1637154832,FAC000028,15-02-2024,$521.44,6,0%,21%,$3785.65,SFT,Software,DELL TECHNOLOGY,SFTDELEHCYKJB8,Software DELL TECHNOLOGY
+Tech BCN Sur,Nuria Pascual,Sofía Núñez,Barcelona,Distribuidor,DNI1637154832,FAC000028,15-02-2024,$252.96,7,15%,21%,$1821.19,RED,Equipos de Red,DELL TECHNOLOGY,REDDELKB3PKBQY,Equipos de Red DELL TECHNOLOGY gigabit
+Tech BCN Sur,Nuria Pascual,Sofía Núñez,Barcelona,Distribuidor,DNI1637154832,FAC000028,15-02-2024,$1012.73,8,20%,21%,$7842.58,VRG,Realidad Virtual/AR,APC,VRGAPC760RS6C4,Realidad Virtual/AR APC
+Tech BCN Sur,Nuria Pascual,Sofía Núñez,Barcelona,Distribuidor,DNI1637154832,FAC000028,15-02-2024,$140.49,8,5%,21%,$1291.95,SUM,Suministros,APC,SUMAPCWJ7PUM32,Suministros APC
+Tech BCN Sur,Nuria Pascual,Sofía Núñez,Barcelona,Distribuidor,DNI1637154832,FAC000028,15-02-2024,$219.00,6,5%,21%,$1510.44,CTV,Cámaras de Seguridad,DYNABOOK,CTVDYN5I3IEST9,Cámaras de Seguridad DYNABOOK profesional
+Tech BCN Sur,Luis Pons,Claudia López,Barcelona,Final,DNI5776049775,FAC000152,12-07-2023,$1365.42,9,3%,21%,$14423.34,VRG,Realidad Virtual/AR,SONY,VRGSONWO7ERC4R,Realidad Virtual/AR SONY
+Tech BCN Sur,Luis Pons,Claudia López,Barcelona,Final,DNI5776049775,FAC000152,12-07-2023,$9.74,7,10%,21%,$74.25,ACC,Accesorios,CORSAIR,ACCCOR1NFXGIMY,Accesorios CORSAIR
+Tech BCN Sur,Luis Pons,Claudia López,Barcelona,Final,DNI5776049775,FAC000152,12-07-2023,$56.54,2,3%,21%,$132.72,ACC,Accesorios,TP-LINK,ACCTPLM97YOFCX,Accesorios TP-LINK
+Tech BCN Sur,Luis Pons,Claudia López,Barcelona,Final,DNI5776049775,FAC000152,12-07-2023,$158.11,5,20%,21%,$765.25,MIC,Micrófonos,KIGNSTON,MICKIGOQVBV1JP,Micrófonos KIGNSTON alta fidelidad
+Tech BCN Sur,Luis Pons,Claudia López,Barcelona,Final,DNI5776049775,FAC000152,12-07-2023,$39.19,12,7%,21%,$529.21,MOU,Mouse,ARGOM,MOUARGE7428YI4,Mouse ARGOM
+Tech BCN Norte,Jordi Serra,Eva Torres,Barcelona,Final,DNI7553621743,FAC000201,06-05-2021,$265.40,1,15%,21%,$272.96,AUD,Audífonos,SONY,AUDSONVTCDMWS8,Audífonos SONY alta fidelidad
+Tech BCN Norte,Jordi Serra,Eva Torres,Barcelona,Final,DNI7553621743,FAC000201,06-05-2021,$1700.86,8,7%,21%,$15311.82,CPU,Computadoras,CORSAIR,CPUCOR7ITQRT8G,"Computadoras CORSAIR i9, 8GB RAM, SSD 1TB"
+Tech BCN Norte,Jordi Serra,Eva Torres,Barcelona,Final,DNI7553621743,FAC000201,06-05-2021,$499.70,12,3%,21%,$7037.97,MON,Monitores,SONY,MONSONW9RTNFW6,"Monitores SONY 24"" 120Hz"
+Tech BCN Norte,Jordi Serra,Eva Torres,Barcelona,Final,DNI7553621743,FAC000201,06-05-2021,$515.15,4,10%,21%,$2243.99,SMW,Smartwatches,KIGNSTON,SMWKIGH9BXLSOG,Smartwatches KIGNSTON
+Tech BCN Norte,Jordi Serra,Eva Torres,Barcelona,Final,DNI7553621743,FAC000201,06-05-2021,$290.60,1,2%,21%,$344.59,IMP,Impresoras,SAMSUNG,IMPSAMJB6M9NWY,Impresoras SAMSUNG profesional
+Tech BCN Norte,Carlos Díaz,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000097,22-12-2019,$78.40,11,3%,21%,$1012.20,CAB,Cables y Adaptadores,BENQ,CABBENJ7OVHM3K,Cables y Adaptadores BENQ
+Tech BCN Norte,Carlos Díaz,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000097,22-12-2019,$213.23,2,10%,21%,$464.41,KVM,KVM Switches,INTEL,KVMINT0423H7T6,KVM Switches INTEL
+Tech BCN Norte,Carlos Díaz,Aitana Soler,Barcelona,Final,DNI4036414160,FAC000097,22-12-2019,$238.18,7,3%,21%,$1956.86,GAB,Gabinetes,ARGOM,GABARGJY6G107G,Gabinetes ARGOM
+Tech BCN Centro,Sergio Martín,Elena Martí,Barcelona,Ecommerce,DNI4577382571,FAC000261,10-08-2024,$21.62,1,15%,21%,$22.24,LIM,Kits de Limpieza,ASUS,LIMASUMVYD47DZ,Kits de Limpieza ASUS
+Tech BCN Centro,Sergio Martín,Elena Martí,Barcelona,Ecommerce,DNI4577382571,FAC000261,10-08-2024,$210.40,4,7%,21%,$947.05,SMW,Smartwatches,BENQ,SMWBEN88UALRY3,Smartwatches BENQ
+Tech DCM Barcelona,Carlos Díaz,Raúl Prieto,Barcelona,Final,DNI6693294493,FAC000311,21-06-2024,$60.99,7,7%,21%,$480.42,TEC,Teclados,GENIUS,TECGENVFH3MI2D,Teclados GENIUS
+Tech BCN Norte,Pau Ríos,Andrés Cruz,Barcelona,Final,DNI1302245398,FAC000266,02-02-2023,$37.88,7,15%,21%,$272.72,MIC,Micrófonos,CDP,MICCDPHHGWHP08,Micrófonos CDP alta fidelidad
+Tech BCN Norte,Luis Pons,Jordi López,Barcelona,Final,DNI6420813238,FAC000106,07-03-2018,$159.69,2,20%,21%,$309.16,RAM,Memoria RAM,MAC,RAMMACZXD82BMQ,Memoria RAM MAC 1TB
+Tech BCN Norte,Luis Pons,Jordi López,Barcelona,Final,DNI6420813238,FAC000106,07-03-2018,$232.43,7,3%,21%,$1909.62,GAM,Accesorios Gaming,AMD,GAMAMDV41AMISU,Accesorios Gaming AMD
+Tech BCN Norte,Luis Pons,Jordi López,Barcelona,Final,DNI6420813238,FAC000106,07-03-2018,$1545.44,9,15%,21%,$14305.37,GPU,Tarjetas de Video,CDP,GPUCDPU61O85VO,Tarjetas de Video CDP 12GB GDDR6
+Tech BCN Norte,Luis Pons,Jordi López,Barcelona,Final,DNI6420813238,FAC000106,07-03-2018,$71.97,6,10%,21%,$470.25,WBC,Cámaras Web,ARGOM,WBCARGEZS96KW0,Cámaras Web ARGOM
+Tech BCN Norte,Luis Pons,Jordi López,Barcelona,Final,DNI6420813238,FAC000106,07-03-2018,$27.11,1,0%,21%,$32.80,KIT,Kits/Combos Periféricos,LESMARK,KITLESKSKWECY9,Kits/Combos Periféricos LESMARK
+Tech BCN Centro,Pau Ríos,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000155,06-03-2022,$54.43,4,0%,21%,$263.44,PWB,Power Banks,LG,PWBLGX5CIX39EL,Power Banks LG
+Tech BCN Centro,Pau Ríos,Javier Cruz,Barcelona,Ecommerce,DNI1319995413,FAC000155,06-03-2022,$137.16,10,12%,21%,$1460.48,MIC,Micrófonos,CDP,MICCDPRSWP0YKK,Micrófonos CDP alta fidelidad
+Tech BCN Sur,Jordi Serra,Víctor Martí,Barcelona,Distribuidor,DNI1662644271,FAC000014,09-08-2023,$295.74,12,3%,21%,$4165.32,RTR,Routers,EPSON,RTREPS62ZKO0E4,Routers EPSON gigabit
+Tech BCN Sur,Jordi Serra,Víctor Martí,Barcelona,Distribuidor,DNI1662644271,FAC000014,09-08-2023,$26.90,2,3%,21%,$63.15,CAB,Cables y Adaptadores,CANON,CABCANH8S2GT30,Cables y Adaptadores CANON
+Tech BCN Centro,Luis Pons,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000146,11-01-2025,$146.95,9,3%,21%,$1552.28,DCK,Docking Stations,AMAZON,DCKAMAC05SORHT,Docking Stations AMAZON
+Tech BCN Centro,Luis Pons,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000146,11-01-2025,$146.26,9,7%,21%,$1481.28,MNT,Montajes/Soportes,GENIUS,MNTGENOZXGGMQJ,Montajes/Soportes GENIUS
+Tech BCN Centro,Luis Pons,Arturo Cruz,Barcelona,Distribuidor,DNI0747664702,FAC000146,11-01-2025,$609.86,11,20%,21%,$6493.79,TBL,Tablets,MAC,TBLMACN57LWS1Y,Tablets MAC
+Tech DCM Barcelona,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000312,06-08-2018,$185.90,11,3%,21%,$2400.10,SUM,Suministros,SAMSUNG,SUMSAMPEQCYH20,Suministros SAMSUNG
+Tech DCM Barcelona,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000312,06-08-2018,$38.75,6,2%,21%,$275.70,MOU,Mouse,CDP,MOUCDPGF86HOGD,Mouse CDP
+Tech DCM Barcelona,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000312,06-08-2018,$180.49,4,10%,21%,$786.21,NIC,Tarjetas de Red,CANON,NICCANITIFXZIU,Tarjetas de Red CANON gigabit
+Tech DCM Barcelona,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000312,06-08-2018,$81.67,1,10%,21%,$88.94,GAM,Accesorios Gaming,CANON,GAMCANJE0Q0RFO,Accesorios Gaming CANON
+Tech DCM Barcelona,Sergio Martín,Nora Ortega,Barcelona,Final,DNI0043209859,FAC000312,06-08-2018,$353.66,1,3%,21%,$415.09,MBD,Motherboards,BENQ,MBDBENU8RZE6V4,Motherboards BENQ
