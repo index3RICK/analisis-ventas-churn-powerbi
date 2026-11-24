@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Retencion_%_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Tasa de retención del año anterior.
+// ---------------------------------------------------------------------
+
+Retencion_%_PY =
+1 - [Churn_%_PY]
