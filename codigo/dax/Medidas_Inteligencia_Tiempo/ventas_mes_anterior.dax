@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : ventas_mes_anterior
+// Tabla  : Medidas_Inteligencia_Tiempo
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Ventas del mes anterior (desplaza el contexto un mes atrás con DATEADD).
+// Nota   : Requiere una tabla de fechas continua y marcada como tabla de fechas.
+// ---------------------------------------------------------------------
+
+ventas_mes_anterior =
+CALCULATE(
+    [ventas_totales],
+    DATEADD(DIM_Calendario[Fecha], -1, MONTH)       // desplaza el contexto un mes atrás
+)
