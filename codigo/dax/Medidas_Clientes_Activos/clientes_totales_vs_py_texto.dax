@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Totales_Vs_PY_texto
+// Tabla  : Medidas_Clientes_Activos
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Texto con flecha para la tarjeta de clientes ("🔺 7.5 % vs PY").
+// ---------------------------------------------------------------------
+
+Clientes_Totales_Vs_PY_texto =
+VAR a      = [Clientes_Totales_Vs_PY_%]
+VAR flecha = IF(a >= 0, "🔺", "🔻")
+RETURN
+flecha & " " & FORMAT(ABS(a), "0.0%") & " vs PY"
