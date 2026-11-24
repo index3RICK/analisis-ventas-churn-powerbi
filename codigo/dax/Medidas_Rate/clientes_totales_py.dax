@@ -1,0 +1,15 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_totales_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes que ya habían comprado al corte del año anterior.
+// Nota   : Primera versión: usaba ultima_compra_cliente (sin fecha) y dejaba fuera a quien volvió a comprar después del corte.
+// ---------------------------------------------------------------------
+
+Clientes_totales_PY =
+COUNTROWS(
+    FILTER(
+        VALUES(DIM_Clientes[Cliente]),
+        NOT ISBLANK([ultima_compra_a_fecha_PY])      // ya había comprado al corte del año anterior
+    )
+)
