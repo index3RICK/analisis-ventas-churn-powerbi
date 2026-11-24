@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : crecimiento_yoy
+// Tabla  : Medidas_Inteligencia_Tiempo
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Variación porcentual contra el mismo periodo del año anterior. Es el "(%) Creci / Decre".
+// ---------------------------------------------------------------------
+
+crecimiento_yoy =
+DIVIDE([ventas_totales] - [ventas_totales_ly], [ventas_totales_ly])
