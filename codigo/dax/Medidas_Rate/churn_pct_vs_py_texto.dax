@@ -1,0 +1,19 @@
+// ---------------------------------------------------------------------
+// Medida : Churn_%_vs_PY_(texto)
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Texto con flecha para la tarjeta de churn, en PUNTOS PORCENTUALES.
+// Nota   : Corrige un error inicial: la flecha usaba el valor del año anterior (siempre >= 0, siempre 🔺). La variación es actual - PY, y se muestra en pp (de 92.5 % a 89.0 % son -3.5 pp, no -3.8 %). Color: para churn bajar es bueno (verde), conviene configurarlo en formato condicional.
+// ---------------------------------------------------------------------
+
+Churn_%_vs_PY_(texto) =
+VAR actual = [churn_%]
+VAR previo = [Churn_%_PY]
+RETURN
+IF(
+    ISBLANK(actual) || ISBLANK(previo),
+    BLANK(),                                                    // sin datos de uno de los periodos
+    VAR delta  = actual - previo
+    VAR flecha = IF(delta >= 0, "🔺", "🔻")
+    RETURN flecha & " " & FORMAT(ABS(delta) * 100, "0.0") & " pp vs PY"
+)
