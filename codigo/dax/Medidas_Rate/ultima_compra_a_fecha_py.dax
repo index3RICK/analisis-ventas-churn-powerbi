@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------
+// Medida : ultima_compra_a_fecha_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Última compra del cliente HASTA el corte del año anterior (lo que se sabía ese día).
+// Nota   : Corrige el sesgo de mirar compras posteriores al corte PY.
+// ---------------------------------------------------------------------
+
+ultima_compra_a_fecha_PY =
+VAR f_ref = [Fecha_Ref_PY]
+RETURN
+CALCULATE(
+    MAX(Analisis_Ventas[Fecha]),
+    ALL(DIM_Calendario),                             // quita el filtro de fecha del visual...
+    DIM_Calendario[Fecha] <= f_ref,                  // ...y pone el corte del año anterior
+    ALLEXCEPT(DIM_Clientes, DIM_Clientes[Cliente])   // conserva solo al cliente de la fila
+)
