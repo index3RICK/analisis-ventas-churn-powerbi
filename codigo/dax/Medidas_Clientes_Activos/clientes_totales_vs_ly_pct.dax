@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Totales_Vs_PY_%
+// Tabla  : Medidas_Clientes_Activos
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Variación relativa de clientes totales contra el año anterior (+7.5 % en el panel).
+// ---------------------------------------------------------------------
+
+Clientes_Totales_Vs_PY_% =
+DIVIDE([clientes_totales] - [Clientes_totales_PY], [Clientes_totales_PY])
