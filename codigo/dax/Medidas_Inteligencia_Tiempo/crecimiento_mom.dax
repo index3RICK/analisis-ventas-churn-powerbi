@@ -1,0 +1,10 @@
+// ---------------------------------------------------------------------
+// Medida : crecimiento_mom
+// Tabla  : Medidas_Inteligencia_Tiempo
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Variación porcentual contra el mes anterior.
+// Nota   : Sin tercer argumento en DIVIDE: si no hay base de comparación muestra vacío, no 0 %.
+// ---------------------------------------------------------------------
+
+crecimiento_mom =
+DIVIDE([ventas_totales] - [ventas_mes_anterior], [ventas_mes_anterior])   // sin 3er argumento: sin base devuelve BLANK, no 0
