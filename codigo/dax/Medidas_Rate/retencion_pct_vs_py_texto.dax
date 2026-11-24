@@ -1,0 +1,19 @@
+// ---------------------------------------------------------------------
+// Medida : Retencion_%_vs_PY_texto
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Texto con flecha para la tarjeta de retención, en puntos porcentuales.
+// Nota   : Misma corrección que el churn.
+// ---------------------------------------------------------------------
+
+Retencion_%_vs_PY_texto =
+VAR actual = [Retencion_%]
+VAR previo = [Retencion_%_PY]
+RETURN
+IF(
+    ISBLANK(actual) || ISBLANK(previo),
+    BLANK(),
+    VAR delta  = actual - previo
+    VAR flecha = IF(delta >= 0, "🔺", "🔻")
+    RETURN flecha & " " & FORMAT(ABS(delta) * 100, "0.0") & " pp vs PY"
+)
