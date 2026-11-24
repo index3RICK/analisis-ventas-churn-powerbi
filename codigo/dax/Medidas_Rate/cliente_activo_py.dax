@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Activo_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes activos al corte del año anterior = totales PY - churn PY.
+// ---------------------------------------------------------------------
+
+Clientes_Activo_PY =
+[Clientes_totales_PY] - [Clientes_con_Churn_PY]
