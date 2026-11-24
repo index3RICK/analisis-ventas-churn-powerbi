@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Activos_vs_LY_%
+// Tabla  : Medidas_Clientes_Activos
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Variación relativa de clientes activos contra el año anterior.
+// ---------------------------------------------------------------------
+
+Clientes_Activos_vs_LY_% =
+DIVIDE([clientes_activos] - [Clientes_Activos_LY], [Clientes_Activos_LY])
