@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Fecha_Ref_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Fecha de corte del año anterior: la misma fecha, 12 meses atrás (EDATE).
+// ---------------------------------------------------------------------
+
+Fecha_Ref_PY =
+EDATE([Fecha_Ref], -12)
