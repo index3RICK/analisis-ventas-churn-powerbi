@@ -1,0 +1,18 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_con_Churn_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes en churn al corte del año anterior.
+// ---------------------------------------------------------------------
+
+Clientes_con_Churn_PY =
+VAR f_ref  = [Fecha_Ref_PY]
+VAR umbral = [churn_umbral_dias_value]
+RETURN
+COUNTROWS(
+    FILTER(
+        VALUES(DIM_Clientes[Cliente]),
+        VAR ult = [ultima_compra_a_fecha_PY]
+        RETURN NOT ISBLANK(ult) && DATEDIFF(ult, f_ref, DAY) >= umbral
+    )
+)
