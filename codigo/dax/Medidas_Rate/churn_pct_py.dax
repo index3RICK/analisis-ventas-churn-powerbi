@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Churn_%_PY
+// Tabla  : Medidas_Rate
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Tasa de churn del año anterior. Con el panel final (umbral 120, corte 05/09/2025): 92.50 % (160 clientes en el universo PY).
+// ---------------------------------------------------------------------
+
+Churn_%_PY =
+DIVIDE([Clientes_con_Churn_PY], [Clientes_totales_PY])
