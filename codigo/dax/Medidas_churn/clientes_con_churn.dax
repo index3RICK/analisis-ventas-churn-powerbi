@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : clientes_con_churn
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Suma de los churn_flag = clientes en abandono.
+// ---------------------------------------------------------------------
+
+clientes_con_churn =
+SUMX(
+    VALUES(DIM_Clientes[Cliente]),
+    [churn_flag]
+)
