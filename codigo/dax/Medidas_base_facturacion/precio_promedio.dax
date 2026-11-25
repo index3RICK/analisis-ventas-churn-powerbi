@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : precio_promedio
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Precio medio por unidad (bruto): importe_bruto / unidades.
+// ---------------------------------------------------------------------
+
+precio_promedio =
+DIVIDE([importe_bruto], [unidades_vendidas], 0)
