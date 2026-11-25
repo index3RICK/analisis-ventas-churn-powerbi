@@ -1,0 +1,25 @@
+// ---------------------------------------------------------------------
+// Medida : Segmento_Reactivacion
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clasifica a cada cliente: Activo, Valor reciente + Fácil, Valor reciente, Dormido reciente, Dormido crónico (+24M).
+// Nota   : Con umbral 120 y fecha 05/09/2025: 19 / 5 / 24 / 27 / 97 = 172. Los textos deben ser IDÉNTICOS a los de la tabla Cliente_Segmento (parámetros/Cliente_Segmento.dax).
+// ---------------------------------------------------------------------
+
+Segmento_Reactivacion =
+IF(
+    NOT HASONEVALUE(DIM_Clientes[Cliente]), BLANK(),            // en la fila de total no muestra segmento
+    VAR ischurn = [churn_flag] = 1
+    VAR gap     = [Gap_vs_umbral_(dias)]
+    VAR m12     = [Monetary_12m]
+    VAR rec     = [Recency_(dias)]
+    RETURN
+    SWITCH(
+        TRUE(),
+        NOT ischurn,                       "Activo",
+        m12 > 0 && gap <= 30,              "Valor reciente + Fácil",   // cruzó el umbral hace <= 30 días y compró en 12 meses
+        m12 > 0,                           "Valor reciente",           // compró en los últimos 12 meses
+        rec < 730,                         "Dormido reciente",         // entre 12 y 24 meses sin comprar
+        "Dormido crónico (+24M)"                                       // más de 24 meses
+    )
+)
