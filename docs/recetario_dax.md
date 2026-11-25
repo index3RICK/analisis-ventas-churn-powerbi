@@ -1,4 +1,4 @@
-# Recetario DAX — mis patrones de referencia
+# Recetario DAX — mis patrones de referencia (guía solo para mí)
 
 Colección de patrones para consultar cuando necesites resolver algo rápido. Cada receta dice **cuándo usarla**, **el código** y **la trampa más común**.
 
