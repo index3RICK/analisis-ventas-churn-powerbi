@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : churn_umbral_dias_value
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Umbral elegido en el control "Umbral" (días sin comprar = abandono).
+// Nota   : Valor por defecto: 90 días si no hay una selección única.
+// ---------------------------------------------------------------------
+
+churn_umbral_dias_value =
+SELECTEDVALUE(
+    Churn_Umbral[Churn_Umbral],
+    90      // valor alterno
+)
