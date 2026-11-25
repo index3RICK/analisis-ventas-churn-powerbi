@@ -1,0 +1,14 @@
+// ---------------------------------------------------------------------
+// Medida : ranking_venta_clientes
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Posición de cada cliente por ventas (1 = el que más compra).
+// ---------------------------------------------------------------------
+
+ranking_venta_clientes =
+RANKX(
+    ALLSELECTED(Analisis_Ventas[Cliente]),   // se rankea entre los clientes visibles
+    [ventas_totales],
+    ,                                        // sin expresión de valor alterno
+    DESC                                     // mayor venta = ranking 1
+)
