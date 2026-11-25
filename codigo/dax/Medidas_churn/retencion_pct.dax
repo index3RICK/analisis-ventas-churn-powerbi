@@ -1,0 +1,11 @@
+// ---------------------------------------------------------------------
+// Medida : Retencion_%
+// Tabla  : Medidas_churn
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: 1 - churn_%. Devuelve BLANK si no hay clientes.
+// ---------------------------------------------------------------------
+
+Retencion_% =
+VAR ch = [churn_%]
+RETURN
+IF(ISBLANK(ch), BLANK(), 1 - ch)        // si no hay clientes, no muestra 100 %
