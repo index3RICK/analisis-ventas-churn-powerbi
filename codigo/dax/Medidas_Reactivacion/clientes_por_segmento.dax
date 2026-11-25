@@ -1,0 +1,16 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_por_segmento
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Cuántos clientes hay en cada segmento (la fila de total suma 172).
+// ---------------------------------------------------------------------
+
+Clientes_por_segmento =
+VAR seg = SELECTEDVALUE(Cliente_Segmento[Segmento])
+RETURN
+COUNTROWS(
+    FILTER(
+        ALLSELECTED(DIM_Clientes[Cliente]),
+        ISBLANK(seg) || [Segmento_Reactivacion] = seg     // sin segmento elegido (total) cuenta a todos
+    )
+)
