@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Valor_Recuperable_Potencial
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Ingreso recuperable x margen ($12,05 mil al 20 %). Es el tope de lo que conviene invertir.
+// ---------------------------------------------------------------------
+
+Valor_Recuperable_Potencial =
+[Ingreso_Recuperable_12M] * SELECTEDVALUE('Margen_%'[Margen_%], 0.20)          // 0.20 = valor inicial del control
