@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : importe_bruto
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1, 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Lo que se habría cobrado sin descuentos: Precio x Cantidad, calculado fila por fila y luego sumado.
+// Nota   : Se usa SUMX y no SUM porque SUM(Precio) * SUM(Cantidad) daría un número incorrecto.
+// ---------------------------------------------------------------------
+
+importe_bruto =
+SUMX(
+    Analisis_Ventas,
+    Analisis_Ventas[Precio] * Analisis_Ventas[Cantidad]
+)
