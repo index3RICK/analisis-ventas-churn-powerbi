@@ -1,0 +1,20 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_convertidos_Esperados
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes que se espera recuperar = clientes objetivo (churn con compras en 12 meses) x conversión: 29 x 30 % = 8.7.
+// Nota   : Primera versión: contaba a TODOS los clientes en churn (153 x 30 % = 46), aunque su valor en 12 meses fuera cero; numerador y denominador no coincidían.
+// ---------------------------------------------------------------------
+
+Clientes_convertidos_Esperados =
+VAR conv = SELECTEDVALUE(Tasa_conversion[Tasa_conversion], 0.30)
+VAR clientes_objetivo =
+    COUNTROWS(
+        FILTER(
+            VALUES(DIM_Clientes[Cliente]),
+            [churn_flag] = 1 && [Monetary_12m] > 0    // MISMA población que Base_en_riesgo_12M
+            // Opcional: && [Filtro_Segmento_Reactivacion] = 1
+        )
+    )
+RETURN
+clientes_objetivo * conv
