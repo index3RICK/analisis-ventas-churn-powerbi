@@ -1,0 +1,21 @@
+// =====================================================================
+// TABLA DE PARÁMETROS: Churn_Umbral  (+ medida Valor de Churn_Umbral)
+// Paneles : 3 y 4 (control "Umbral")
+// ---------------------------------------------------------------------
+// Qué hace: permite que quien lee el reporte elija cuántos días sin comprar
+//           significan "abandono". En el panel final se usa 120.
+//
+// Cómo funciona
+//   1. La tabla genera 15, 30, 45, ..., 180 (un valor por fila).
+//   2. Se pone [Churn_Umbral] en un control de selección única.
+//   3. Las medidas leen el valor elegido con SELECTEDVALUE.
+//   4. NO se relaciona con ninguna otra tabla (es una tabla "desconectada").
+//
+// Ojo: si no hay UNA sola selección, SELECTEDVALUE devuelve el valor
+// alterno. Usa el MISMO alterno (90) aquí y en [churn_umbral_dias_value].
+// =====================================================================
+
+Churn_Umbral = GENERATESERIES(15, 180, 15)
+
+Valor de Churn_Umbral =
+SELECTEDVALUE('Churn_Umbral'[Churn_Umbral], 90)
