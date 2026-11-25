@@ -1,0 +1,22 @@
+// ---------------------------------------------------------------------
+// Medida : Ranking_Reactivacion_(rapido)
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Prioridad por cercanía: 1 = el cliente que cruzó el umbral más recientemente.
+// ---------------------------------------------------------------------
+
+Ranking_Reactivacion_(rapido) =
+VAR v = [Gap_vs_umbral_(dias)]
+VAR t =
+    FILTER(
+        ADDCOLUMNS(
+            ALLSELECTED(DIM_Clientes[Cliente]),                 // la MISMA columna que se muestra en la tabla
+            "__gap", CALCULATE([Gap_vs_umbral_(dias)])
+        ),
+        NOT ISBLANK([__gap])                                    // solo clientes en churn
+    )
+RETURN
+IF(
+    HASONEVALUE(DIM_Clientes[Cliente]) && NOT ISBLANK(v),
+    RANKX(t, [__gap], v, ASC, Dense)                            // gap menor = 1 = el que cruzó el umbral más recientemente
+)
