@@ -1,0 +1,18 @@
+// ---------------------------------------------------------------------
+// Medida : Filtro_Segmento_Reactivacion
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Devuelve 1 si el cliente pertenece al segmento elegido en el segmentador (0 si no). Se pone en "Filtros de este visual" con valor 1.
+// Nota   : Si el texto de la tabla del segmentador no es idéntico al de Segmento_Reactivacion, el segmento aparece vacío.
+// ---------------------------------------------------------------------
+
+Filtro_Segmento_Reactivacion =
+VAR segSel = VALUES(Cliente_Segmento[Segmento])
+VAR miseg  = [Segmento_Reactivacion]
+RETURN
+IF(
+    NOT ISFILTERED(Cliente_Segmento[Segmento])      // sin selección: se muestran todos
+    || CONTAINSROW(segSel, miseg),                  // con selección: solo los que coinciden (el texto debe ser IDÉNTICO)
+    1,
+    0
+)
