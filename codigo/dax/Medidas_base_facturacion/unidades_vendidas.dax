@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : unidades_vendidas
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Número de piezas vendidas.
+// ---------------------------------------------------------------------
+
+unidades_vendidas =
+SUM(Analisis_Ventas[Cantidad])
