@@ -1,0 +1,14 @@
+// ---------------------------------------------------------------------
+// Medida : ultima_compra_cliente
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Fecha de la última compra de cada cliente, ignorando el filtro de fecha.
+// Nota   : Limitación: toma la última compra de TODO el histórico; por eso para el año anterior se usa ultima_compra_a_fecha_PY.
+// ---------------------------------------------------------------------
+
+ultima_compra_cliente =
+CALCULATE(
+    MAX(Analisis_Ventas[Fecha]),
+    ALL(DIM_Calendario),                             // ignora el filtro de fecha
+    ALLEXCEPT(DIM_Clientes, DIM_Clientes[Cliente])   // quita filtros de otras columnas del cliente, conserva al cliente
+)
