@@ -1,0 +1,15 @@
+// ---------------------------------------------------------------------
+// Medida : Recency_(dias)
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: R de RFM: días desde la última compra hasta Fecha_Ref.
+// ---------------------------------------------------------------------
+
+Recency_(dias) =
+VAR f_ult = [ultima_compra_cliente]
+VAR f_ref = [Fecha_Ref]
+RETURN
+IF(
+    NOT ISBLANK(f_ult) && f_ult <= f_ref,
+    DATEDIFF(f_ult, f_ref, DAY)
+)
