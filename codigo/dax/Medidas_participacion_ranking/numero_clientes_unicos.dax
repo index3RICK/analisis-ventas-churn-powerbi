@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : numero_clientes_unicos
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 1, 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes distintos (DISTINCTCOUNT).
+// ---------------------------------------------------------------------
+
+numero_clientes_unicos =
+DISTINCTCOUNT(Analisis_Ventas[Cliente])
