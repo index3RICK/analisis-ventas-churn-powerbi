@@ -1,0 +1,10 @@
+// ---------------------------------------------------------------------
+// Medida : ventas_netas
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1, 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Venta después de descuentos y antes de IVA.
+// Nota   : Es la base correcta para calcular márgenes.
+// ---------------------------------------------------------------------
+
+ventas_netas =
+[importe_bruto] - [descuento_usd]
