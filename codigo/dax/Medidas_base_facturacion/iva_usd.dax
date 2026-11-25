@@ -1,0 +1,18 @@
+// ---------------------------------------------------------------------
+// Medida : iva_usd
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1, 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: IVA cobrado: se aplica sobre el valor ya descontado de cada fila.
+// Nota   : En el modelo la columna Iva vale 0.15 (IVA de Ecuador); el archivo original traía 0.21 (España). El cambio se hace en Power Query (codigo/powerquery).
+// ---------------------------------------------------------------------
+
+iva_usd =
+SUMX(
+    Analisis_Ventas,
+    VAR ImporteBruto = Analisis_Ventas[Precio] * Analisis_Ventas[Cantidad]
+    VAR Descuento    = Analisis_Ventas[Descuento]
+    VAR TasaIva      = Analisis_Ventas[Iva]
+    VAR ValorNeto    = ImporteBruto * (1 - Descuento)
+    RETURN
+        ValorNeto * TasaIva        // el IVA se cobra sobre el valor ya descontado
+)
