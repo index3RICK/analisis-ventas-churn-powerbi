@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------
+// Medida : clientes_totales
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes que han comprado alguna vez hasta la fecha de referencia.
+// ---------------------------------------------------------------------
+
+clientes_totales =
+VAR f_ref = [Fecha_Ref]
+RETURN
+COUNTROWS(
+    FILTER(
+        VALUES(DIM_Clientes[Cliente]),
+        NOT ISBLANK([ultima_compra_cliente]) &&
+        [ultima_compra_cliente] <= f_ref
+    )
+)
