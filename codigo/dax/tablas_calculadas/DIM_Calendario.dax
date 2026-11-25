@@ -1,0 +1,48 @@
+// =====================================================================
+// TABLA CALCULADA: DIM_Calendario
+// ---------------------------------------------------------------------
+// Propósito : tabla de fechas continua (un renglón por día) para usar
+//             inteligencia de tiempo (YTD, año anterior, mes anterior...).
+// Depende de: Analisis_Ventas[Fecha]
+//
+// DECISIONES DE DISEÑO
+//   * StartDate = 1-ene del año ANTERIOR a la primera venta.
+//     -> deja un "colchón" a la izquierda para que las gráficas de línea
+//        no arranquen pegadas al borde.
+//   * EndDate   = 31-dic del último año con ventas (sin TODAY()).
+//     -> ANTES era MIN(31-dic del año siguiente, TODAY()). Eso alargaba el
+//        calendario hasta "hoy" y las medidas de serie mostraban un churn
+//        falso en los meses sin ventas (ver docs/05_lecciones_aprendidas.md).
+//     -> Un colchón a la derecha exigiría proteger las medidas de serie con
+//        BLANK() después de la última venta (ver codigo/dax/Medidas_Serie/).
+//
+// CONFIGURACIÓN EN EL MODELO
+//   * La columna [Date] se renombra a [Fecha]; las medidas usan
+//     DIM_Calendario[Fecha].
+//   * La tabla está marcada como "tabla de fechas" con la columna [Fecha].
+//   * Relación: DIM_Calendario[Fecha] 1 -> * Analisis_Ventas[Fecha].
+// =====================================================================
+
+DIM_Calendario =
+VAR MinDate   = CALCULATE(MIN(Analisis_Ventas[Fecha]), REMOVEFILTERS(Analisis_Ventas))
+VAR MaxDate   = CALCULATE(MAX(Analisis_Ventas[Fecha]), REMOVEFILTERS(Analisis_Ventas))
+VAR StartDate = DATE(YEAR(MinDate) - 1, 1, 1)
+VAR EndDate   = DATE(YEAR(MaxDate), 12, 31)        // sin TODAY(): el calendario no depende de "hoy"
+RETURN
+ADDCOLUMNS(
+    CALENDAR(StartDate, EndDate),
+    "Año",             YEAR([Date]),
+    "Mes",             MONTH([Date]),
+    "Dia",             DAY([Date]),
+    "Mes Nombre",      FORMAT([Date], "MMMM"),
+    "Mes Corto",       FORMAT([Date], "MMM"),
+    "Año-Mes",         FORMAT([Date], "YYYY-MM"),
+    "Trimestre",       "T" & FORMAT([Date], "Q"),
+    "Semana Num",      WEEKNUM([Date], 21),                    // 21 = semana ISO 8601
+    "Semana",          "Semana " & WEEKNUM([Date], 21),
+    "Es fin de Semana", IF(WEEKDAY([Date], 2) >= 6, 1, 0),     // 2 = lunes(1)...domingo(7)
+    "Hoy",             IF([Date] = TODAY(), 1, 0)              // solo para resaltar; no afecta cálculos
+)
+
+// NOTA: "Mes Nombre" ordena alfabéticamente; se ordena por la columna [Mes]
+// para que salga enero, febrero, marzo...
