@@ -1,0 +1,19 @@
+// ---------------------------------------------------------------------
+// Medida : Churn_%_(serie)
+// Tabla  : Medidas_Serie
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Churn punto por punto en la gráfica. Devuelve vacío en los periodos posteriores a la última venta.
+// Nota   : Usa MIN y no MAX a propósito: con eje mensual, el mes de la última venta (sep-2025) termina el 30-sep, posterior al 5-sep; con MAX ese mes real también quedaría en blanco.
+// ---------------------------------------------------------------------
+
+Churn_%_(serie) =
+VAR ult_venta = CALCULATE(MAX(Analisis_Ventas[Fecha]), ALL(Analisis_Ventas))
+RETURN
+IF(
+    MIN(DIM_Calendario[Fecha]) > ult_venta,      // el periodo ENTERO es posterior a la última venta
+    BLANK(),                                     // no se dibuja
+    // Se usa MIN y no MAX a propósito: con eje mensual, el mes de la última
+    // venta (sep-2025) termina el 30-sep, que es > 5-sep. Con MAX ese mes
+    // real también quedaría en blanco.
+    DIVIDE([Clientes_Inactivos_(serie)], [Clientes_Totales_(serie)])
+)
