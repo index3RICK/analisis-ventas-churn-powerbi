@@ -1,0 +1,18 @@
+// ---------------------------------------------------------------------
+// Medida : acum_ventas_cliente
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Venta acumulada de los clientes hasta la posición actual (base del Pareto).
+// Nota   : Rendimiento: complejidad cuadrática. Con 172 clientes es instantáneo.
+// ---------------------------------------------------------------------
+
+acum_ventas_cliente =
+VAR r = [ranking_venta_clientes]
+RETURN
+SUMX(
+    FILTER(
+        ALLSELECTED(Analisis_Ventas[Cliente]),
+        [ranking_venta_clientes] <= r
+    ),
+    [ventas_totales]
+)
