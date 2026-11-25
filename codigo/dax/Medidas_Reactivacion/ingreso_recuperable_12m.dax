@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : Ingreso_Recuperable_12M
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Base en riesgo x tasa de conversión. Es un SUPUESTO ajustable ($60,24 mil al 30 %).
+// ---------------------------------------------------------------------
+
+Ingreso_Recuperable_12M =
+[Base_en_riesgo_12M] * SELECTEDVALUE(Tasa_conversion[Tasa_conversion], 0.30)   // 0.30 = valor inicial del control
