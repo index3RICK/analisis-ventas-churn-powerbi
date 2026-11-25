@@ -1,0 +1,25 @@
+// =====================================================================
+// TABLA DE SEGMENTOS: Cliente_Segmento
+// Panel   : 4 (menú "Segmento")
+// ---------------------------------------------------------------------
+// Qué hace: lista los segmentos para el segmentador. Es una tabla
+//           DESCONECTADA: no filtra nada por sí sola; el filtro lo hace
+//           la medida Filtro_Segmento_Reactivacion (valor 1 en el visual).
+//
+// Los textos deben ser IDÉNTICOS a los que devuelve la medida
+//   Segmento_Reactivacion (mayúsculas, tildes, espacios y paréntesis).
+//   Si no, ese segmento aparece vacío al seleccionarlo. Es el error que
+//   tuve con "Dormido crónico (+12M)" frente a "(+24M)".
+// =====================================================================
+
+Cliente_Segmento =
+DATATABLE(
+    "Segmento", STRING,
+    {
+        { "Activo" },
+        { "Valor reciente + Fácil" },
+        { "Valor reciente" },
+        { "Dormido reciente" },
+        { "Dormido crónico (+24M)" }
+    }
+)
