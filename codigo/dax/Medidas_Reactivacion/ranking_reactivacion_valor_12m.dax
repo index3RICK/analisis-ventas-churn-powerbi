@@ -1,0 +1,26 @@
+// ---------------------------------------------------------------------
+// Medida : Ranking_Reactivacion_(valor 12m)
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Prioridad por valor: 1 = el cliente en churn que más compró en los últimos 12 meses.
+// Nota   : la primera versión rankeaba sobre Analisis_Ventas[Cliente] mientras la tabla mostraba DIM_Clientes[Cliente]; el filtro del renglón dejaba a cada cliente solo en su propia lista y todos salían con ranking 1.
+// ---------------------------------------------------------------------
+
+Ranking_Reactivacion_(valor 12m) =
+VAR v = [Monetary_12m]
+VAR t =
+    FILTER(
+        ADDCOLUMNS(
+            ALLSELECTED(DIM_Clientes[Cliente]),                 // ANTES: Analisis_Ventas[Cliente] -> todos salían en 1
+            "m12", CALCULATE([Monetary_12m]),
+            "ch",  CALCULATE([churn_flag])
+        ),
+        [ch] = 1 && NOT ISBLANK([m12])                          // churn y con compras en los últimos 12 meses
+    )
+RETURN
+IF(
+    HASONEVALUE(DIM_Clientes[Cliente]) &&
+    [churn_flag] = 1 &&
+    NOT ISBLANK(v),
+    RANKX(t, [m12], v, DESC, Dense)                             // mayor valor = 1
+)
