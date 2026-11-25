@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Totales_(serie)
+// Tabla  : Medidas_Serie
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Universo de clientes al corte de cada punto del eje (mes, trimestre...). Alimenta los minigráficos.
+// ---------------------------------------------------------------------
+
+Clientes_Totales_(serie) =
+VAR f_axis = MAX(DIM_Calendario[Fecha])
+RETURN
+COUNTROWS(
+    FILTER(
+        ALL(DIM_Clientes[Cliente]),
+        NOT ISBLANK([ultima_compra_cliente]) &&
+        [ultima_compra_cliente] <= f_axis
+    )
+)
