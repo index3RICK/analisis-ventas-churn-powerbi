@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : Fecha_Ref
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Fecha de corte del análisis. Nunca pasa de la última venta real.
+// Nota   : ANTES usaba TODAY(): el mismo reporte daba 5.23 % de retención un día y 0 % meses después. Ver docs/05_lecciones_aprendidas.md.
+// ---------------------------------------------------------------------
+
+Fecha_Ref =
+VAR ult_venta = CALCULATE(MAX(Analisis_Ventas[Fecha]), ALL(Analisis_Ventas))   // última fecha con ventas
+VAR fin_rango = MAX(DIM_Calendario[Fecha])                                     // fecha máxima del filtro/rango visible
+RETURN
+MIN(COALESCE(fin_rango, ult_venta), ult_venta)                                 // si no hay filtro, usa la última venta
