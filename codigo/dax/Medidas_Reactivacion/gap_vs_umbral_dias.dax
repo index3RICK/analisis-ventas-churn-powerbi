@@ -1,0 +1,16 @@
+// ---------------------------------------------------------------------
+// Medida : Gap_vs_umbral_(dias)
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Días que el cliente lleva por encima del umbral. Menor gap = cruzó hace poco = más fácil de reactivar.
+// Nota   : Solo existe para clientes en churn.
+// ---------------------------------------------------------------------
+
+Gap_vs_umbral_(dias) =
+VAR rec = [Recency_(dias)]
+VAR um  = [churn_umbral_dias_value]
+RETURN
+IF(
+    [churn_flag] = 1 && NOT ISBLANK(rec) && NOT ISBLANK(um),
+    rec - um                  // días que lleva "pasado" del umbral; solo existe para clientes en churn
+)
