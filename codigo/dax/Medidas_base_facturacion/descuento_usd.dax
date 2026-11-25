@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : descuento_usd
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1, 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Dinero descontado: Precio x Cantidad x Descuento, fila por fila.
+// ---------------------------------------------------------------------
+
+descuento_usd =
+SUMX(
+    Analisis_Ventas,
+    Analisis_Ventas[Precio] * Analisis_Ventas[Cantidad] * Analisis_Ventas[Descuento]
+)
