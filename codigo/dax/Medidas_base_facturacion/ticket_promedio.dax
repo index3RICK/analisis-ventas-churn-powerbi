@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : ticket_promedio
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Venta neta promedio por factura (una factura tiene varias filas).
+// Nota   : Usa ventas_netas (sin IVA).
+// ---------------------------------------------------------------------
+
+ticket_promedio =
+AVERAGEX(
+    VALUES(Analisis_Ventas[Factura]),
+    [ventas_netas]
+)
