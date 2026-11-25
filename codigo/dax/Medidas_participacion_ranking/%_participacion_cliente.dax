@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : %_participacion_cliente
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: % de clientes sobre el total absoluto (ALL: ignora segmentadores).
+// ---------------------------------------------------------------------
+
+%_participacion_cliente =
+DIVIDE(
+    [numero_clientes_unicos],
+    CALCULATE([numero_clientes_unicos], ALL(Analisis_Ventas))
+)
