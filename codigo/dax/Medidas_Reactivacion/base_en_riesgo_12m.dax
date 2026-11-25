@@ -1,0 +1,16 @@
+// ---------------------------------------------------------------------
+// Medida : Base_en_riesgo_12M
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Compras de los últimos 12 meses de los clientes en churn que sí compraron (29 clientes: $200,78 mil).
+// ---------------------------------------------------------------------
+
+Base_en_riesgo_12M =
+SUMX(
+    FILTER(
+        VALUES(DIM_Clientes[Cliente]),
+        [churn_flag] = 1 && NOT ISBLANK([Monetary_12m]) && [Monetary_12m] > 0
+        // Opcional: && [Filtro_Segmento_Reactivacion] = 1   (para que responda al segmentador de segmentos)
+    ),
+    [Monetary_12m]
+)
