@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : %_acum_pareto_clientes
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: % acumulado de la venta por cliente (curva 80/20).
+// ---------------------------------------------------------------------
+
+%_acum_pareto_clientes =
+DIVIDE(
+    [acum_ventas_cliente],
+    CALCULATE([ventas_totales], ALLSELECTED(Analisis_Ventas[Cliente]))
+)
