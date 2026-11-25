@@ -1,0 +1,13 @@
+// ---------------------------------------------------------------------
+// Medida : %_participacion_ventas
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: % de ventas sobre lo que el usuario está viendo (ALLSELECTED).
+// Nota   : También sirve para el "Pulso estacional": con el eje en trimestres da el % de ventas de cada trimestre.
+// ---------------------------------------------------------------------
+
+%_participacion_ventas =
+DIVIDE(
+    [ventas_totales],
+    CALCULATE([ventas_totales], ALLSELECTED(Analisis_Ventas))
+)
