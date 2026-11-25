@@ -1,0 +1,27 @@
+// =====================================================================
+// TABLA CALCULADA: DIM_CatMarca
+// ---------------------------------------------------------------------
+// Propósito : tabla "puente" con las combinaciones únicas de categoría y
+//             marca que existen en las ventas. Permite filtrar ventas por
+//             categoría Y por marca sin relaciones muchos-a-muchos.
+// Depende de: Analisis_Ventas[CatMarcaKey], [codigocategoria], [codMarca]
+//
+// RELACIONES
+//   DIM_Categoria[codigo]        1 -> * DIM_CatMarca[codigocategoria]
+//   DIM_Marca[codmarca]          1 -> * DIM_CatMarca[codMarca]
+//   DIM_CatMarca[CatMarcaKey]    1 -> * Analisis_Ventas[CatMarcaKey]
+//
+// POR QUÉ UNA CLAVE COMPUESTA
+//   Power BI solo relaciona por UNA columna. CatMarcaKey junta categoría y
+//   marca para poder enlazar con una sola columna.
+// =====================================================================
+
+DIM_CatMarca =
+DISTINCT(
+    SELECTCOLUMNS(
+        Analisis_Ventas,
+        "CatMarcaKey",     Analisis_Ventas[CatMarcaKey],
+        "codigocategoria", Analisis_Ventas[codigocategoria],
+        "codMarca",        Analisis_Ventas[codMarca]
+    )
+)
