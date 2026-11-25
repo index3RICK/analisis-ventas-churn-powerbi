@@ -1,0 +1,15 @@
+// =====================================================================
+// TABLA DE PARÁMETROS: Tasa_conversion
+// Panel   : 4 (control "Tasa Conversión", valor inicial 30 %)
+// ---------------------------------------------------------------------
+// Qué hace: supuesto de cuántos clientes en churn se espera recuperar.
+//           Es un supuesto de trabajo que se calibraría con un piloto.
+//
+// Cómo se creó: Modelado > Nuevo parámetro > Rango numérico (genera la
+// tabla y la medida). El código de abajo es el equivalente en DAX.
+// =====================================================================
+
+Tasa_conversion = GENERATESERIES(0.05, 0.60, 0.05)
+
+// Las medidas leen el valor así (0.30 = valor por defecto si no hay selección):
+//   SELECTEDVALUE(Tasa_conversion[Tasa_conversion], 0.30)
