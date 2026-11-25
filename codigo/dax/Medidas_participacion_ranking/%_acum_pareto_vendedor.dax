@@ -1,0 +1,12 @@
+// ---------------------------------------------------------------------
+// Medida : %_acum_pareto_vendedor
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: % acumulado de la venta por vendedor. Es la barra de "Fuerza de ventas (Ejecutivo)".
+// ---------------------------------------------------------------------
+
+%_acum_pareto_vendedor =
+DIVIDE(
+    [acum_ventas_vendedor],
+    CALCULATE([ventas_totales], ALLSELECTED(Analisis_Ventas[Vendedor]))
+)
