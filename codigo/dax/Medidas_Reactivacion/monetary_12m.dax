@@ -1,0 +1,15 @@
+// ---------------------------------------------------------------------
+// Medida : Monetary_12m
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Valor (con IVA) comprado por el cliente en los 12 meses anteriores a Fecha_Ref.
+// Nota   : Para decisiones de margen conviene usar ventas_netas (sin IVA): la base baja ~13 %.
+// ---------------------------------------------------------------------
+
+Monetary_12m =
+VAR f_ref = [Fecha_Ref]
+RETURN
+CALCULATE(
+    [ventas_totales],
+    DATESINPERIOD(DIM_Calendario[Fecha], f_ref, -12, MONTH)    // los 12 meses que terminan en la fecha de referencia
+)
