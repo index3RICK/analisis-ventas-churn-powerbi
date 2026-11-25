@@ -1,0 +1,9 @@
+// ---------------------------------------------------------------------
+// Medida : clientes_activos
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: clientes_totales - clientes_con_churn.
+// ---------------------------------------------------------------------
+
+clientes_activos =
+[clientes_totales] - [clientes_con_churn]
