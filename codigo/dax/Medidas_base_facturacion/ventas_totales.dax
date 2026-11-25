@@ -1,0 +1,10 @@
+// ---------------------------------------------------------------------
+// Medida : ventas_totales
+// Tabla  : Medidas_base_facturacion
+// Paneles: 1, 2, 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Venta total con IVA = ventas_netas + iva_usd. Es la medida principal del proyecto.
+// Nota   : Cifra de control con IVA 15 %: 2,082,843.02 sin filtros. Nunca uses la columna Total del archivo: viene calculada con 21 %.
+// ---------------------------------------------------------------------
+
+ventas_totales =
+[ventas_netas] + [iva_usd]
