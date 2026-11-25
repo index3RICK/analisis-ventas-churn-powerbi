@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------
+// Medida : acum_ventas_vendedor
+// Tabla  : Medidas_participacion_ranking
+// Paneles: 2   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Venta acumulada de los vendedores hasta la posición actual.
+// ---------------------------------------------------------------------
+
+acum_ventas_vendedor =
+VAR r = [ranking_ventas_vendedor]
+RETURN
+SUMX(
+    FILTER(
+        ALLSELECTED(Analisis_Ventas[Vendedor]),
+        [ranking_ventas_vendedor] <= r
+    ),
+    [ventas_totales]
+)
