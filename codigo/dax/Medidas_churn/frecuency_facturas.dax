@@ -1,0 +1,16 @@
+// ---------------------------------------------------------------------
+// Medida : Frecuency_Facturas
+// Tabla  : Medidas_churn
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: F de RFM: facturas distintas hasta la fecha de referencia.
+// ---------------------------------------------------------------------
+
+Frecuency_Facturas =
+VAR f_ref = [Fecha_Ref]
+RETURN
+CALCULATE(
+    DISTINCTCOUNT(Analisis_Ventas[Factura]),
+    KEEPFILTERS(                                           // respeta los filtros del visual y SUMA el de fecha
+        FILTER(ALL(DIM_Calendario[Fecha]), DIM_Calendario[Fecha] <= f_ref)
+    )
+)
