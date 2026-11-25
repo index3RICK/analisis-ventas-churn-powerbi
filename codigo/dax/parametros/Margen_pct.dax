@@ -1,0 +1,15 @@
+// =====================================================================
+// TABLA DE PARÁMETROS: Margen_%
+// Panel   : 4 (control "Margen %", valor inicial 20 %)
+// ---------------------------------------------------------------------
+// Qué hace: margen que se aplica al ingreso recuperable para obtener el
+//           valor recuperable (el tope de inversión en reactivación).
+//
+// Cómo se creó: Modelado > Nuevo parámetro > Rango numérico. El código de
+// abajo es el equivalente en DAX.
+// =====================================================================
+
+'Margen_%' = GENERATESERIES(0.05, 0.60, 0.05)
+
+// Las medidas leen el valor así (0.20 = valor por defecto si no hay selección):
+//   SELECTEDVALUE('Margen_%'[Margen_%], 0.20)
