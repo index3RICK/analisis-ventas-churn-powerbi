@@ -1,0 +1,19 @@
+// ---------------------------------------------------------------------
+// Medida : Clientes_Inactivos_(serie)
+// Tabla  : Medidas_Serie
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Clientes inactivos al corte de cada punto del eje. Alimenta "Clientes inactivos".
+// ---------------------------------------------------------------------
+
+Clientes_Inactivos_(serie) =
+VAR f_axis = MAX(DIM_Calendario[Fecha])
+VAR umbral = [churn_umbral_dias_value]
+RETURN
+COUNTROWS(
+    FILTER(
+        ALL(DIM_Clientes[Cliente]),
+        NOT ISBLANK([ultima_compra_cliente]) &&
+        [ultima_compra_cliente] <= f_axis &&
+        DATEDIFF([ultima_compra_cliente], f_axis, DAY) >= umbral
+    )
+)
