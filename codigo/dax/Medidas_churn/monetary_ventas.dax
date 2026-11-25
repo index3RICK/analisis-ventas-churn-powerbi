@@ -1,0 +1,16 @@
+// ---------------------------------------------------------------------
+// Medida : Monetary_Ventas
+// Tabla  : Medidas_churn
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: M de RFM: valor comprado hasta la fecha de referencia.
+// ---------------------------------------------------------------------
+
+Monetary_Ventas =
+VAR f_ref = [Fecha_Ref]
+RETURN
+CALCULATE(
+    [ventas_totales],
+    KEEPFILTERS(
+        FILTER(ALL(DIM_Calendario[Fecha]), DIM_Calendario[Fecha] <= f_ref)
+    )
+)
