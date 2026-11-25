@@ -1,0 +1,10 @@
+// ---------------------------------------------------------------------
+// Medida : churn_%
+// Tabla  : Medidas_churn
+// Paneles: 3   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Porcentaje de abandono = clientes_con_churn / clientes_totales.
+// Nota   : Con umbral 120: 88.95 % (153 de 172).
+// ---------------------------------------------------------------------
+
+churn_% =
+DIVIDE([clientes_con_churn], [clientes_totales])      // DIVIDE evita el error de división entre 0
