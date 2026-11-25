@@ -1,0 +1,10 @@
+// ---------------------------------------------------------------------
+// Medida : CPA_Maximo_permitido_(break_even)
+// Tabla  : Medidas_Reactivacion
+// Paneles: 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: Costo máximo por cliente recuperado para no perder dinero: valor recuperable / clientes esperados (~$1,38 mil).
+// Nota   : En el .pbix puede llamarse CPA_Maximo_permitido_(break_raven). Con esta definición el CPA no depende de la conversión (se cancela): = base x margen / clientes objetivo.
+// ---------------------------------------------------------------------
+
+CPA_Maximo_permitido_(break_even) =
+DIVIDE([Valor_Recuperable_Potencial], [Clientes_convertidos_Esperados], 0)
