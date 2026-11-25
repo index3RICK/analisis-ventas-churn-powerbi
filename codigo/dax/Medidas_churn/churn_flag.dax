@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------
+// Medida : churn_flag
+// Tabla  : Medidas_churn
+// Paneles: 3, 4   (1 Cuadro de mando, 2 Detalle de ventas, 3 Abandono, 4 Reactivación)
+// Qué hace: 1 si el cliente está en churn (recencia >= umbral), 0 si está activo. Se evalúa cliente por cliente.
+// Nota   : >= significa que exactamente el umbral ya cuenta como churn.
+// ---------------------------------------------------------------------
+
+churn_flag =
+VAR umbral = [churn_umbral_dias_value]
+VAR dias   = [Recency_(dias)]
+RETURN
+IF(
+    NOT ISBLANK(dias) && dias >= umbral,      // >= : exactamente el umbral (p. ej. 120 días) YA cuenta como churn
+    1,
+    0
+)
